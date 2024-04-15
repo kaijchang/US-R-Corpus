@@ -1,0 +1,526 @@
+108
+
+OCTOBER TERM, 1944.
+
+Counsel for Parties.
+
+324 U. S.
+
+FIDELITY-PHILADELPHIA TRUST CO. ET AL., EXECUTORS, v. ROTHENSIES, COLLECTOR OF INTERNAL REVENUE.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE THIRD CIRCUIT.
+No. 263. Argued January 4, 5, 1945.-Decided February 5, 1945.
+Decedent made a transfer of property in trust to pay the income to herself for life, thence to her two daughters, with remainders to the daughters' surviving descendants; but if both daughters should die without descendants surviving, the corpus was to go to such persons as the decedent should appoint by will. Decedent exercised the power of appointment by will and predeceased the daughters. Held: 1. The transfer was "intended to take effect in possession or enjoyment at or after (decedent's) death," within the meaning of § 302 (c) of the Revenue Act of 1926. P. 110. 2. The value at the date of the death of the decedent of the entire corpus of the trust was includible in the gross estate of the decedent for the purpose of the estate tax under the 1926 Act. P. 111. Under § 302 (c) the taxable gross estate must include those property interests the ultimate possession and enjoyment of which is held in suspense until the moment of the grantor's death or thereafter. 3. There was no basis for deduction from the decedent's gross estate of the values of the estates of the daughters or their descendants. P. 112.
+142 F. 2d 838, affirmed.
+CERTIORARI, 323 U. S. 693, to review the affirmance of a judgment denying recovery in a suit for refund of federal estate taxes.
+Mr. C. Russell Phillipsfor petitioners.
+Mr. L. W. Post, with whom Solicitor GeneralFahy, Assistant Attorney General Samuel 0. Clark, Jr., Messrs. Sewall Key and J. Louis Monarch were on the brief, for respondent.
+
+FIDELITY CO. v. ROTHENSIES.
+
+108
+
+Opinion of the Court.
+
+MR. JUSTIcE MURPHY delivered the opinion of the Court.
+Our attention here is directed toward the proper valuation for federal estate tax purposes of the corpus of an inter vivos trust where the transfer was intended to take effect in possession or enjoyment at or after death and where the settlor retained a life estate in the trust income and a reversionary interest in the corpus.
+On March 26, 1928, the decedent, Anna C. Stinson of Bryn Mawr, Pa., transferred certain property in trust, the value of which at the time of her death was $84,443.49. The income of the trust was to be paid to the settlor during her life and at her death to her daughters (aged 12 and 10 at the time of the creation of the trust) during their respective lives. At the death of each daughter, the corpus supporting her share of the income was to be paid to her descendants. If either daughter died without leaving surviving descendants, the corpus of her share was to
+be added to the share of the other daughter or of the surviving descendants of the other daughter. But if both daughters died without leaving surviving descendants, the corpus was to be paid to such persons as the settlor might appoint by will. In default of such appointment, the corpus was to go to certain named charities.
+The decedent exercised the power of appointment in a will made in 1930. She died in 1934 at the age of 51, leaving two unmarried daughters. The latter have subsequently married and both have children.
+The Commissioner determined that this arrangement was a transfer in trust intended to take effect in possession or enjoyment at or after death within the meaning of § 302 (c) of the Revenue Act of 1926, 44 Stat. 9, 70, and that the net value of all the property comprising the corpus of the trust should be included in the decedent's gross estate for estate tax purposes. The executors, however, denied that the transfer fell within the meaning of
+
+OCTOBER TERM, 1944.
+Opinion of the Court.
+
+324 U. S.
+
+§ 302 (c); they further claimed that even if § 302 (c) did apply the value of the life estates of the settlor's daughters and the value of the remainders to their surviving descendants should be deducted from the value of the trust assets for tax purposes.
+The executors paid a tax on the full value of the trust assets and filed this claim for refund of the tax. The District Court denied recovery and the court below affirmed. 142 F. 2d 838. Conflict with Field's Estate v. Commissioner, 144 F. 2d 62, led us to grant certiorari limited to the question of whether the entire value of the corpus of the trust at the time of decedent's death should have been included in the decedent's gross estate.
+The courts below, utilizing the principles set forth in Klein v. United States, 283 U. S. 231, and Helvering v. [allock, 309 U. S. 106, correctly held that the decedent's transfer in trust in 1928 was one intended to take effect in possession or enjoyment at or after death within the meaning of § 302 (c) of the Revenue Act of 1926, prior to the amendments of 1931 and 1932. While the matter of valuation was not argued and was not directly in issue in those cases, the inescapable consequence of the prin-
+ciples enunciated there and in the dissenting opinion in Helvering v. St. Louis Union Trust Co., 296 U. S. 39, 46, is to include the entire trust corpus in the gross estate of the decedent under these circumstances.
+Section 302 (c) itself provides for the inclusion within the gross estate of property "to the extent of any interest therein of which the decedent has at any time made a transfer, by trust or otherwise, in contemplation of or intended to take effect in possession or enjoyment at or after his death." As we said in Helvering v. Hallock, supra, 110, 111, this provision "deals with property not technically passing at death but with interests theretofore created. The taxable event is a transfer inter vivos. But
+
+FIDELITY CO. v. ROTHENSIES.
+
+108
+
+Opinion of the Court.
+
+the measure of the tax is the value of the transferred property at the time when death brings it into enjoyment." Cf. Reinecke v. Northern Trust Co., 278 U. S. 339, 347. The taxable gross estate, in other words, must include those property interests the ultimate possession or enjoyment of which is held in suspense until the moment of the grantor's death or thereafter.
+Tested by that standard, the entire corpus of the trust should have been included in the decedent's gross estate and an estate tax levied on its net value at the date of decedent's death. The ultimate disposition of all the trust property was suspended during the life of the decedent. Only at or after her death was it certain whether the property would be distributed under the power of appointment or as provided in the trust instrument. The life estates of the daughters were contingent upon their
+surviving their mother and took effect in enjoyment only at the death of the latter. The remainder interests of the descendants of the daughters were contingent upon their surviving both the decedent and the daughters and took effect in possession only after the death of the decedent. Thus until the moment of her death or until an undetermined time thereafter the decedent held a string or contingent power of appointment over the total corpus of the trust. The retention of such a string, which might have resulted in altering completely the plan contemplated by the trust instrument for the transmission of decedent's property, subjected the value of the entire corpus to estate
+tax liability. It is fruitless to speculate on the probabilities of the
+property being distributed under the contingent power of appointment. Indeed, such speculation is irrelevant to the measurement of estate tax liability. The application of this tax does not depend upon "elusive and subtle
+cauistries." Helvering v. Hatlock, supra, 118. No more
+
+OCTOBER TERM, 1944.
+
+DOUGLAS, J., concurring.
+
+-324 U. S.
+
+should the measure of the tax depend upon conjectures as to the propinquity or certainty of the decedent's reversionary interests. It is enough if he retains some contingent interest in the property until his death or thereafter, delaying until then the ripening of full dominion over the property by the beneficiaries. The value of the property subject to the contingency, rather than the actuarial or theoretical value of the possibility of the occurrence of the contingency, is the measure of the tax. That value is demonstrated by the consequences that would flow in this instance from the decedent's survival of her daughters and any of the latter's surviving descendants.
+We are not concerned here with determining whether the values of any property interests or intervening estates not affected by the decedent's death and not subject to the contingent power of appointment should be deducted from the value of the corpus. The value of the life estate retained by the decedent obviously cannot be deducted. And the life estates of the daughters and the remainder interests of their surviving descendants were all subject to divestment by the contingent power of appointment and were freed from this contingency only at or after the decedent's death. There is thus no basis for deducting their values as suggested by petitioners.
+Affirmed.
+MR. JUSTICE DOUGLAS, concurring.
+The District Court found that this trust was "intended to take effect in possession or enjoyment at or after" the death of the decedent. The Circuit Court of Appeals agreed. Certiorari was not granted on that question but only on the question whether the entire value of the corpus of the trust at the time of decedent's death should be included in her gross estate. So in this case, as in Commissioner v. Estate of Field, post, p. 113, we are
+
+COMMiSSIOINtR v. EISTArrE OF iELD. 113
+
+108
+
+Syllabus.
+
+not faced with the question whether May v. Heiner, 281 U. S. 238, should survive Helvering v. Hallock, 309 U. S. 106. On the findings of the District Court, it is plain that the entire corpus must be included in decedent's gross estate by virtue of § 302 (c) of the 1926 Act unless the value of the life estate must be deducted. The value of the life estate deducted in the Hallock case was the life estate in the settlor's wife. It was excluded because it took effect in possession or enjoyment when the trust was created. The life estate which the decedent reserved to herself is obviously in a different category. It is not an "outstanding life estate" within the meaning of Treasury Regulations 80, Art. 17.
+I would rest the decision there and reserve judgment on the other questions adverted to in the opinion of the Court.
+
+COMMISSIONER OF INTERNAL REVENUE v. ESTATE OF FIELD.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.
+No. .578. Argued January 5, 1945.-Decided February 5, 1945.
+1. Decedent made a transfer of property in trust limited in duration to the lives of two nieces. If decedent survived both nieces the corpus was to go to the decedent rather than to the beneficiaries named in the trust instrument. The nieces survived the decedent. Held that, under § 302 (c) of the Revenue Act of 1926, the value of the entire corpus of the trust property at the death of the decedent was includible in the gross estate for the purpose of the federal estate tax. Fidelity-PhiladelphiaTrust Co. v. Rothensies, ante, p. 108. P. 115.
+2. Since the corpus of the trust did not shed the possibility of reversion until the decedent's death, the value of the entire corpus on the date of death was taxable under § 302 (c). P. 116.
+144 F. 2d 62, reversed.
+
+OCTOBER TERM, 1944. Counsel for Parties.
+
+325 U. S.
+
+COMMISSIONER OF INTERNAL REVENUE v. DISSTON.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE THIRD CIRCUIT.
+No. 589. Argued April 24, 1945.-Decided June 4, 1945.
+1. Irrevocable trusts for the benefit of minors provided for accumulation of the income from each beneficiary's share until he reached the age of 21; for payment of the income thereafter during his lifetime; and for ultimate distribution of the corpus contingently. The trustees were authorized to apply, during the minority of any beneficiary, so much of the income from his share "as may be necessary" for his support, education and comfort; and to expend up to 10% of the corpus in an "emergency." Held that gifts to the trusts were of "future interests," within the meaning of § 504 (b) of the Revenue Act of 1932 and applicable Treasury Regulations, so that in computing the gift tax the $5,000 exclusion prescribed by that section was not allowable. Fondren v. Commissioner, 324 U.S. 18. P. 447.
+2. A taxpayer claiming benefit of the $5,000 exclusion in computing a gift tax under § 504 (b) of the Revenue Act of 1932 has the burden of showing that the gift to which the claim relates was not of a "future interest." P. 449.
+3. In computing the gift tax pursuant to the formula prescribed by § 502 of the Revenue Act of 1932, an adjustment may be made in the net gift figure for an earlier year, even though assessment and collection of a gift tax for such earlier year be barred by limitations. P. 449.
+144 F. 2d 115, reversed.
+CERTIORARI, 324 U. S. 832, to review the reversal of a decision of the Tax Court which sustained the Commissioner's determination of deficiencies in gift taxes.
+Mr. J. Louis Monarch, with whom Solicitor General Fahy, Assistant Attorney General Samuel 0. Clark, Jr., Messrs. Sewall Key and Robert Koerner were on the brief, for petitioner.
+Mr. Harold Evans for respondent.
+
+COMMISSIONER v. DISSTON.
+
+442
+
+Opinion of the Court.
+
+MR. JUSTICE RUTLEDGE delivered the opinion of the
+Court.
+This case, like Fondrenv. Commissioner,324 U. S. 18,
+presents questions whether certain gifts to minors are gifts of "future interests in property," within the meaning
+of the Revenue Act of 1932, c. 209, 47 Stat. 169. In 1936 the respondent, William D. Disston, created a
+trust for the benefit of each of his five children, three of whom were then minors. The total of his gifts that year was $71,952. The Commissioner allowed an exemption of $5,000 on each gift for the children and on one to his wife. The taxpayer also was allowed the specific exemption of $40,000 provided by §505 of the Revenue Act of 1932, as amended by § 301 (b) of the Revenue Act of 1935. The net gifts for 1936 accordingly were computed to be $1,952, upon which a tax was assessed and paid.
+In 1937 the taxpayer added to the corpus of the trust securities valued at $25,000, of which $5,000 was allocated to each child's interest, including the three who were still minors. In 1938 he created another trust for his five children, the corpus consisting of undeveloped land worth $38,581. Two of the children still were minors.
+The two trusts were identical in all respects now material. The principal was divided into five equal shares, one for each child. The trusts were of the spendthrift variety. All shares of the corpus and income were to be free from "anticipation, assignment, pledge, or obligations of beneficiaries," as well as execution or attachment. The shares of the minors alone are now involved. Hence the nature of the trust as applicable to them only need be considered.
+The taxpayer's son, William L. Disston, was nineteen in 1936 when the first trust was created. As to his share the trustees were directed, in the Second Article, "to accumulate the net income therefrom for the benefit of William L. Disston until he reaches the age of twenty-one years, at which time to pay over to him all accumulated income,
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+325 U. S.
+
+and thereafter to pay over to him in not less than quarterly instalments the entire net income derived therefrom during his lifetime; provided, however, that upon his reaching the age of forty-five years one-half of the principal of his share shall be paid over to him free and discharged of all trusts; and upon further trust upon his death whether before or after reaching the age of fortyfive years, to divide the principal of his share, or such portion thereof as is then held by the Trustees, among his then living descendants . . .in such amounts as he shall by will appoint, and in default of such appointment, to divide the same equally per stirpes," with provision for division among the taxpayer's other children and their descendants if no descendant of the beneficiary should ,hen be living. The Article contains a proviso that if the -axpayer's son should die before reaching forty-five, the son may appoint to his spouse for a period no longer than her life not more than one-half of the income from his
+share of the corpus. Identical provisions were made for the two *minor
+daughters, except that they were to obtain only one-third of the corpus at age forty-five and could appoint to their spouses only one-third of the income.
+A subsequent paragraph provided that the trustees should hold the minors' shares during their respective minorities, "and during such time shall apply such income
+therefrom as may be necessary for the education,- comfort and support of the respective minors, and shall accumulate for each minor until he or she reaches the age of twenty-one years, all income not so needed. The foregoing clause shall apply to minor children of the Settlor irrespective of the direction heretofore set forth to accumulate all income for such minors."
+In addition the Fourth Article, which defined the .trustees' powers, authorized them "to apply the income to
+which any beneficiary shall be entitled hereunder for the
+
+COMMISSIONER v. DISSTON.
+
+442
+
+Opinion of the Court.
+
+maintenance, education, and support of such beneficiary should he or she by reason of age, illness, or any other cause in the opinion of the Trustees be incapable of dispensing it. Payment by the Trustees to the parent of any minor . . . shall be sufficient acquittance and discharge to the Trustees for such payment or payments."
+Finally, the trustees were authorized to invade the corpus in an emergency: "To expend out of the share of principal from which any beneficiary may be receiving income under this deed of trust such sums as Trustees may consider to be for the best interests of such benefi-
+ciaries during illness or emergency of any kind; provided, however, that in no case shall such expenditures of principal exceed in the aggregate ten percent (10%) of the value of such share of principal . . ."
+In operation the 1938 trust of unimproved realty had produced no net income to the time the case came before the Tax Court. Most of the 1936 income of the first trust, $288 for each minor, was paid to the mother of the beneficiaries. In 1937 partial payments of income, $94 per minor child, were made. The beneficiaries' mother returned other checks to the corporate trustee in 1937, and one of the individual trustees, an adult child of the taxpayer, directed the corporate trustee thereafter to accumulate the income of the minors. No further payments of income were made to any child prior to his becoming of age.
+In determining the taxpayer's gift tax for 1937 the Commissioner disallowed three $5,000 exclusions from the net gifts for that year on the ground that the gifts to the three minor children were gifts of future interests. For 1938 the Commissioner disallowed two $5,000 exclusions on the ground that the gifts made that year to the two children who were still minors were gifts of future interests.
+In computing the gift tax for 1937 and 1938 it was necessary for the Commissioner to compute the aggregate
+
+446
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+325 U. S.
+
+sum of the net gifts for the preceding years.' The Commissioner, in determining the net gifts made for this purpose by the 1936 trust, adjusted the exclusions which he had allowed in 1936 to the extent of $5,000 for each of the three minors. The period of limitations for assessment and collection of 1936 gift taxes had run.2
+The Tax Court upheld the Commissioner, but the
+Court of Appeals reversed, holding no future interests arose as a result of the gifts to the minors. Consequently it was unnecessary for the Court of Appeals to consider whether the statute of limitations barred readjustment of the net gift figure for 1936 or simply barred collection of any further gift taxes for that year.
+The guiding principles were outlined recently in Fondren v. Commissioner, 324 U. S. 18. Gifts of "future interests," within the meaning of § 504 (b), to any person are not excluded from the computation of net gifts to the extent of the first $5,000 in value, as are present interests. Treasury Regulations 79 (1936 ed.), Article 11, defines "future interests" as interests "limited to commence in use, possession, or enjoyment at some future date or time. . . ." The definition has been approved repeatedly. Cf. Ryerson v. United States, 312 U. S. 405; United States v. Pelzer, 312 U. S. 399; Fondrenv. Commissioner, 324 U. S. 18.
+1The formula results in a progressive rate of gift taxation, not limited to progression within the calendar year, but extending over the life of the donor. The computation formula is set forth in § 502 of the Revenue Act of 1932:
+"The tax for each calendar year shall be an amount equal to the
+excess of"(1) a tax, computed in accordance with the Rate Schedule here-
+inafter set forth, on the aggregate sum of the net gifts for such calendar year and for each of the preceding calendar years, over
+"(2) a tax, computed in accordance with the Rate Schedule, on the aggregate sum of the net gifts for each of the preceding calendar
+years. 2 See § 517 (a) of the Revenue Act of 1932.
+
+COMMISSIONER v. DISSTON.
+
+442
+
+Opinion of the Court.
+
+Clearly the corpus of the trusts falls within the definition. Distribution to William L. Disston, for example, has no relation to his reaching his majority, which he has now attained. He must live to attain the age of forty-five to enable him to receive one-half of the corpus. If he does not reach that age, his estate receives no part of the principal. The recipients are an undetermined group designated in the trust provision, among whom the beneficiary has a limited power of appointment. At the time of the gifts in 1936-1938 it was unknown who in fact would receive this one-half interest. Obviously the enjoyment was postponed.
+As to the other half in William L. Disston's share, it likewise was unknown who would enjoy the corpus. One thing only was known, that the named child could not enjoy it. He would continue to receive the income from it for his life, but the principal was not given to him. The possibility that in an emergency the trustees might invade the corpus to the extent of ten per cent for his benefit did not confer a present interest in that part of the principal. The emergency by definition was extraordinary,
+something that might or might not occur at some indefinite future time. No present, certain and continuous enjoyment was contemplated, nor did it materialize.
+What has been said of the one minor is true of the others. The question must be determined whether the trusts
+provided for a present interest in the trust income, or some definable portion of it. The first direction of each trust is to accumulate the net income until the minor reaches twenty-one. If that were all, it would again be clear that a future interest was created by the postponement of enjoyment. A later paragraph directs the trustees, however, "to apply . . . such income therefrom as may be necessary for the education, comfort and support of the respective minors" and to accumulate the
+remainder.
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+325 U. S.
+
+Respondent urges that this case differs from the Fon-
+dren case in that there the trust instrument showed that it was not contemplated that the income would be needed
+for education and support; and the trustee was directed to accumulate the income unless no other funds were available for such purposes, whereas here there is nothing in the trust instrument to indicate such an intent. In fact, respondent argues, the trust instrument means that the trustees must apply an amount of the income suffi-
+cient to provide for education, comfort and support, even though the minor is amply cared Aor by his parents, his own efforts, or other sources of revenue, citing 1 Scott, Trusts, § 128.4 and other authorities. When faced with the fact that the history of the trust's administration shows a practical construction by the trustees that support money need not automatically be paid over, respondent urges that the terms of the trust and the nature of the interest granted cannot be varied by what was subsequently done in administration.
+The language of the trust instruments directs that the income be accumulated during minority. The subsequent provision for payments for maintenance and support may be said to indicate a departure from the policy of accumulation only when necessary, in the reasonable discretion of the trustees. If that is the appropriate interpretation of the trust instruments, then little difference from the Fondren case is involved. Even in its practical working, the trustees did not find the necessary prerequisites for a steady application of all or any ascertainable part of the income for education, support and maintenance.
+But, even though the trustees were under a duty to apply the income for support, irrespective of outside sources of revenue, there is always the question how much, if any, of the income can actually be applied for the permitted purposes. The existence of a duty so to apply the income gives no clue to the amount that will be
+
+COMMISSIONER v. DISSTON.
+
+442
+
+Opinin of the Court.
+
+needed for that purpose, or the requirements for maintenance, education and support that were foreseeable at the time the gifts were made. In the absence of some indication from the face of the trust or surrounding circumstances that a steady flow of some ascertainable portion of income to the minor would be required, there is no basis
+for a conclusion that there is a gift of anything other than for the future. The taxpayer claiming the exclusion must assume the burden of showing that the value of what he claims is other than a future interest. Cf. New Colonial Co. v. Helvering,292 U. S. 435. That burden has not been
+satisfied in this case. The question remains whether the adjustment of net
+gifts for 1936 in computing 1937 and 1938 tax liability is
+barred by the statute of limitations. As has been noted, § 502 requires utilization of "the aggregate sum of the net gifts for each of the preceding calendar years" in the for-
+mula for computing gift tax liability. Section 517 (a) does not purport to bar adjustment of the net gift figure for that purpose, but simply prevents assessment and collection of a tax for a year barred by the statute. The statute does not purport to preclude an examination into events of prior years for the purpose of correctly determining gift tax liability for years which are still open. The Tax Court and Treasury Regulations have construed § 517 (a) as requiring determination of the true and correct aggregate of net gifts for previous years.3 The construction is in accord with the statutory language.
+Accordingly, the judgment is Reversed.
+8 The pertinent Treasury Regulations 79, Article 5 provides:
+..By the words 'aggregate sum of the net gifts for each of the preceding calendar years' (aside from the amount of the specific exemption deductible) is meant the true and correct aggregate of such net gifts, not necessarily that returned for such years and in respect to which tax was paid ... ." See also Winterbotham v. Commissioner, 46 B. T. A. 972; Wallerstein v. Commissioner, 2 T. C. 542; Roberts v. Commissioner,2 T. C. 679.
+
+COMMiSSIOINtR v. EISTArrE OF iELD. 113
+
+108
+
+Syllabus.
+
+not faced with the question whether May v. Heiner, 281 U. S. 238, should survive Helvering v. Hallock, 309 U. S. 106. On the findings of the District Court, it is plain that the entire corpus must be included in decedent's gross estate by virtue of § 302 (c) of the 1926 Act unless the value of the life estate must be deducted. The value of the life estate deducted in the Hallock case was the life estate in the settlor's wife. It was excluded because it took effect in possession or enjoyment when the trust was created. The life estate which the decedent reserved to herself is obviously in a different category. It is not an "outstanding life estate" within the meaning of Treasury Regulations 80, Art. 17.
+I would rest the decision there and reserve judgment on the other questions adverted to in the opinion of the Court.
+
+COMMISSIONER OF INTERNAL REVENUE v. ESTATE OF FIELD.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.
+No. .578. Argued January 5, 1945.-Decided February 5, 1945.
+1. Decedent made a transfer of property in trust limited in duration to the lives of two nieces. If decedent survived both nieces the corpus was to go to the decedent rather than to the beneficiaries named in the trust instrument. The nieces survived the decedent. Held that, under § 302 (c) of the Revenue Act of 1926, the value of the entire corpus of the trust property at the death of the decedent was includible in the gross estate for the purpose of the federal estate tax. Fidelity-PhiladelphiaTrust Co. v. Rothensies, ante, p. 108. P. 115.
+2. Since the corpus of the trust did not shed the possibility of reversion until the decedent's death, the value of the entire corpus on the date of death was taxable under § 302 (c). P. 116.
+144 F. 2d 62, reversed.
+
+114
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+324 U. S.
+
+CERTIORARI, 323 U. S. 704, to review the reversal of a decision of the Tax Court, 2 T. C. 21, which sustained the Commissioner's determination of a deficiency in estate
+taxes.
+
+Mr. L. W. Post, with whom SolicitorGeneralFahy,Assistant Attorney General Samuel 0. Clark, Jr., Messrs. Sewall Key and J. Louis Monarch were on the brief, for petitioner.
+
+Mr. Edgar J. Bernheimer, with whom Mr. Harry T. Zucker was on the brief, for respondent.
+
+Mr. Charles Angulo, as amicus curiae, filed a brief on behalf of the estate of John C. Duncan.
+
+MR. JusTICE MURPHY delivered the opinion of the Court.
+This is a companion case to Fidelity-PhiladelphiaTrust Co. v. Rothensies, ante,p. 108. It too presents a question as to the proper valuation of the corpus of an inter vivos trust under § 302 (c) of the Revenue Act of 1926, 44 Stat. 9, 70.
+On June 8, 1922, the decedent transferred to a trustee certain assets valued at the date of his death at the sum of $157,452.82. The material portions of the trust provided:
+1. The trust was to continue for the joint lives of two nieces and the life of the survivor of them unless terminated earlier under 4, infra.
+2. The income was to be paid to the decedent for his life unless the trust terminated before his death.
+3. If the decedent died prior to the termination of the trust leaving issue, the trust property was to be held in trust for the children or their issue, subject to decedent's right to reduce or cancel the amounts of the gifts by will or written instrument. Provisions were also made for a
+
+COMMISSIONER v. ESTATE OF FIELD. 115
+
+113
+
+Opinion of the Court.
+
+$150,000 trust for the widow which is not in issue in this case.
+4. During the continuance of the trusts the income was to be paid to the beneficiary named and upon the death of the beneficiary during the continuance of the trust the corpus was to be paid to the beneficiary's issue surviving, but if there be none, to the issue of the decedent surviving; if none, then to decedent's brother or sister or their
+issue. 5. Upon termination of the trust before the death of the
+decedent the corpus was to be paid over to decedent. 6. Upon termination of the trust after the death of the
+decedent but during the existence of any trust the corpus was to be paid to the life beneficiary.
+The decedent at no time had any issue. At his death in 1937 at the age of 52, he was survived by the two nieces whose lives were to measure the maximum life of the trust. These nieces were then aged 18 and 25 respectively. He was also survived by his widow, a sister and issue of a deceased brother.
+The Tax Court held that the entire amount of $157,452.82 was includable in the gross estate for purposes of the estate tax. 2 T. C. 21. But the court below reversed and remanded the case to the Tax Court with directions to include in the gross estate only $24,930.76-the value
+at the time of decedent's death of a remainder in the sum of $157,452.82 payable at all events upon the death of the survivor of two females, aged 18 and 25 respectively. 144 F. 2d 62.
+The error of the court below is self-evident from our discussion in the Fidelity-PhiladelphiaTrust Co. case. The trust here was limited in duration to the lives of the decedent's two nieces. But if both nieces died before the decedent, the corpus would have been paid to the decedent rather than to the beneficiaries named in the trust instrument (in this instance the decedent's sister and the
+
+OCTOBER TERM, 1944.
+
+DOUGLAS, J., concurring.
+
+324 U. S.
+
+issue of his deceased brother). Thus until decedent's
+death it was uncertain whether any of the corpus would pass to the beneficiaries dr whether it would revert to the decedent. Decedent retaining a string attached to all the property until death severed it, the entire corpus was swept into the gross estate and was taxable accordingly.
+There is no basis evident for deducting the value of the corpus for the period of the life expectancies of the two measuring lives, as was done by the court below. The estate tax is not based on the value of the reversionary interest of the decedent at the time of his death but on the value at the time of his death of the property to which that reversionary interest relates. It makes no difference how vested may be the remainder interests in the corpus or how remote or uncertain may be the decedent's reversionary interest. If the corpus does not shed the possibility of reversion until at or after the decedent's death, the value of the entire corpus on the date of death is taxable.
+Reversed.
+MR. JUSTICE DOUGLAS, concurring.
+If the trust gave a life estate to the decedent and the remainder to his children, § 302 (c) of the 1926 Act would not require the payment of a tax under the rule of May v. Heiner, 281 U. S. 238; Burnet v. Northern Trust Co., 283 U. S. 782; McCormick v. Burnet, 283 U. S. 784; and Hassett v. Welch, 303 U. S. 303. The theory of May v. Heiner was that under those circumstances no interest in the property passed from the grantor to the remainderman on the grantor's death, since the title of the remainderman had been definitely fixed by the trust deed. We need not determine whether the rule of May v. Heiner should survive Helvering v. Hallock, 309 U. S. 106. See Paul, Federal Estate & Gift Taxation (1942) § 7.15. For
+
+HERB v. PITCAIRN.
+
+113
+
+Counsel for Parties.
+
+in this case the grantor retained the right to reduce or cancel by will or written instrument the interests of the children; and the corpus would have been returned to the grantor if he survived his nieces. Hence it seems plain that the gifts over would take effect in possession or enjoyment only at or after the death of the grantor.
+
+HERB v. PITCAIRN ET AL., RECEIVERS FOR WABASH RAILWAY CO.
+NO. 24. CERTIORARI TO THE SUPREME COURT OF ILLINOIS.*
+Argued October 17, 18, 1944.-Decided February 5, 1945.
+The records in these cases under the Federal Employers' Liability Act being ambiguous as to whether the state court judgments of dismissal rest on a federal ground or on an adequate state ground, it is appropriate in the circumstances that the causes be continued for such period as will enable counsel for petitioners with all convenient speed to apply to the state court for amendment, or certificate, which will show whether that court intended to rest the judgments on an adequate and independent state ground or whether decision of the federal question was necessary to the judgments rendered. P. 128.
+384 Ill. 237, 281, 51 N. E. 2d 277, 282, considered.
+CERTIORARI, 321 U. S. 759, to review judgments affirming dismissals of two suits under the Federal Employers' Liability Act.
+Mr. Roberts P. Elam, with whom Mr. Mark D. Eagleton was on the brief, for petitioners.
+Mr. Bruce A. Campbell, with whom Messrs. Carleton
+S. Hadley, Geo. D. Burroughs,James A. Farmerand Wal-
+ton Whitwell were on the brief, for respondents.
+*Together with No. 25, Belcher v. Louisville & Nashville Railroad Co., also on certiorari to the Supreme Court of Illinois.
+637582'--46- 12
+
+18
+
+OCTOBER TERM, 1944.
+
+Counsel for Parties.
+
+324 U. S.
+
+FONDREN ET AL. v. COMMISSIONER OF INTERNAL REVENUE.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT.
+No. 88. Argued December 11, 12, 1944.-Decided January 29,1945.
+1. Irrevocable trusts for the benefit of minors provided for distribution of specified percentages when the beneficiaries reached the ages of 25 and 30 and of the remainder when they reached 35. The trustee was authorized to apply income and corpus toward maintenance and education of the beneficiaries if, contrary to expectations, necessity therefor should arise. Held that gifts to the trusts were gifts of "future interests in property," within the meaning of § 504 (b) of the Revenue Act of 1932 and Treasury Regulations 79, so that the $5,000 exclusion prescribed by that section was not allowable. P. 24.
+2. To bring the statutory exclusion into force, it is not enough that the donee has acquired vested rights; he must have the right presently to use, possess, or enjoy the property. P. 20.
+3. The fact that the beneficiary is specified and in esse, or that the amount of the gift is definite and certain, does not render the statutory exclusion applicable, where enjoyment of the property is postponed. P. 26.
+4. Section 504 (b) makes no distinction between gifts for the benefit of minors and gifts to adults. P. 28.
+5. It does not follow from the result here reached that the statutory exclusion would not be applicable in any case to gifts for the benefit of minors. P. 29.
+6. A settled construction of a statute, which Congress has reenacted, should be followed. P. 29.
+141 F. 2d 419, affirmed.
+CERTIORARI, 323 U. S. 685, to review the affirmance of a decision of the Tax Court, 1 T. C. 1036, sustaining the Commissioner's assessment of a deficiency in gift taxes.
+Mr. W. M. Cleaves, with whom Mr. E. E. Townes was on the brief, for petitioners.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+Mr. J. Louis Monarch, with whom Solicitor General Fahy, Assistant Attorney General Samuel 0. Clarke, Jr. and Mr. Sewall Key were on the brief, for respondent.
+
+MR. JUSTICE RUTLEDGE delivered the opinion of the Court.
+In 1935, 1936 and 1937 petitioner, Ella F. Fondren, and her husband, since deceased, created seven separate irrevocable trusts, each in favor of a grandchild of tender years; and each of them made gifts to each trust of corporate stock having the fair market value of $5,975. The donors made gift tax returns for 1937, claiming the statutory exclusion of $5,000 for each gift, and accordingly reported taxable gifts for each trust of $975. Gift taxes were paid on this basis.
+The Commissioner made deficiency assessments, disallowing the exclusions on the ground that the gifts Were of "future interests in property" within the meaning of the Revenue Act of 1932, c. 209, 47 Stat. 169, and Treasury Regulations 79 (1936 ed.). 1 The Tax Court upheld the Commissioner, the cases being consolidated for hearing and decision. 1 T. C. 1036. The Circuit Court of Appeals affirmed the Tax Court's decision, one judge dissenting. 141 F. 2d 419. Certiorari was granted, 323 U. S. 685, because of the importance of the question as
+1The statute is as follows:
+"Sec. 504. Net Gifts. "(a) General Definition.-The term 'net gifts' means the total amount of gifts made during the calendar year, less the deductions provided in section 505. "(b) Gilts Less Than $5,000.-In the case of gifts (other than of future interests in property) made to any person by the donor during the calendar year, the first $5,000 of such gifts to such person shall not, for the purposes of subsection (a), be included in the total amount of gifts made during such year." The pertinent part of the Regulation is quoted in the text below.
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+324 U. S.
+
+affecting the taxability of gifts made for the benefit of minor children and because of alleged or apparent conflict with decisions of other courts.2
+The sole issue is whether the gifts were of "future interests" within the meaning of the statute and the regulation. The latter provides:
+"Art. 11. . . . 'Future interests' is a legal term, and includes reversions, remainders, and other interests or estates, whether vested or contingent, and whether or not supported by a particular interest or estate, which are limited to commence in use, possession, or enjoyment at some future date or time. . . ." (Emphasis added.) Upon the facts the issue turns on whether the interests acquired by the minor beneficiaries were "limited to commence in use, possession, or enjoyment at some future date or time." Ryerson v. United States, 312 U. S. 405; UnitedStatesv. Pelzer,312 U. S. 399.
+Under these decisions it is not enough to bring the exclusion into force that the donee has vested rights. In addition he must have the right presently to use, possess or enjoy the property. These terms are not words of art, like "fee" in the law of seizin, United States v. Pelzer, supra, at 403, but connote the right to substantial present economic benefit. The question is of time, not when title vests, but when enjoyment begins. Whatever puts the barrier of a substantial period between the will of the beneficiary or donee now to enjoy what has been
+2The petition alleged conflict with Smith v. Commissioner, 131 F.
+2d 254 (C. C. A. 8th); Sensenbrenner v. Commissioner, 134 F. 2d 883 (C. C. A. 7th); and Kinney v. Anglim, 43 F. Supp. 431 (N. D. Calif.). Cf. also Disston v. Commissioner, 144 F. 2d 115 (C. C. A. 3d). The decision, one judge dissenting, overruled the prior decision in Commissioner v. Taylor, 122 F. 2d 714, cert. denied, 314 U. S. 699. A petition for writ of certiorari was filed in the Disston case on October 12, 1944, and now is pending.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+given him and that enjoyment makes the gift one of a future interest within the meaning of the regulation.
+Accordingly, it has been held that if the income of a trust is required to be distributed periodically, as annually, but distribution of the corpus is deferred, the gift of the income is one of a present interest, that of the corpus one in futuro. Fisher v. Commissioner, 132 F. 2d 383; Sensenbrenner v. Commissioner, 134 F. 2d 883. A fortiori,if income is to be accumulated and paid over with the corpus at a later time, the entire gift is of a future interest,3 although upon specified contingency some portion or all of the fund may be paid over earlier. The contingency may be the exercise of the trustee's discretion, either absolute or contingent.' It may also be the need of the beneficiary, not existing when the trust or gift takes effect legally, but arising later upon anticipated though unexpected conditions, either to create a duty in the trustee to pay over or to permit him to do so in his
+discretion.6 In the light of these principles and decisions, it is nec-
+essafy to consider the terms of the trusts and the circum-
+
+3 Welch v. Paine, 120 F. 2d 141; Commissioner v. Taylor, 122 F. 2d 714, 715, cert. denied, 314 U. S. 699; Commissioner v. Brandegee, 123 F. 2d 58; Commissionerv. Phillips' Estate, 126 F. 2d 851; Commissioner v. Gardner, 127 F. 2d 929; Welch v. Paine, 130 F. 2d 990; Commissionerv. Wells, 132 F. 2d 405; French v. Commissioner, 138 F. 2d 254; Roberts v. Commissioner, 143 F. 2d 657; Howe v. United States, 142 F. 2d 310; Hutchings-Sealy National Bank v. Commissioner, 141 F. 2d 422; Helvering v. Blair, 121 F. 2d 945.
+4 Ibid. 5 Welch v. Paine, 120 F. 2d 141; Commissioner v. Taylor, 122 F. 2d 714, 715, cert. denied, 314 U. S. 699; Commissioner v. Brandegee, 123 F. 2d 58; Commissioner v. Phillips' Estate, 126 F. 2d 851; Commissioner v. Gardner, 127 F. 2d 929; Winterbotham v. Commissioner, 46 B. T. A. 972; cf. Ryerson v. United States, 312 U. S. 405, 408.
+Cf. authorities cited note 3 supra.
+
+637582 °--46
+
+6
+
+OCTOBER TERM, 1944.
+Opinion of the Court.
+
+324 U. S.
+
+stances in which the gifts were made. The trust instruments were substantially uniform except for variations in the names of the beneficiaries and, in case of death, their successors in interest. The trusts were irrevocable, the donors retaining no beneficial interest in the estates. Each instrument named the donor, W. W. Fondren, as trustee, and Ella F. Fondren, the other donor, as successor trustee. They reserved the rights as donors to remove any trustee, except Mr. Fondren, and to name successor trustees. Subject to these reservations and the directions set forth below, the trustee was given substantially complete control.
+The trusts' stated purpose was "to provide for the personal comfort, support, maintenance, and welfare" of the grandchildren. But from the explicit recitals of the instruments,7 as well as the evidence, including a stipulation, it is clear that the parents of each child were so situated that, when the gifts were made, they were fully able to provide for and educate him. And, from the same recitals, it is clear there was little reason to believe that any parent would not, continue so until the child's majority. Accordingly, in each instance, the trust was to continue until the child should attain the age of thirtyfive. Hence also the income was to be accumulated, except upon the contingencies specified below, and each beneficiary was to receive 25 per cent of the corpus and accumulations at age twenty-five, 331/3 per cent at age thirty, and the remainder at age thirty-five.
+Aware of the uncertainties of our world, however, the donors directed in Article 3: "... [T]he Trustee shall provide for the support, maintenance and education of our said Grandson, using only the income of said estate for the purpose if it be sufficient. If it be necessary to use any of the corpus of
+7 Cf. the recitals quoted in the text below.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+the estate for that purpose and in the judgment of the Trustee it is best to do so, said Trustee may make ad-.
+vancements out of the corpus of said trust estate for such purpose for the benefit of our said Grandson.
+"It is contemplated, however, that our said Grandson will have other adequate and sufficient means of support, and that it will not be necessary to use either the income or the corpus of the trust estate hereby created to properly provide for his education, maintenance and support; and, if the income from the trust estate be not needed for these purposes, then all of the income from said trust estate not so needed shall be by the Trustee passed to capital account of said trust estate, and shall be and become a part of said trust estate, it being our hope that all of the earnings and income of said trust estate during the period of this trust may be used to augment the trust estate and be delivered to our said Grandson at the periods herein provided for. It is expressly provided, however, that our said Grandson shall be properly maintained, educated and supported, and if it be necessary to use all of the income and even all of the corpus of the trust estate hereby created and all augmentations thereof, it shall be the duty of the Trustee to see that this obligation shall be properly and reasonably discharged. . .... (Emphasis added.)
+In view of the apparently conflicting terms of this article for use of the corpus, the exact scope of the trustee's discretion is by no means clear. But this need not be determined. Whether the disposition is in his judgment entirely, as the first clause indicates, or under the second is so only with reference to how much of the fund may be needed,8 the trustee cannot act in any case to apply
+
+8Petitioner presents the case as if no discretion whatever were vested in the trustee as to making the payments over. However, in the first provision for use of the corpus such use is authorized "if it be necessary . . .and in the judgment of the Trustee it is best to
+
+24
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+324 U. S.
+
+corpus or income for the support, maintenance and eduVation of the beneficiary until necessity arises.
+Under the particular facts, this requirement is important in two respects. It is, as petitioners urge, a limitation upon the trustee's discretion. His power is not unconfined. Even though the existence and amount of need may be in the first instance for his determination, it does not follow that, need existing, the trustee arbitrarily could refuse to make the application. The case therefore is not one in which present enjoyment is dependent upon an exercise of the trustee's absolute discretion.
+But this does not show, as petitioners seem to think, that the minor beneficiaries had, at the moment of the gift, a present right of enjoyment. It rather shows the
+contrary-that their right was not absolute and immediate, but was conditioned, during minority and afterward until the times specified for distribution, upon a contingency which might never arise. That contingency, by the explicit terms of the trust, was the existence of need which was then nonexistent and, in the stated contemplation of the donors, was not likely to occur in the future, at any rate during the child's minority. The circumstances surrounding the donors and the donees confirm these recitals. The case is one therefore in which the gift, if presently vested, made enjoyment contingent upon the occurrence of future events, not only uncertain, but by the recitals of the instrument itself improbable of occurrence. The gifts con-
+
+do so"; in the other provision the duty imposed, "if it be necessary to use all of the income and even all of the corpus," is one "to see that this obligation shall be properly and reasonably discharged." If the first clause limits the second, the trustee's discretion is bounded only by what he thinks "it is best to do," and in any event under the latter his duty is only to see that the obligation is "properly and reasonably" discharged. Presumably also the trustee would have some room for judgment on whether particular circumstances would amount to necessity and particular measures would be required to meet it.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+sequently were of "future interests in property" within the meaning of § 504 (b).
+Petitioners' contrary argument, apart from the miscon-
+ception that legal vesting of the interest without more satisfies the statute,9 rests chiefly upon considerations arising from the legislative history and from the fact that gifts for the benefit of children under legal disability to manage their own property must make provision for its control by trustees or otherwise.
+Special stress is placed on the fact that each gift was made to or for the benefit of a specifically named beneficiary then in esse and for a definite amount. As the Pelzer opinion noted, 312 U. S. at 403, the committee reports recommending the legislation stated: "The exemption being available only in so far as the donees are ascertainable, the denial of the exemption in the case of gifts of future interests is dictated by the apprehended difficulty, in many instances, of determining the number of eventual donees and the values of their respective gifts." 10 (Emphasis added.) And in the Pelzer case the Court found
+that the gift involved these difficulties, as well as postponement of enjoyment to the happening of a future uncertain event, since the right of enjoyment was contingent in any event upon the beneficiaries' surviving the ten-year
+period specified for accumulation of income. 312 U. S. at 404.
+
+9Several of petitioners' statements of their contentions ignore the
+
+contingency upon which enjoyment is deferred in this case, namely
+
+the occurrence at some future time of the need or necessity of the
+
+beneficiary which would bring the trustee's power or duty to provide
+
+for support or maintenance from the trust fund into play. It is not
+
+necessary to note these contentions specifically further than to say,
+
+in addition to what has been said already, that they assume as the
+
+answer to it the very issue in the case.
+
+0
+1
+
+H.
+
+Rep.
+
+No. 708,
+
+72d
+
+Cong.,
+
+1st
+
+Sess., 29;
+
+S.
+
+Rep.
+
+No.
+
+665,
+
+72d
+
+Cong., 1st Sess., 41.
+
+26
+
+OCTOBER TERM, 1944.
+
+Opinion of the Court.
+
+324 U. S.
+
+Both conclusions would seem applicable in this case, the chief difference being that the period of postponement, which the beneficiaries must survive before enjoyment begins, is indefinite rather than for a specified time. That is true in any case where the length of the period is governed by a contingency. But the regulation, adopted almost in the language of the committee reports," does not limit the denial of the exemption to instances where the deferment of enjoyment is at all events for a period which is definite and certain. Cf. Commissioner v. Glos, 123 F. 2d 548, 550. Clearly the statute is not to be applied
+differently, to grant or deny the exemption, if there is postponement, merely because in one case the period is under any eventuality for a certain, specified length of time, whereas in another it is of uncertain or indefinite length. The important thing is the certainty of postponement, not certainty of the length of its duration.
+Furthermore, if there is postponement, the exemption is denied whether or not the administrative difficulties anticipated in the committee reports inhere in the particular gift. Commissioner v. Glos, supra; Welch v. Paine, 120 F. 2d 141. Those reports specifically state these difficulties are present "in many instances." But they also state that "the term 'future interests in property' refers to any interest or estate, whether vested or contingent, limited to commence in possession or enjoyment at a future date." 12 They thus contemplate, as does the regulation framed in
+similar terms, vested as well as contingent interests and estates. And there is nothing to indicate that gifts to specified donees in esse and in definite amounts are to be excluded from the denial, if by the terms of the gift enjoyment is deferred to a future time. Again, the crucial thing is postponement of enjoyment, not the fact that the
+
+"1Cf. text at note 12 infra. 2Cf. note 10 supra.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+beneficiary is specified and in esse or that the amount of the gift is definite and certain.13
+The considerations, which petitioners advance to support their position, from the minority of the beneficiaries and their consequent legal disability to manage and control their property are intermingled with others relating to the motives of the donors in making the gifts. It is said that their purpose was to provide for the "comfort, support, maintenance and welfare," including education, of the grandchildren; that the latter were incapable of taking over the management and control of the property; that accordingly it was necessary for some arrangement to be made for vesting this power in trustees or others capable
+of exercising it; that the trustees were given no power to withhold either income or corpus in case of need; and consequently the whole fund became available to the beneficiary for his maintenance "immediately upon the consummation of the gift," so that he was vested at once with the right of present enjoyment as fully as any child of tender years could be and in no way differently, taking account of his disability, than any owner of property by title in fee simple.
+13 The absence of these factors is relevant as showing the more
+clearly that postponement exists and therefore the exemption does not apply. Their presence does not show that there is no postponement or that the exemption applies. The administrative difficulties relating to these matters "in many instances" were reasons for denying the exemption. They do not and were not intended to encompass the full scope of the denial. As the statute extended the exemption "in the specified amount, to all gifts, whether large or small, 'made to any person,'" Helvering v. Hutchings, 312 U. S. 393, 397, so it denied the exemption to all gifts, whether large or small, vested or contingent, made to any person, whether specified and in esse or ascertainable only in the future, and whether for a specific or a presently unascertainable amount, if the gift is one of a "future interest in property," that is, one as to which enjoyment is postponed to some future time.
+
+OCTOBER TERM, 1944.
+Opinion of the Court.
+
+324 U. S.
+
+So far as the argument turns on the motive of the
+donors, it may be answered that the statute and the regulation make no such test. If motive has bearing, it is only by reason of its effect upon the element of time and whatever relation may be given, by the particular terms of the gift, to it and the disclosing of a purpose to provide for or against immediate enjoyment. The statute in this respect purports to make no distinction between gifts to minors and gifts to adults. If there is deferment in either case the exemption is denied. Consequently in this case the donors' laudable desire to make provision for their grandchildren in case of future need cannot nullify the deferment which the recited absence of present need, coupled with the terms of the trust, brought about. Again, contingency of need in the future is not identical with the fact of need presently existing. And a gift effective only for the former situation is not effective, for purposes of relief from the tax, as if the latter were specified, whether the donee is an adult or a minor.
+Upon the facts, furthermore, the trusts hardly can be taken as designed primarily for the periods covered by the children's minority. They did not terminate with the ending of that period. The graduated scale of payments, beginning at age twenty-five and ending at thirty-five, together with the prohibition of payment earlier except in case of necessity, shows principal concern for a period of adult life. And, from the fact that this would be the period when the grandchildren normally would be assuming family responsibilities of their own, the inference well might be drawn that the chief purpose was to give aid and some security in that time. The contingent provision, in case of earlier need, cannot be taken therefore to represent the donors' primary concern as expressed in the instruments. Cf. Fisher v. Commissioner, 132 F. 2d 383, 386.
+
+FONDREN v. COMMISSIONER.
+
+18
+
+Opinion of the Court.
+
+But, whether so or not, in the particular circumstances that need was but a contingency to be realized, if at all, in the future. And, until realized, the contingency stood squarely in the way of any child's receiving a single dollar from the fund.
+Finally it is urged that unless these gifts are to be taken as conferring the right to immediate enjoyment, no gift for the benefit of a child of tender years can be so regarded since in any such case "some competent person must be the primary judge as to the necessity and extent of reasonable requirements of the beneficiary." The argument is appealing, in so far as it seeks to avoid imputing to Congress the intention to "penalize gifts to minors merely because the legal disability of their years precludes them for a time from receiving their income in hand currently." Cf. Disston v. Commissioner,144 F. 2d 115, 119. But we think it is not applicable in the facts of this case, since by the terms of the trusts and the facts recited in the instruments none of the fund, whether income or corpus, could be applied immediately for the child's use or enjoyment.
+It does not follow, as petitioners say, that if the exemption does not apply in this case it can apply in no other made for a minor's benefit. Whenever provision is made for immediate application of the fund for such a purpose, whether of income or of corpus, the exemption applies. Whether, in the case of a gift requiring such an application of the income, but providing for retention of a corpus no more than reasonably sufficient to produce the income required for this purpose and to insure its continued payment during minority, the donation would fall within the exemption, as to corpus as well as income, is a question not presented on this record and therefore not determined.
+The regulation has received the construction now reaffirmed with substantial consistency. The statute, with
+
+30
+
+OCTOBER TERM, 1944.
+
+Counsel for Parties.
+
+324 U. S.
+
+the meaning thus settled, has been reenacted by Congress.' The construction should be followed until Congress sees fit to change it.
+The judgment is Affirmed.
+
+REPUBLIC OF MEXICO ET AL. v. HOFFMAN.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE NINTH CIRCUIT.
+No. 455. Argued January 11, 12, 1945.-Decided February 5, 1945.
+1. The decisions of the two courts below that the vessel in question was not in the possession or service of the Mexican government are supported by the evidence. P. 33.
+2. A merchant vessel owned but not possessed by a friendly foreign government held not immune from a suit in rem in admiralty, where the Department of State has refrained from certifying that it allows the immunity or recognizes ownership of the vessel without possession by the foreign government as a ground for immunity. Pp. 36, 38.
+3. Since the Department of State has long and consistently followed the policy of recognizing immunity from suit of a vessel in the possession and service of a foreign government, the courts have allowed such immunity upon proof of such possession and use even when not certified by the Department of State. P. 36.
+4. It is the duty of the courts, in a matter so intimately associated with our foreign policy and which may profoundly affect it, not to enlarge an immunity to an extent which the Government, though it has had numerous opportunities, has not seen fit to recognize. P. 38.
+143 F. 2d 854, affirmed.
+CERTIORARI, 323 U. S. 697, to review the affirmance of a judgment for the libellant in a suit in rem in admiralty.
+Mr. Morris Lavine for petitioners.
+14 Congress withdrew the exclusion, as to gifts in trust, in the Revenue Act of 1938, c. 289, 52 Stat. 447, § 505, amending § 504 (b) of the 1932 Act. But it was restored, though reduced to $3,000, by the Revenue Act of 1942, e. 619, 56 Stat. 798, § 454.
+
+

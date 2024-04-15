@@ -1,0 +1,984 @@
+HELVERING v. CITY BANK CO.
+
+85
+
+Syllabus.
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. CITY BANK FARMERS TRUST CO., TRUSTEE.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.
+
+No. 10. Argued October 15, 1935.-Decided November 11, 1935.
+1. Section 302 (d), Revenue Act of 1926, which includes in the gross estate any interest in property of which the decedent has at any time made a transfer, where the enjoyment thereof was subject at the date of. his death to any change through the exercise of a power, "either by the decedent alone or in conjunction with any other person, to alter, amend, or revoke," applies to a transfer which was complete when'made but subject to be altered or revoked by the transferor with the consent of another person who was himself a beneficiary of the transfer. P. 87.
+2. When the language of a statute is plain, there is no occasion for construction or for referring to committee reports. P. 89.
+3. As applied to transfers in trust made after its enactment, § 302 (d) is not arbitrary or unreasonable. P. 89.
+4. The purpose of Congress in adding clause (d) to the section as it stood in an earlier Act, was to prevent avoidance of the tax by the device of joining with the grantor in the exercise of the power of revocation someone who he believed would comply with his wishes. Congress may well have thought that a beneficiary who was of the grantor's immediate family might be amenable to persuasion, or be induced to consent to a revocation in consideration of other expected benefits from the grantor's estate. P. 90.
+5. A legislative declaration that a status of the taxpayer's creation shall, in the application of the tax, be deemed the equivalent of another 'status falling normally within the scope of the taxing power, if reasonibly requisite to prevent evasion, does not take property without due process. P. 90.
+74 F. (2d) 242, reversed.
+
+CERTIORARI, 295 U. S. 723, to review a judgment affirming an order of the Board of Tax Appeals, 29 B. T. A. 1141, overruling an increase of estate tax assessment.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+Mr. David E. Hudson, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr. Sewall Key were on the brief, for petitioner.
+Mr. Russell L. Bradford, with whom Messrs. Carl Taylor and George H. Craven were on the brief, for respondent.
+
+MR. JUSTICE ROBERTS delivered the opinion of the Court.
+
+The Revenue Act of 1926, § 302 (d),' provides: "The value of the gross estate of the decedent shall be determined by including the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated-
+
+"(d).. To the extent of any interest therein of which the decedent has at any time made a transfer, by trust or otherwise, where the enjoyment thereof was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend, or revoke, . . ."
+The questions for decision are whether the section requires inclusion in the gross estate of the value of the corpus of a trust established in 1930 where the creator reserved a power to revoke or modify, to be exercised jointly with a beneficiary and the trustee; and whether, if such value is to be included in the gross estate, the section offends the Fifth Amendment.
+By a writing dated February 21, 1930, Gertrude Feldman James, a non-resident citizen, transferred securities to the respondent as trustee, the trust to last during the lives of her two daughters or the survivor of them. The
+C. 27, 44 Stat. 9, 70; U. S. C. App., Tit. 26, § 1094.
+
+HELVERING v. CITY BANK CO.
+
+85
+
+Opinion of the Court.
+
+income was to be paid to her until her death, or uhtil the termination of the trust, whichever should first occur. After her death, her husband surviving, the income was to be paid to him. If he did not outlive her, or upon his death, the income was to be distributed amongst their issue per stirpes. At the termination of the trust the corpus was to be delivered to the husband, if he were alive; if not, to the settlor, if living, or, if she were dead, to the beneficiaries at that time entitled to receive the income; if there were none such, to the heirs at law of the husband. The trust was irrevocable save that the settlor reserved the right to modify, alter or revoke it, in whole or in part, or to change any beneficial interest, any such revocation or alteration to be effected with the written consent of the trustee and her husband or, if the husband were dead, of the trustee and her husband's brother. If they could not agree the decision of the husband or of the brother, as the case might be, was to be final. Samuel James, the husband, survived the grantor, whose death occurred before the termination of the trust, and he is in receipt of the income.
+The petitioner included the value of the corpus of the trust in Mrs. James' gross estate and determined a deficiency of tax. The Board of Tax Appeals reversed, holding that § 302(d) 'did not apply.' The Circuit Court of Appeals affirmed the Board's decision.' We granted the writ of certiorari because the decision below conflicts with that in another circuit. We hold that the section covers this
+case and as so applied is valid. The Circuit Court of Appeals thought our decision in
+Reinecke v. Northern Trust Co., 278 U. S. 339, required the language of the Act to be construed as tantamount to
+229 B. T. A. 1141.
+a74 F. (2d) 242. 4 Commissioner v. Strauss, 77 F. (2d) 401.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+"in conjunction with any person not a beneficiary." So limited it is inapplicable to the trust in question.'
+The Reinecke case involved § 402 (c) of 'the Revenue Act of 1921 1 (substantially § 302 (c) of the Revenue Act of 1926) which directed the inclusion in the gross estate of all property "To the extent of any interest therein of which the decedent has at any time made a transfer, or with respect to which he has at any time created a trust, in contemplation of or intended to take effect in possession or enjoyment at or after his death . . ." It was held that a gift beyond the power of the grantor to alter,
+amend or revoke could not be said to take effect in possession or enjoyment at or after his death. Conversely, one which he alone held the power to revoke or modify
+came within the section, since, at his death, substantial interests passed from his control and were for the first time confirmed in others. The case involved nothing more than a determination whether the transfers were complete when made. If they were the statute did not reach them. Here we have a different problem, for § 302 (d) of the 1926 Act on its face embraces Mrs. James' transfer, although complete when made and thereafter beyond her own unfettered control.
+The respondent says that the section ought to be construed in the light of the analogous § 219 (g).7 The latter, part of the income tax title, is "Where the grantor of a trust has, at any time during the taxable year, either alone or in conjunction with any person not a beneficiary of the trust, the power to revest in himself title to any
+
+Compare White v. Poor, 75 F. (2d) 35 (No. 36 of this term, post, p. 98), and Helvering v. Helmholz, 75 F. (2d) 245 (No. 14 of this term, post, p. 93); Lit v. Commissioner, 72 F. (2d) 551; Commissioner v. Stevens, 79 F. (2d) 490.
+'C. 136, 42 Stat. 227. C. 27, 44 Stat. 9, 34; U. S. C. App., Tit. 26 § 960.
+
+HELVERING v. CITY BANK CO.
+
+89
+
+85
+
+Opinion of the Court.
+
+part of the corpus of the trust, then the income of such part of the trust for such taxable year shall be included in computing the net income of the grantor." The two sections have a cognate purpose but they exhibit marked differences of substance. The one speaks of a power to be exercised with one not a beneficiary; the other of a
+power to be exercised with any person. The one refers to a power to revest the corpus in the donor; the other has no such limitation.' It is true, the. Report of the Ways and Means Committee on § 302 (d) said "this pro-
+vision is in accord with the principle of Section 219 (g) of the bill which taxes to the grantor the income of a revocable trust." I But to credit the assertion that the difference in phraseology is without significance and in both sections Congress meant to express, the same thought, would beto disregard the clear intent of the phrase "any person" employed in § 302 (d). We are not at liberty to construe language so plain as to need no construction,"0 or to refer to Committee reports where there can be no doubt of the meaning of the words used.1 The section applies to this transfer. "
+We are next told that if the Act means what it says it taxes a transfer as one taking effect at death though made prior to death and complete when made; that to do this
+is arbitrary and deprives the taxpayer of property without due process.
+The section was first introduced into the Revenue Act of 1924, and reenacted in that of 1926. Mrs. James created her trust in 1930. She was, therefore, upon notice of the law's command, and there can be no claim that the statute is retroactive in its application to her transfer.
+
+8Compare Porterv. Commissioner, 288 U. S. 436.
+1 H. R. No. 179, 68th Cong., 1st Sess., p. 28. '0 Hamilton v. Rathbone, 175 U. S. 414, 419; Thompson v. States, 246 U/S. 547, 551. 11 Wilbur v. VindicatorGold Mining Co., 284 U. S. 231, 237.
+
+United
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+The inquiry is whether it is arbitrary and unreasonable to prescribe for the future that, as respects the estate tax, a transfer, complete when made, shall be deemed complete only at the transferor's death, if he reserves power to revoke or alter exercisable jointly with another.
+The respondent insists that a power to recall an abso-
+lute and complete gift only with the consent of the donee is in truth no power at all; that in such case the so-called exercise of the power.is equivalent to a new gift from the donee to the donor. And so it is claimed that the statute arbitrarily declares that t6 exist which in fact and law is nonexistent. The position is untenable. The purpose of Congress in adding clause (d) to the section as it stood in an earlier act was to prevent avoidance of the tax by the device of joining with the grantor in the exercise of the power of revocation someone who he believed would comply with his wishes. Congress may well have thought that a beneficiary who was of the grantor's immediate !amily might be amenable to persuasion or be induced to consent to a revocation in consideration of other expected benefits from the grantor's estate. Congress may adopt a measure reasonably calculated to prevent avoidance of a tax. The test of validity in respect of due process of law is whether the means adopted are appropriate to the end. A legislative declaration that a status of the taxpayer's creation shall, in the application :of the tax, be deemed the equivalent of another status falling normally within the scope of the taxing power, if reasonably requisite to prevent evasion, does not take property without due process. But if the means are unnecessary or inappropriate to the proposed end, are unreasonably harsh or oppressive, when viewed in the light of the *expectedbenefit, or arbitrarily ignore recognized rights to enjoy or to convey individual property, theguarantee of due process is infringed.
+
+HELVERING v. CITY BANK CO.
+
+85
+
+Opinion of the Court.
+
+Illustrations are not lacking of cases falling on either
+side of the line.
+Congress may require that property transferred in con-
+templation of death, although the transfer is so remote in time as not to comply with the requirements of a gift
+causa mortis, shall nevertheless be treated as part of the
+estate for purposes of taxation: this for the prevention of
+evasion and the giving of practical effect to the exercise of admitted power. 12 This is true despite the fact that the statutory prescription embraces gifts inter vivos which
+are in fact fully executed, irrevocable and cannot be defeated.1"
+Although property received by gift from another is cap-
+ital in the hands of the donee, the gain upon a sale may be measured by the cost to the donor rather than the value at the time of acquisition by the donee. 4
+It is competent for Congress, in order to avoid the evasion of tax, to declare that when one has placed his property in trust subject to a right of revocation in himself and another who is not the beneficiary he shall, nevertheless, be deemed to control the property in such sense that the income therefrom shall be treated as his income for the levying of a tax.15 So also where an irrevocable trust is established to pay for insurance on the settlor's life, to collect the policy upon his death, and to hold or apply the proceeds for the benefit of his dependents, Congress may declare the income of the trust fund taxable to the settlor as part of his own income.'6
+In the instances cited the power to levy an excise upon the testamentary transfers or to tax income was conceded.
+
+2
+1
+
+Nichols
+
+v.
+
+Coolidge, 274
+
+U.
+
+S.
+
+531,
+
+542;
+
+Milliken v.
+
+United States,
+
+283 U. S. 15, 20; United States v. Wells, 283 U. S. 102, 116. 18 United States v. Wells, supra. 14 Taft v. Bowers, 278 U. S. 470, 483.
+'15Reinecke v. Smith, 289 U. S. 172, 177. 16 Burnet v Wells, 289 U. S. 670.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+To effectuate the exarcise of this admitted power and to prevent evasion Congress was held to have acted reason-:
+ably in including within the sweep of the statute a status or an act not normally within its reach.
+There are, however, limits to the power of Congress
+to create a fictitious status under the guise of supposed necessity. Thus it has been held that an act creating a conclusive presumption that a gift made within two years prior to death was made by the donor in contemplation of death, and requiring the value of the gift to be iincluded in computing the estate of the decedent subject to transfer tax, is so grossly unreasonable as to violate the due process clause of the Fifth Amendment.'7 In the same category falls a statute seeking to tax the separate income of a wife as income of her husband."
+In view of the evident purpose of' Congress we find nothing unreasonable or arbitrary in the provisions of § 302 (d) of the Revenue Act of 1926 as applied in the circumstances of this case. It was appropriate for Congress to prescribe that if, subsequently to the passage of that Act, the creator of a trust estate saw fit to reserve
+to himself jointly with any other person the power of revocation or alteration, the transaction should be deemed
+to be testamentary in character, that is, *treated for the purposes of the law as intended to take effect in possession or enjoyment at the death of the settlor.
+The judgment is
+Reversed.
+
+MR. JUSTICE VAN DEVANTER, MR. JUSTICE MCREYN-
+OLDS, MR. JUSTICE SUTHERLAND and MR. JUSTICE BUTLER are of opinion that the judgment should be affirmed.
+17Heiner v. Donnan,285 U. S. 312. Compare Schlesinger v. Wisconsin, 270 U. S. 230.
+18 Hoeper v. Tax Commission, 284 U. S. 206.
+
+OCTOBER TERM, 1935.
+
+Syllabus.
+
+296 U. S.
+
+BECKER, COLLECTOR OF INTERNAL REVENUE,
+v. ST. LOUIS UNION TRUST CO. ET AL., EXECUTORS.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE EIGHTH CIRCUIT.
+
+No. 262. Argued October 25, 1935.-Decided November 11, 1935.
+
+1. Qome years before his death, decedent, by, declarations of trust, transferred property irrevocably to himself as trustee for the benefit of his children. The instruments provided in each case that if the beneficiary should die before the settlor, the trust estate should revert to the settlor absolutely, but if the settlor should die first, the property should thereupon become the beneficiary's absolutely. In either of such cases, the trust was to cease. Held, that the transfers were not intended to take effect in possession or enjoyment after the grantor's death, within the meaning of § 302 (c), Revenue Act of 1926. Helvering v. St. Louis
+Union Trust Co., ante, p. 39. P. 50. 2. The legal title, possession and control of property may by declara-
+tion of trust be passed irrevocably from the grantor to himself as, trustee, with the same effect as if the trustee receiving the conveyance had been another person. P. 50. 3. Decedent, 76 years of age and in excellent health, attending regularly to business and apparently not looking forward in any way to his death, set up trusts for his children, who were all past 21 years of age. So far as, appeared, his objects were to make them allowances so that he might be relieved of care in their regard, and to reduce his personal surtaxes. Held, that the evidence was insufficient to show that the transfers were made in contemplation of death. Revenue Act, 1926, § 302 (c). P. 51. 4. The record in this case does not -show that the Commissioner of Internal Revenue rested his assessment upon a finding that the transfers in question were made in contemplation of death. P. 52. 76 F. (2d) 851, affirmed.
+
+CERTIORARI * to review the reversal of a judgment of the District Court in favor of the Collector in a suit to recover money exacted as an additional estate tax.
+See Table of Cases Reported in this volume.
+
+BECKER v. ST. LOUIS TRUST CO.
+
+49
+
+48
+
+Opinion of the Court.
+
+Mr. David E. Hudson, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Messrs. Sewall Key and Maurice J. Mahoney were on the brief, for petitioner.
+
+Mr. CrawfordJohnson, with whom Mr. Thomas S. McPheeters was on the brief, for respondents.
+MR. JUSTICE SUTHERLAND delivered the opinion of the Court.
+The decedent in 1921 executed separate declarations of trust in favor of each of his four children, conveying to himself as trustee certain securities. He died in 1928, at which time the entire trust estate conveyed by the four trusts amounted to nearly a million dollars, which amount was included by the Commissioner of Internal Revenue as a part of the gross estate of the decedent and an additional estate tax assessed accordingly. The executors, having paid the additional tax, brought this action in a federal district court sitting in Missouri to recover the amount. The district court denied recovery upon the grounds that the transfer effected. by each declaration of trust was made in contemplation of death and that it was intended to take effect in possession or enjoyment at or after decedent's death.
+The Court of Appeals, after a very full review of the facts and authorities, reversed the judgment. 76 F. (2d) 851. The case is here on certiorari.
+The declarations of trust were in identical terms. By each.,the grantor declared that he held in trust for the person named certain property which was described. A copy of pne of them is set forth in the opinion of the court below. The trust instrument gave the trustee usual discretionary power with respect to sale of the trust property, reinvestment of proceeds, collection of rents, income and profits, payment of taxes and expenses incident to the
+3(62' - :6-4
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+care, preservation and management of the property; and provided that he should pay to the beneficiary an allowance of $300 a month, which might be increased or decreased from time to time in his discretion. Income not distributed was to be added to the principal. The final clause of the declaration provided:
+"6. (a) If the said beneficiary should die before my
+death, then this trust estate shall thereupon revert to me and become mine immediately and absolutely, or (b) if I should die before her death, then this property shall thereupon become hers immediately and absolutely and be turned over to her and in either case this trust shall ceaTseh.e" government presents for our determination two
+questions-whether, under the provisions of § 302 (c), Revenue Act of 1926, a transfer of the propei'ty tinder each of the instruments here involved, (1) was intended to take effect in possession or enjoyment at or after the death of the grantor; (2) was made in contemplation of death.
+First. The first of these questions is settled by our decision just rendered in the case of Helvering v. St. Louis Union Trust Co., ante, p. 39. By the declaration of trust here under review, the legal title, possession and control of the trust estate passed irrevocably from the grantor as an individual to himself as trustee. The effect is no different than if the trustee had been anothier person. Cf. Reinecke v. Northern Trust Co., 278 U. S. 339, 346. By the final paragraph of the declaration, quoted'above, the grantor does not retain any interest in the property, but, recognizing the completeness of the transfer, he provides that the property shall revert to him in case the beneficiary shall predecease him. The provision that the trust estate. shall "revert" in case of the predecease of the beneficiary removes any doubt as to the completeness of the transfer, if otherwise there would be any. The
+
+BECKER v. ST. LOUIS TRUST CO.
+
+48
+
+Opinion of the Court.
+
+question, therefore, is whether the mere possibility of a reverter stamps the transfer as one intended to take effect
+in possession or enjoyment at or after the death of the grantor. The decision just rendered answers this question in the negative.
+Second. The transfer to the trustee was complete and became effective when made, seven years before the death of the decedent. The factor which brings a gift inter
+vivos within the teach of § 302 (c) with respect to transfers made in contemplation of death "is to be found in the transferor's motive." United States v. Wells, 283 U. S. 102, 117. "Death must be 'contemplated,' that is, the motive which induces the transfer must be of the sort which leads to testamentary disposition. . . . The question, necessarily, is as to the state of mind of the 'donor. . . . If it is the thought of death, as a controlling motive prompting the disposition of property, that affords the test, it follows that the statute does not embrace gifts inter vivos which spring from a different motive." p. 118. The opinion proceeds to give illustrations of those motives which, have reference to life rather than to death-as, for example, the desire to be relieved of responsibility; to have children independently established with compe-
+tencies of their own. In each case the circumstances are to be scrutinized in order to discover the dominant motive of the donor in the light of his bodily and mental condition. p. 119.
+In the present case the district court found that the motive of decedent was to decrease his income tax by distributing a portion of his property among the four trusts and, at the same time, to make provision for the ,distribution of the property to his children at decedent's death, and concluded therefrom that the. transfer was made in contemplation of death. The Circuit Court of Appeals reached the opposite conclusion. It found on the evidence that the decedent, in making the trusts, was
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+actuated by two motives-(1) to make his children independent; (2) to avoid high surtaxes on his income; and that both of these motives were associated with life. Evidence that the decedent was in any way influenced in what he did by the thought of death, that court said, was entirely lacking.
+It is true that the decedent at the time of making the trusts was 76 years of age. But the evidence shows clearly that he was in excellent health, attending regularly to business, apparently was not looking forward in any way to his death, .came of a very long-lived family, expected to live well beyond the age of 90, and in fact lived seven years after making the trusts. The beneficiaries were all past 21 years of age, and the record shows only that the grantor's objects were to make them allowances in order to get rid of the nuisance of treating them as children, make them independent so they would know what they were to get each year, and, as he had-ample income of his own, to avoid the high surtax and make each of his children pay a tax on the independent income received.
+We are unable to find anything in the record which conflicts with the statement of the court below that evidence that decedent was in any way influenced by the thought of death was wholly lacking. The government argues that the finding of the trial court in'respect of the matter is the same as that of the commissioner, and that this circumstance gives additional weight to that court's finding. Our attention has not been called to anything, in the record which shows that the commissioner's determination rested upon such a finding. The petition alleges that the reason which brought about the comnimissioner's determination was that the transfer was one which "did not take effect :in possession or enjoyment until at or after the death of the decedent," and that he so advised the respondents by letters.XThe answer affirmatively alleges that the commissioner's rea-
+
+CHANDLER CO. V. BRANDTJEN, INC. 53
+
+48
+
+Syllabus.
+
+sons were "that there had been no transfer of such property during the lifetime of the decedent; that such property was transferred at and as a result of the death of the decedent; and that such transfer was intended to take effect at or after the death of the decedent," and that the commissioner advised respondents accordingly. We are unable to find anything in the record which justifies the conclusion that the commissioner specifically determined that the transfers were made in contemplation of death, or, indeed, that there was any evidence before him on that subject.
+In this state of the record it cannot be said that the finding of the trial court in this regard obtains any support from the determination of the commissioner. The situation simply is that the findings of the lower courts upon the matter are in conflict; and a careful examination of the evidence contained in the record convinces us that the finding of the trial court was erroneous, and we so hold.
+Judgment affirmed.
+The CHIEF JUSTICE, MR. JUSTICE BRANDEIS, MR. JUSTICE STbNE and MR. JUSTICE CARDOZO dissent for reasons stated in their dissent in Helvering v. St. Louis Union Trust Co., ante, p. 46.
+
+CHANDLER & PRICE CO. v. BRANDTJEN & KLUGE, INC. ET AL.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.
+No. 11. Argued October 16, 17, 1935.-Decided November 11, 1935.
+1. On application to intervene in equity, it is the better'practice to present the applicant's proposed answer. P. 56.
+2. In a patent infringement suit brought against the user of a machine, the manufacturer of the accused article was permitted to in-
+
+OCTOBER TERM, 1935.
+Counsel for Parties.
+
+296 U.S.
+
+vided and entered in the separate accounts. The property account of the single trust was closed and the items were transferred equally to separate accounts in the names of the beneficiaries, showing one-third of the assets of the old trust as representing the corpus of each of the three trusts. New principal was divided equally in the same way. If, at the outset, there had been three trust deeds, each creating a trust for the benefit of a distinct bene-
+ficiary in an undivided one-third of the property involved, no question would have arisen. We think the same result was achieved by the use of the power of amendment. We find no ground for concluding that the purpose of the parties to create the three trusts was not carried out.
+The decision of the Circuit Court of Appeals is reversed and the order of the Board of Tax Appeals is affirmed.
+Reversed.
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. McILVAINE ET AL., TRUSTEES.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.
+No. 566. Argued December 17, 1935.-Decided January 6, 1936.
+Decided upon the authority of United States Trust Co. v. Commissioner, ante, p. 481.
+78 F. (2d) 787, affirmed.
+CERTIORARI *to review a judgment affirming a decision of the Board of Tax Appeals, 27 B. T. A. 304, which overruled an additional tax assessment on a trustee.
+Mr. J. Louis Monarch, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr. Sewall Key were on the brief, for, petitioner.
+Mr. Clay Judson forXespohdents.
+* See Table of Cases Reported in this volume.
+
+LEGG v. ST. JOHN.
+
+488
+
+Syllabus.
+
+MR. CHIEF JUSTICE HUGHES delivered the opinion of
+the Court.
+The question presented in this case is similar to that involved in United States Trust Co. v. Commissioner, decided this day, ante, p. 481. By amendments under a reserved power, the terms of an original trust created by John P. Wilson, in 1913, were altered with the intention of creating three separate trusts. The Board of Tax Appeals, upon findings supported by evidence, concluded that this purpose was accomplished and hence that there was no deficiency. 29 B. T. A. 304. The Circuit Court of Appeals affirmed the order' of the Board. 78 F. (2d) 787. We granted certiorari because of the conflict with the decision of the Circuit Court of Appeals for the.Second Circuit, in the case -of the United States Trust Company, supra, 75 F. (2d) 973, and, for the reasons stated in our opinion in that case, the decree of the Circuit Court of Appeals is
+Affirmed.
+
+LEGG v. ST. JOHN, TRUSTEE.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE
+SIXTH CIRCUIT.
+No. 54. Argued November 18, 1935.-Decided January 6, 1936.
+1. The right of a bankrupt to receive future disability payments under a contract with an insurance company having no cash surrender value, is not insurance within the meaning of § 70 (a) of the Bankruptcy Act, and, if not exempted by the state law, passes to his trustee in bankruptcy. P. 493. Provision for the payment of disability benefits in connection with life insurance was not introduced in the United States until about twenty years after the pabsage of the Bankruptcy Act.
+2. The fact that the disability benefits were provided for in a supplementary contract issued on the same day as, and physically
+
+98
+
+"
+
+OCTOBER TERM, 1935.
+Syllabus.
+
+296 U. S.
+
+ation. The transfer was complete at the time of the creation of the trust. There remained no interest in the grantor. She reservedno power in herself alone to revoke, to alter or to amend. Under the revenue act then in force the transfer was not taxable as intended to take effect in possession or in enjoyment at her death. Reinecke v. Northern Trust Co., 278 U. S. 339. If § 302 (d) of the Act of 1926 could fairly be considered as intended to apply in-the instant case its operation would violate the Fifth Aiendment. Nichols v. Coolidge, 274 U. S. 531.
+The judgment is Affirmed.
+MR. JUSTICE BRANDEIS, MR. JUSTICE STONE and MR.
+JUSTICE CARDOZO concur in the result on the ground last
+stated in the opinion.
+
+WHITE, FORMER COLLECTOR OF INTERNAL REVENUE, v. POOR ET AL., EXECUTORS.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIRST CIRCUIT.
+No. 36. Argued Ocober 16, 1935.-Decided November 11, 1935.
+Decedent, in her lifetime, conveyed property to herself and two others as trustees upoi a trust which was terminable by joint action of the three trustees but which she, herself, reserved no power to modify. She resigned as trustee; but later, upon the resignation of her successor, was reappointed under a clause of the trust instrunent providing that such vacancies could be filled by the other trustees with the approval of the beneficiaries. Held: 1. That the power thus acquired to participate in terminating the trust, not being in any sense a power reserved by her in the trust -instrument, was not a power "to alter, amend or revoke," within the meaning of § 302 (d), Revenue Act, 1926. P. 101. 2. If that section, enacted after the date of the transfer, were deemed applicable, it would violate the Fifth Amendment. Helvering v. Helmholz, ante, p. 93. P. 102.
+75 F. (2d)- 35, affirmed.
+
+WHITE v. POOR.
+
+98
+
+Opinion of the Court.
+
+CERTIOR.RI, 295 U. S. 726; to review a judgment affirming a judgment against the Collector in a suit to recover money exacted as part of an estate tax.
+Mr. David E. Hudson, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr. Sewall Key were on the brief, for petitioner.
+
+Mr. Harry LeBaron Sampson, with whom Messrs. Alexander Wheeler and Edwin A. Howes were on the brief, for respondents.
+
+MR. JUSTICE ROBERTS delivered the opinion of the Court.
+
+This case presents questions similar to those in Helver-
+ing v. Helmholz, ante, p. 93. In 1919 Adelaide J. Sargent conveyed property to three
+trustees, who were herself, Arthur H. Sargent (her son), and a third person not connected with the family. Contemporaneously the trustees executed a declaration: of trust by the terms of which they were to pay one-half the net income to Mrs. Sargent during her life and the other half, until her death, and after that event the whole in equal shares, to such of her three children as should be living at the time of each payment, and to the appointees of any deceased child, and in default of appoint-
+ment, to the living 'ssue of a deceased child. The trust was to terminate upon the death of the last survivor of the settlor and her three children, and thereupon the corpus was to be divided in specified shares amongst the issue, next of kin, or appointees of the children. Each child was given a general power of appointment by will over one-third of the principal. -Mrs. Sargent died January 22, 1931, leaving her three children to survive her. Her will was probated and the respondents are her executors. The'declaration of trust contains a power to terminate, in these- words:
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+"This trust may be terminated at any time either as to the whole or as to any part of the property held in trust hereunder, by the person or persons who shall then be trustees hereunder, such termination to be eyidenced by a written declaration signed, sealed and acknowledged by them and duly recorded in the Registry of Deeds for the County of Suffolk, setting forth specifically the property as to which such termination is to take effect, and in that event the trusts declared hereunder shall as to such property be at an end and such property. shall be paid over and conveyed, free and discharged of all trusts, to the said Adelaide J. Sargent, if she be then living, and if she be not
+then living one share shall be paid over and conveyed to each of her children who shall then be living, and a like share shall be paid over and conveyed to the appointees by will of each of her children who shall then have died making such appointment, or failing such appointment, to the issue of such deceased child then living, such issue taking by right of representation."
+No power was reserved by Mrs. Sargent to modify the terms of the trust, and the recited power was never
+exercised. The agreement directed that if any trustee should die,
+resign or be unable to act, a successor should be appointed
+by the surviving trustees by a written instrument approved by the then living children of Mrs. Sargent. In 1920 the settlor, resigned as trustee and a daughter was appointed to fill the vacancy. After serving for one year she resigned 'and Mrs. Sargent was appointed to fill the vacancy thus occasioned and continued as a trustee until her death. The decedent's son, who was a trustee, had a vested interest in an undivided share of the income and a power to appoint by will his share of the income and one-third of the corpus.
+The Commissioner of Internal Revenue ruled that, the value of the trust principal should be included in the gross
+
+WHITE v. POOR.
+
+98
+
+Opinion of the Court.
+
+estate. The respondents paid the tax under protest and
+filed a claim for refund, which the Commissioner rejected. They brought suit in the District Court, -which held the
+transfer did not come within § 302 (c) of the Revenue Act of 1926, as one made in contemplation of death, and was not taxable under § 302 (d). 1 The court also ruled that to impose an excise tax on the transfer by a statute enacted after the transfer was complete would constitute
+a taking of property without due process in violation of the Fifth Amendment.
+The petitioner appealed from a judgment in favor of
+the respondents, and the Circuit Court of Appeals affirmed, holding that the power in question was not a power to alter, amend or revoke within the meaning of § 302 (d). 2
+As in Helvering v. Helmholz, supra, the declaration of trust in this case, technically speaking, contained no power to revoke, amend or alter the trust. What the instrument did was to make it possible for the trustees acting jointly to terminate the trust at any time. The petitioner insists that as Mrs. Sargent was one of the trustees named in the declaration the power to terminate, which he views as the equivalent of a power to alter, amend or revoke, was, strictly speaking, lodged in the settlor and two other persons. He says, therefore, that these facts make the transaction taxable under § 302 (d). The respondents reply that if the section be strictly construed it applies only to a transfer where the enjoymentthereof is subject to a power to "alter, amend or revokes" and that the instant transfer was subject to no such power, but to a power to terminate. The circumstances about to be mentioned render it unnecessary to consider either contention. . Mrs. Sargent resigned as a trustee in 1920-and was succeeded by her daughter, one of the beneficiaries. .When,
+
+*'8F. Supp. 995. 275 F. (2d) 35.
+
+102
+
+OCTOBER TERM, 1935.
+
+Syllabus.
+
+296 U. S.
+
+a year later, the daughter resigned a new trustee could be appointed only by the written nomination of the two remaining trustees with the approval of all the beneficiaries of the trust. By such concerted action Mrs. Sargent was again-appointed a trustee. She then acquired any power for the future to participate.in a termination of the trust, solely by virtue of the action of the other trustees and the beneficiaries and not in any sense by virtue of any power reserved to herself as settlor in the original declaration of trust. We think, therefore, that neither technically nor in substance does the power to terminate as it existed from 1921 to the date of Mrs. Sargent's death fall within . 302 (d).
+What has been said in the Helmholz case requires, a ruling that the section, if held to apply to this transfer, offends the due process clause of the Fifth Amendment.
+Judgment affirmed.
+MR. JUSTICE BRANDEIS, MR. JUSTICE STONE and MR. JUSTICE CARIDoZo concur in the result.
+
+McFEELY v. COMMISSIONER OF INTERNAL REVENUE.*
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE THIRD CIRCUIT.
+No. 24. Argued October 24, 1935.-Decided November 11, 1935.
+1. The meaning of the term Capital Assets detned in the Revenue Act of 1921, § 206 -(a) (6), as property "acquired and held" by it6' taxpayer for more than two years, was not changed by omis-
+* Together with -No. 110,. United States v. First National Bank of Boston et al., and No. 111, Helvering, Commissioner of Internal Revenue, v. Lee, certiorari to the Circuit Court of Appeals for the First Circuit; No. 439, Rand v. Helvering, Commissidner of Internal Revenue, certiorari to the Circuit Court of Appeals for the Eighth Circuit;
+
+300
+
+OCTOBER TERM, 1935.
+
+Syllabus.
+
+296 U.S.
+
+CERTIORARI* to review a judgment reversing convictions of respondents for carrying on a liquor business contrary to state law without having paid the tax imposed by § 701 of the Revenue Act of 1926.
+Mr. Gordon Dean, with whom Solicitor General Reed, Assistant Attorney General Keenan and Messrs. Mahlon D. Kiefer and IV. Marvin Smith were on the brief, submitted for the United States.
+Mr. Frank Hickman submitted for respondents.
+
+MR. JUSTICE ROBERTS delivered the opinion of the Court.
+
+This case, like the case next preceding, involves the
+
+validity of § 701 of the Revenue Act of 1926. The Circuit
+
+'Court of Appeals reversed judgments of conviction under
+
+an indictment charging engaging in the business of a retail liquor dealer contrary to the laws of Oklahoma on
+
+August 17, 1934. 8 F. Supp. 680; 76 F. (2d) 913.
+
+For the reasons given in the opinion in the other case
+
+the judgment is
+
+Affirmed.
+
+MR. JUSTICE BRANDEIS, MR. JUSTICE STONE and MR. JUSTICE CARDOZO dissent for the reasons stated in MR. JUSTICE CARDOZO'S opinion in United States v. Constantine, ante, p. 287.
+
+HULBURD v. COMMISSIONER OF INTERNAL REVENUE.
+CERTIORARI TO THE CIRCUIT 'COURT OF APPEALS FOR THE SEVENTH CIRCUIT.
+No. 39. Argued November 14, 1935.-Decided December 9, 1935. 1. An assessment under Revenue Act, 1926, § 280, against the estate
+of a deceased transferee of property of a taxpayer cannot be converted by the Board of Tax Appeals upon review, or by the Cir*See Table of Cases Reported in this volume.
+
+HULBURD v. COMMISSIONER.
+
+300
+
+Counsel for Parties.
+
+cuit Court of Appeals upon appeal from the Board's decision, into an assessment against the executor personally as legatee under the. will; the liability of the legatee, if any, must first be determined by the Commissioner in a new inquiry and expressed in a new assessment. P. 305. 2. Assuming that executors, in petitioning for review of an assessment (Revenue Act 1926, § 280) against the estate, could by waiver or estoppel subject themselves to being held liable in the proceeding as legatees, no waiver or estoppel was in this case. P. 307. 3. Assuming that, under § 281 (b) of the Revenue Act of 1926, an executor, by failing to give notice of his discharge to the Commissioner of Internal Revenue, renders himself liable qua executor for an assessment under § 280 directed against the estate but made after his discharge, the Act in this respect is not to be construed as applicable to executors who were discharged from their fiduciary liability before the Act was approyed. P. 308. 4. By the law of Illinois, in contrast with the rule at common law and in some of the States, an executor who has been discharged after a full and fair settlement of the estate, is functus officio. P. 311. 5. A decree of the Probate Court of Illinois, plainly intended to discharge an executor after a plenary accounting, is given much weight in this case as a construction of the Illinois statute governing the subject. P. 314. 6. An executor who, by reason of his discharge, is functus officio according to the local law, is no longer subject to be assessed in his representative capacity under Revenue Act, 1926, § 280. Pp. 308, 315. 76 F. (2d) 736, reversed; 27 B. T. A. 1123, affirmed.
+CERTIORARI, 295 U. S. 730, to review a judgment of the Circuit Court of Appeals which reversed, on appeal, a decision of the Board of Tax Appeals overruling an assessment made against a decedent's estate as transferee of part of the assets of a corporation which was dissolved while liable for income and profits taxes. The assessment
+against the estate was made after the executors, one of whom is the petitioner in this case, had been discharged.
+Mr. John E. Hughes, with whom Mr. Henry A. Gardner and Alfred T. Cartonwere on the brief, for petitioner.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+Mr. N. A. Townsend, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Messrs. James 1V. Morris and Maurice J. Mahoney were on the brief, for respondent.
+MR. JUSTICE CARDOZO delivered the opinion of the
+Court.
+The controversy is one as to the liability of the executor and legatee of a shareholder in a dissolved corporation for a deficiency of income and profits taxes assessed
+against the company. In September, 1919, the Van Sicklen Company, an
+Illinois corporation, sold all its assets to a Delaware corporation, the Van Sicklen Speedometer Company, and was thereupon dissolved. In consideration of the sale it received $250,000 in cash and 5,000 shares in the new company, which it distributed forthwith among its own shareholders. One of these shareholders was Charles H. tIulburd. His distributive portion on the dissolution of the company was $8,000 in cash and 160 shares of no-par stock. He died on January 14, 1924, leaving a will by which his son, De Forest Jiulburd, and Hugh McBirney Johnston were appointed executors. The son, who is the petitioner in this court, was also a legatee and devisee. The coixecutor, Johnston, is dead.
+In December, 1919, the Van Sicklen Company filed a corporation income and profits tax return for the fiscal year ending September 30, 1919. The return, however, was inadequate. Accordingly, on November 17, 1924, the Commissioner of Internal Revenue made an additional assessment in the sum of $227,872.06, with penalties in the sum of $113,936.03. Unable to collect this deficiency from the company after the distribution of its assets, he turned to the shareholders. On October 27, 1926, he mailed a letter to the "Estate of Charles H.
+
+HULBURD v. COMMISSIONER.
+
+300
+
+Opinion of the Court.
+
+Hulburd, c/o De Forest Hulburd, 86 East Randolph Street' Chicago, Illinois." In this he gave notice of a proposed assessment "against the estate" by reason of its liability as transferee of the assets of the Illinois corporation. The amount of that liability was stated to be $24,000, but was afterwards reduced to $8,000, the cash received by the testator. In announcing this assessment, the Commissioner acted in reliance on § 280 of the Revenue Act of 1926 (26 U. S. C. App. § 1069), which permits an assessment against the transferee of a taxpayer upon the taxpayer's default. Before the passage of that act shareholders who had received the assets of a dissolved corporation might be compelled to discharge unpaid corporate taxes, but only by bill in equity or action at law. Phillips v. Commissioner, 283 U. S. 580, 592, 593. A summary procedure was added by the statute. Phillips v. Commissioner, supra. Upon the default of the taxpayer, the Commissioner is to apportion the deficiency among the transferees of the property and to give notice accordingly. Revenue Act of 1926, § 274. If the transferee is dissatisfied, he may petition the Board of Tax Appeals to redetermine the existence of liability and its proper distribution.
+On October 27, 1926, when notice of the proposed assessment was sent to the petitioner, the estate of Charles H. Hulburd had been settled, the assets distributed and the executors discharged.1 The discharged executors sub-
+1The decree of the Probate Court of Cook County, Illinois, the
+place of administration, was made on February 26, 1925, and, the text being important, is quoted in full: . "IN THE MATTER OF THE ESTATE OF CHARLES H. HULBURD,
+DECEASED.
+"This day came Hugh McBirney Johnston and DeForest Hulburd, executors of the last will and testament of Charles H. Hulburd, deceased, and presented to the court and filed herein their final account
+
+304
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+mitted to the Board of Tax Appeals a petition for review disclaiming liability. They stated in effect that they were the persons who had been appointed executors by the will of Charles H. Hulburd, but that their responsibilities as such were ended. Enumerating their objections to the assessment they alleged that the action of the Commissioner was erroneous for the reason that the estate had been "wholly distributed and settled and your petitioners duly discharged as executors thereof." Thus, as early as December, 1926 (when the petition for review was filed) and before the period of limitation under the statute had run against a new assessment against legatees or devisees (Revenue Act of 1926, § 280 (b) (2)), the Commissioner was put upon notice that the deficiency had been assessed against persons no longer liable and was given the opportunity to impose it upon others. Instead of doing this he stood his ground and prayed for an order that his determination be confirmed.
+The Board of Tax Appeals held that "at the time the notice was mailed there was no liability of the estate or of the petitioners as executors." It put aside the consideration of a possible "liability of any of the beneficiarieE
+
+with the estate of said decedent, showing that said estate has been fully administered.
+"And it now appearing to the court that more than one year has elapsed since the granting of letters testamentary herein; that due notice has been given to all of the heits at law, legatees and beneficiaries; that all assets of said estate have been collected; that no claims have been filed against said estate; that specific legacies have been paid; that the inheritance tax, federal estate tax, income tax, court costs and all other costs and expenses of administration herein have been paid, and that the balance of said estate has been distributed according to the last will and testament of said decedent, and guardian ad litem consenting to the approval of said final account.
+"It is therefore ordered by the court that said final account be approved and recorded, that the estate be and it is declared settled and that the executors be and they are hereby discharged."
+
+HULBURD v. COMMISSIONER.
+
+300
+
+Opinion of the Court.
+
+under the will or the distributees of the assets of the estate" on the ground that no such question was in the
+case. 27 B. T. A. 1123; cf. 21 B. T. A. 23. The decision of the Board was reviewed by the Circuit Court of Appeals for the Seventh Circuit. That court decided that the executors were liable de bonis testatoris because they had failed to give notice to the Commissioner that their fiduciary capacity had terminated. Revenue Act of 1926, § 281 (b). Besides this, the court held that De Forest Hulburd was liable individually to the extent of $4,000
+because in the record there was evidence, not confirmed
+by any finding, that as legatee under the will he had received half of the $8,000 paid to his father on the dis-
+solution of the company. The order of the Board was accordingly reversed, and the cause remanded for proceedings to conform to the opinion. 76 F. (2d) 736. The power was thus assumed to change a deficiency assessed against the executors of an estate into a deficiency to be assessed against a legatee who had shared in the estate. To determine the validity of that assumption and to
+settle other questions of statutory construction, a writ of certiorari was granted by this court.
+First: The petitioner is not chargeable in this proceeding with liability as legatee under the will of a deceased
+ihareholder in the taxpayer, a corporation now dissolved. The Act of 1926 (c. 27, 44 Stat. 9, § 280; 26 U. S. C.
+App. § 1069), in supplementing by a summary procedure
+the cumbrous remedy of suit, laid the duty of assessment upon the Commissioner of Internal Revenue. "The liability, at law or in equity, of a transferee of property of a taxpayer" was to be "assessed, collected, and paid in the same manner and subject to the same provisions and limitations" as in the case of any other tax deficiency. Ibid. § 280 (a) (1). Pursuant to this mandate the Commissioner did assess a liability and gave notice to the transferee accordingly. He assessed it to the estate rep-
+33682*-36---20
+
+OCTOBER TERM, 1935.
+Opinion of the Court.
+
+296 U.S.
+
+resented by executors, and not to any one else. "As provided by Section 280 of the Revenue Act of 1926, there is proposed for assessment against the estate the sum of $24,000 constituting its liability as a transferee of the assets of the Van Sicklen Company, Elgin, Illinois." The Board of Tax Appeals upon petition for review had power to redetermine the deficiency thus charged to the estate (Revenue Act of 1926, § 274), but not to charge it to another. Cf. 26 U. S. C. (1934 ed.) §§ 600, 601, 619;
+Williamsport Wire Rope Co. v. United States, 277 U. S. 551, 562, 564. If some one else was to be charged, there would be need of a new assessment, which the Commissioner might make at any time within a year after the enactment of the statute. Revenue Act of 1926, § 280 (b) (2). In making it he would consider any facts material and relevant for arriving at a just apportionment of benefits and burdens. The duty to inquire and determine was imposed by the statute upon him and not upon an agency of government established for the purpose of revising his decision. These restraints upon jurisdiction were duly heeded by the Board. It disclaimed the power or the purpose to pass upon the liability of legatees or devisees or to assess a tax against them. The same restraints upon jurisdiction were binding upon the Court
+of Appeals in reviewing the action of the Board, and binding with greater emphasis, for the court was without power to choose between conflicting inferences unless only one was possible, or to try the case de novo. Helvering v. Rankin, 295 U. S. 123. The adjudication of liability as to Hulburd individually was made in seeming forgetfulness of these jurisdictional restrictions. It was error to ignore them.
+In so holding we are not unmindful of the argument for the respondent that the form of the petition to review the action of the Commissioner was effective in some way to enlarge the scope of the proceeding and to subject the
+
+HULBURD v. COMMISSIONER.
+
+300
+
+Opinion of the Court.
+
+legatee to a new and different assessment. The argument will not stand. There is nothing in the petition submitted to the Board whereby power was extended beyond the statutory limits, if we assume provisionally that consent might be effective, at least in certain circumstances, to bring that result about. The petitioners, having been discharged as executors, were unwilling to
+describe themselves as if they were still acting in that capacity. What they did was to state the facts .and ask the judgment of the Board thereon. Far from conceding that the assessment ran against either of them personally, they protested that in form and in purpose it was an assessment against the estate and hence was of no validity after the estate had been settled and the executors discharged. The meaning of their protest was not subject to misconstruction, nor in fact was it misconstrued, as the opinion of the Board shows, if the fact might otherwise be doubtful. When the protest had been made, the remedy available to the Commissioner was obvious and ample. He had time even then as we have already pointed out, to announce a new assessment, which would have brought up the question whether the liability once resting on the executors had devolved upon another. For reasons not disclosed he determined not to do so. In such circumstances the cases cited by the government, where a formal defect has been ignored in circumstances tending toward an inference of waiver or estoppel,2 have no relation to the case at hand. We are not required at
+
+'Commissioner v. New York Trust Co., 54 F. (2d) 463; Haag v. Commissioner, 59 F. (2d) 516; Burnet v. San JoaquinFruit & Investment Co., 52 F. (2d) 123; Warner Collieries Co. v. United States, 63 F. (2d) 34; American Equitable Assurance Co. v. Helvering, 68 F. (2d) 46; Continental Products Co. v. Commissioner, 66 F. (2d) 434; Buzard v. Helvering, 64 App. D. C. 268; 77 F. (2d) 391; Commissioner v. Nichols & Cox Lumber Co., 65 F. (2d) 1009; Pittsburgh Terminal Coal Corp. v. Heiner, 56 F. (2d) 1072.
+
+OCTOBER TERM, 1935.
+Opinion of the Court.
+
+296 U.S.
+
+this time to approve or disapprove them. In this case there was neither waiver nor estoppel, but a steady insistence that the deficiency had been assessed against the estate and no one else, and that the liability of the estate had ended. To hold that by consent, either tacit or express, the proceeding had been turned into one to review the validity of a different assessment, and one never in fact made, would be a perversion of the record.
+Second: The estate having been settled and the executors discharged, the petitioner was functus officio under the law of Illinois, and was no longer subject to an assessment in his representative capacity.
+The Court of Appeals in upholding the liability of the executors as such put its ruling upon the ground that they had failed to give notice to the Commissioner of the termination by decree or otherwise of 'theirfiduciary capacity. The notice was thought to be requisite inder § 281 (b) of the Revenue Act of 1926, which is qubted in the margin.8 But the Revenue Act of 1926 became a law in February of that year (§ 286; 26 U. S. C. § 931), and the executors were discharged in February, 1925. If their liability as executors was ended at thaw time, the statute will not be read as attempting to revive it. White v. United States, 191 U. S. 545; Winfree v. Northern Pacific Ry. Co., 227 U. S. 296; Union Pacific R. Co. v. Laramie Stock Yards, 231 U. S. 190, 199; Shwab v. Doyle, 258 U. S. 529; Liberman's Committee v. Commissioner, 54 F.
+(2d) 527.
+
+"Upon notice to the Commissioner that any person is acting in a fiduciary capacity for a person subject to the liability specified in section 280, the fiduciary shall assume, on behalf of such person, the powers, rights, duties, and privileges of such person under such section (except that the liability shall be collected from the estate of such person), until notice is given that the fiduciary capacity has terminated."
+
+HULBURD v. COMMISSIONER.
+
+309
+
+300
+
+Opinion of the Court.
+
+Section 281 (b) being found to be inapplicable, we have still to determine whether executors who have been
+discharged after a full settlement of the estate are sub-
+ject by the law of Illinois to assessment or suit in their representative capacity.
+By the common law of England an executor was deemed
+to carry forward the persona of the testator. Holmes, The Common Law, pp. 344, 345; Holdsworth's History of English Law, vol. 3, pp. 563, 573, 574, 583; Littleton's Tcnures, § 337; Co. Litt. 209, a, b; Mechanics' Savings
+Bank v. Waite, 150 Mass. 234, 235; 22 N. E. 915; Chip-
+man v. Manufacturers' National Bank, 156 Mass. 147, 149; 30 N. E. 610. Unless the appointment was qualified in respect of time, it continued during life. Williams, Executors, 12th ed., vol. 1, pp. 131, 147, 342. There was no such thing as a discharge upon a showing of plene
+administravit. There was no such thing as a resignation because of mere unwillingness to go on. Rogers v. Frank, 1 Younge and Jervis 409, 414; In the Goods of Heslop, 1 Robertson's Ecclesiastical Rep. 457, 458; In the Goods of Veiga, 3 Swabey & Tristram 13, 15. The power to act might be suspended or revoked through the appointment
+of a committee or a receiver if the executor was found
+to be physically or mentally incapable. In the Goods of Binckes, 1 Curteis 286; In the Goods of Newton, 3 Curteis 428; In the Goods of Cooke, [1895] P. D. 68; In the Goods of Goldschmidt, 78 L. T. (N. S.) 763; In the Estate of Shaw, [1905] P. D. 92. There might be like relief if he had become insolvent after probate or had disappeared or had misappropriated the assets or otherwise abused his trust. In the Goods of Covell, [1889] 15 P. D. 8; Estate of Thomas, [1912] P. D. 177; Utterson v. Mair, 2 Ves. Jr. 95, 97, 98; In the Goods of Loveday, [1900] P. D. 154, 156; Oldfield v. Cobbett, 4 L. J. (N. S.) (Chan.) 271, 272; Richards v. Perkins, 8 L. J. (N. S.) (Ex. Eq.) 57, 58.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+Nothing short of clear necessity would cause him to be ousted. In the absence of peril to the estate, responsibility and power were not to be renounced when once they had been assumed. So the law of England continues even
+4
+now. . The comnon-law rule is preserved in some of our states
+today, but in many has been abandoned, at times as the result of statute, at times through the combined force of statute and decision. The diversity of doctrine is surprising, and so, often, is its obscurity. The commentators tell us, however, and, as the cases show, correctly, that the growing tendency in this country is away from the English rule." Some states, though they make provision for an accounting, make none for a discharge, and hold the executor suable after the estate has been distributed, upon the chance that other property may be discovered later on. The judgment will be collectible out of assets in futuro, or quando acciderint, as was said in early days. Williams, supra, vol. 2, p. 1253; Mary Shipley's Case, 4 Coke, Part 8, p. 408; Noell v. Nelson, 2 Saund. 226. This in effect is the practice in New York (Mahoney v. Bernhard,45 App. Div. 499, 501; 63 N. Y. S. 642; aff'd, 169 N. Y. 589; 62 N. E. 1097; Willets v. Haines, 96 App. Div. 5, 7; 88 N. Y. S. 1018; Rosen v. Ward, 96 App. Div. 262, 266; 89 N. Y. S. 148; Pearse v. National Lead Co., 162 App. Div. 766, 769; 147 N. Y. S. 989; Paff v. Kinney, 1 Bradf. 1, 9), where a judicial settlement of accounts is conclusive as to the past, but is never ultimate in the sense that it relieves the fiduciary from liability for the future. See also Hazlett v. Estate of
+
+'Cf. 14 Halsbury, Laws of England, 2d ed., pp. 171, 269, 287, 288, and cases cited.
+5See Woerner, The American Law of Administration, 3d ed., vol. 3, §§ 571, 572, 573, where the cases are brought together.
+
+HULBURD v. COMMISSIONER.
+
+300
+
+Opinion of the Court.
+
+Blakely, 70 Neb. 613, 617; 97 N. W. 808; Weyer v. Watt,
+48 Ohio St. 545, 551; 28 N. E. 670. On the other hand, there are states where by express provision of the statutes
+the executor is to be discharged upon a showing of full administration, and others where the requirement of a
+discharge has been read into the statutes by a process of
+construction.' The courts of Illinois, as we interpret their opinions,
+maintain a middle ground, which is neither that of the
+common law on the one side nor its opposite on t'he other. This is not to say that there is any case in that state so
+like in its essential features to the one for decision here
+a§ to make the Illinois position certain. On the contrary,
+-. Minnesota: Security Trust Co. v. Black River Notional Bank, 187 U. S. 211, 234, reviewing the state decisions; State ex rel. Matteson v. Probate Court, 84 Minn. 289, 293; 87 N. W. 783 (Since 1903 the right to a discharge has been reinforced by statute. Acts of 1903, c. 195; 1 Mason's Stats., 1927, § 8886.); Missouri: Grayson v. Weddle, 63 Mo. 523, 539, 540; State ex rel. Stotts v. Kenrick, 159 Mo. 631; 60 S. W. 1063; In re Estate of Rooney, 163 Mo. App. 389, 394: 143 S. W. '88; cf. Kentucky: U. S. Fidelity & Guaranty Co. v. Martin, 143 Ky. 241, 242, 243; 136 S. W. 200; West Virginia: Downey v. Kearney, 81 W. Va. 422, 426; 94 S. E. 509. See also, Alabama: Modawell v. Holmes, 40 Ala. 391, 404; Hicky v. Stallworth, 143 Ala. 535, 540; 39 So. 267; Code, 1928, § 5962; California: Willis v. Farley, 24 Cal. 490, 502; In re Clary, 112 Cal. 292, 294; 44 Pac. 569; Probate Code, 1933, § 1066; Georgia: Carter v. Anderson, 4 Ga. 516; Groce v. Field, 13 Ga. 24, 30; Code, 1933, § 113-2302; Iowa: Diehl v. Miller, 56 Iowa 313; 9 N. W. 240; Code, 1931, § 12052; Kansas: Musick v. Beebe, 17 Kan. 47, 53, 54; Proctor v. Dicklow, 57 Kan. 119, 125; Rev. Stats., 1923, § 22-931; Montana: State ex rel. Petters & Co. v. District Court, 76 Mont. 143, 148; 245 Pac. 529; Rev. Code, 1921, §§ 10311, 10331; Pennsylvania: Vandever's Appeal, 42 Pa. 74; Estate of John Wiseman, 12 Phila. 11; 20 Purdon's Stats., § 911; South Carolina: Seabury v. Green, 294 U. S. 165, 169; Quick v. Campbell, 44 S. C. 386, 392; 22 S. E. 479; McNair v. Howle, 123 S. C. 252, 266; 116 S. E. 279; Code, 1932, § 9024.
+
+312
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+support will be found for the strict rule of the common law if what has been said in some of the opinions is taken from its fiamework and consicjered without reference to what was actually decided. See, e. g.. Starr v. Willoughby, 218 Ill. 485, 493; 75 N. E. 1029., The aspect becomes different, however, when attention is directed-to the setting of the facts and to the provisions and implications of the applicable statutes. What emerges, it would seem, is this: A discharge upon an accounting will be vacated in a direct proceeding if it appears that there were assets, not inventoried by the executor nor included in his report, for which, when the decree was passed, he was properly accountable (Fraserv. Fraser,149 Ill. App. 186, 187, 195, 196; cf. Musick v. Beebe, 17 Kan. 47, 53, 54): in the absence ?f such a showing, the discharge when decreed upon a finding of full administration will relieve the executor fot the future of responsibility and power. Cf. Reizer v. Mertz, 223 Ill, 555, 562, 564; 79 N. E. 283; Robinson v. RobinsQn, 214 Ill. App. 262, 268, 269.'
+
+'Leading cases in Illinois are brought together in this note for the purpose of distinguishing dictum from dccisi6n: Blanchard v. Williamson, 70 Ill. 647, 650, holds that a discharge of an administrator will be treated as a nullity if made while the estate is in course of administration; Diversey-v. Johnson, 93 Ill. 547, 558, holds that a discharge is of nJ effect if obtained by the administrator with notice of an outstanding claim and in fraud of the rights of :the alverse claimant (cf. People v. Rardin, 171 Ill. App. 226, 230); Bayless v. People, Z6 Ill. App. 55, 58, holds that a surety is liable on an executor's bond where a balance available for creditors was wrongfully distributed; Starr v Willoughby, 218 Ill. 485, 492; 75 N. E. 1029, holds that a power in trust, unrelated to the office of executor, will survive a decree which purports to discharge him; and Maguire v. City of Macomb, 293 Ill. 441, 453; 127 N. E. 682, is substantially to the same effect. No casc has been found where an executor whose discharge had been decreed after a full and fair accounting has been held suable thereafter in his representative capacity.
+
+HULBURD v. COMMISSIONER.
+
+313
+
+300
+
+Opinion of the Court.
+
+Whatever doubt may survive a reading of the cases is dispelled or greatly attenuated when we pass to an examination of the statutes and the plan that they reveal.
+First in order of importance is the statute regulating
+the settlement of accounts.' An executor is required to exhibit a report of his administration within thirty days after the expiration of one year from the date of his letters. That being done, he must exhibit a report thereafter, whenever required by the court, "until the duties of administration are fully completed." He may from time to time at his own volition file "a final report of his administration to a specified date," which, even if approved, will not terminate his office. He may also make a final report "at the conclusion of administration."' Such a report, if approved upon notice to all parties in interest, shall be binding upon them "in the absence of fraud, accident or mistake." A final report "at the conclusion of administration" assumes that there is a stage when administration is over. The executor is functus officio when discharged by the court after that stage has been attained.
+Another statute of high significance is one that makes provision for an appraisal of the assets.' ° If the executor
+discovers after the making of an inventory and appraisal that the assets of the estate do not exceed the amount of the widow's allowance, after deducting necessary expenses, he is to report the facts to the court. Thereupon the court, if it finds the report to be true, shall order the assets to be delivered to the widow, " and discharge the executor
+
+'Laws of 1872, p. 77, at pp. 105, 106, § 112; amendedby Laws of 1919, p. 1, at p. 3; Laws of 1931, p. 6; Laws of 1933, p. 3, at p. 6; now Revised Statutes, 1935, c. 3, § 114.
+'See Laws of 1931, p. 6. "Laws of 1872, p. 77, at p. 92, § 59; Laws of 1919, p. 1, at p. 2; now Revised Statutes, 1935, c. 3, § 60.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+or administrator from further duty." Plainly such a discharge is equivalent to a termination of the office. There is not only exoneration for the past, but absolution for the future.1
+The decree of the Probate Court discharging this execu-
+tor must be read against the background of this statutory scheme. It is too precise in its terms to be dismissed as amounting to nothing more than a confirmation of the report as submitted for approval. If words can express an intention to declare administration ended, the expression is not lacking here. We may not put all this aside as surplusage. If there was no power in the Illinois court to give relief so comprehensive, the defect should be very clear before a federal court will undertake to wrest the words of the decree from their natural and ordinary meaning or hold them to be futile. Especially is that so in view of the growing tendency of probate courts throughout the land to break the shackles of the ancient rule. Weighty considerations of expediency and justice explain this tendency and support it. In the thought of many judges, an executor discharged after a full and fair accounting is no longer to be vexed by the annoyance and expense of defending fruitless suits with assets no longer available for reimbursement or indemnity. If suitors or tax-gatherers wish to go against the estate or against those who have shared in it, they must either vacate the decree upon a showing of assets unaccounted for, or procure upon a showing of necessity the appointment of an administrator, or pass over the estate and its representatives and pursue the..legatees to the extent of benefits received. There was no attempt to tread those paths, though the last at all events was open.
+
+Still Another inroad upon the common-law rule is made by a stat-
+ute allowing an executor to resign whenever it appears to the court that a resignation is proper. Laws of 1872, p. 77, at p. 88, § 40; now Revised Statutes, 1935, c. 3, § 41.
+
+HOPKINS SAVINGS ASSN. v. CLEARY. 315
+
+300
+
+Syllabus.
+
+The controversy in this aspect is one of local law,
+which, once it is ascertained, must be accepted as controlling. Security Trust Co. v. Black River National Bank, supra; Forrest v. Jack, 294 U. S. 158; Seabury v. Green, 294 U. S. 165. The decree discharging the executo, s amounts to a construction of the Illinois statute by a court of the state, and a court of special competence and experience in disposing of such questions. There being no satisfactory showing that the decision overpasses the bounds of jurisdiction, we yield to its authority.
+The decree of the Circuit Court of Appeals is reversed and the order of the Board of Tax Appeals affirmed.
+Reversed.
+
+HOPKINS FEDERAL SAVINGS & LOAN ASSN. ET AL. v. CLEARY ET AL.*
+CERTIORARI TO THE SUPREME COURT OF WISCONSIN.
+No. 55. Argued November 18, 19, 1935.-Decided December 9, 1935.
+1. The Federal Home Owners' Loan Act of 1933, § 5 (i), as amended, must be construed as providing that any state building and loan association which has become a member of a Federal Home Loan Bank by subscribing to its shares, may convert itself into a Federal Savings and Loan Association upon the vote of a baremajority of its members and without the consent of the State that created it. P. 332. This construction is corroborated by a comparison of the Act in its present form with its form before amendment, and with other analogous legislation. P. 333.
+2. Courts cannot ignore the plain meaning of a statute in order to avoid a decision upon its validity, P. 334.
+3. The Home Owners' Loan Act, to the extent that it permits the conversion of state associations into federal ones in contravention
+* Together with No. 56, Reliance Building & Loan Assn. v. Cleary et al.; and No. 57, Northev Budding,& Loan Assn. v. Cleary et al. Certiorari to the Supreme Court of Wisconsin.
+
+U. S. TRUST CO. v. COMMISSIONER. 481
+
+463
+
+Syllabus.
+
+possess, or any sacrifice of its proper dignity as a sovereign, if it prosecuted its claim in the appropriate forum where the funds are held.
+As we are dealing simply with the question of tife exercise of jurisdiction by the District Court, we intimate no opinion upon the merits.
+The decrees are
+_Affirmed.
+
+UNITED STATES TRUST COMPANY OF NEW YORK, TRUSTEE, v. COMMISSIONER OF INTERNAL REVENUE.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE
+SECOND CIRCUIT.
+No. 169. Argued December 17, 1935.-Decided January 6, 1936.
+A trust created by a father for his three children, providing inter alia that each of them should receive one-third of the net income and upon termination of the trust one-third of the principal of the trust estate, was amended, as permitted by the indenture, to declare that the estate should be divided into three separate and
+* equal shares, to which might be assigned undivided interests in the whole or any part of it; that such shares should be designated by the respective names of the three beneficiaries, and that each of the beneficiaries should have the same rights, interest and power in and over his share and the income thereof as was given to them, respectively, by the original trust instrument over one-third of the trust estate. The object of the amendment was to divide the trust into three separate trusts in order to reduce liability for income taxes. The cash and property of the trust were accordingly transferred on the books of the trustee, in equal shares, to three new accounts, one for each of the beneficiaries; income, disbursements, and new principal were entered in this same way; and the accounts of the single trust were closed. Held: 1. That the single trust had been converted into three in accordance with the intention of the parties. P. 486. 2. It was not necessary that the cash and securities should be physically divided. P. 487.
+33682 o36- 31
+
+482
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S,
+
+3. Any vested property right, including an undivided interest, may constitute the corpus of a trust; a single fund may be held on several trusts. P. 487. 75 F. (2d) 973, reversed.
+
+CERTIORARI* to review a judgment reversing an order of the Board of Tax Appeals which set aside an additional tax imposed on a trustee by the Commissioner of Internal Revenue.
+
+Mr. Clay Judson for petitioner.
+
+Mr. J. Louis Monarch, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr. Sewall Key were on the brief, for respondent.
+
+MR. CHIEF JUSTICE HUGHES delivered the opinion of the Court.
+
+Petitioner is trustee under a trust created by John P. Wilson, in 1913, for the benefit of his three children. Under a reserved power, the trust was four times amended. The sole question is whether the amendments created three separate trusts. The question arises in relation to the taxation of income. If there is but a single trust, as the Commissioner of Internal Revenue ruled, an additional tax would be payable. If there are three trusts, as the Board of Tax Appeals determined, there would be no additional tax. The Circuit Court of Appeals held that there was only one trust. 75 F. (2d) 973. Certiorari was granted because of the conflicting decision of the Circuit Court of Appeals for the Seventh Circuit in Commissioner v. McIlvaine, 78 F. (2d) 787.
+By the original deed, one-third of the net income of the securities held in trust was to be paid to each of the three children while living, and upon the death of any one, to those who were to succeed to his or her interest in accord-
+* See Table of Cases Reported in this volume.
+
+U. S. TRUST CO. v. COMMISSIONER. 483
+
+481
+
+Opinion of the Court.
+
+ance with the provisions of the deed. During the first fifteen years of the trust the income could be accumulated by the trustee, with the written consent of the primary beneficiaries, and added to the principal. The trust was terminable at any time in whole or in part by the three children (or survivors) subject to the approval of the grantor, if living, and in any event was to terminate on the death of all the children. Upon termination, -onethird of the principal was to be distributed to each of the three children if living, and the share of a deceased child was to go according to the provisions of his or her will or, in the absence of such disposition, to the surviving issue of the decedent or, in default of such issue, to the surviving issue of the grantor per stirpes. Provision was made for the alteration of the trust "in any respect and to any extent at any time" by the three children, or survivors, subject to the approval of the grantor if living. Thereafter the "rights and powers of all parties concerned" were to be the same as though the trust deed had originally been executed in the altered form.
+In 1918, the three children, with the approv,9l of the grantor, modified the trust so as to provide:
+"The trust estate now held under said trust deed shall be divided into three separate and equal parts or shares (to which may be assigned undivided interests in the whole or any part of the said trust estate), which parts or shares shall severally be designated by our respectivc names, and each of us and our respective legal representatives shall have the same rights, interest and power in and over one of said three equal parts or shares and the income thereof which is given to us respectively by said indenture over one-third of said trust estate and the income thereof, except as may be otherwise specifically provided herein."
+It was further provided that the whole of the net income received from each share during the remaindbr of 1918,
+
+484
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+and one-half of the net income received thereafter and during the life of the grantor, should be accumulated and added to the principal of such share, with privilege of withdrawal by the beneficiary, with the grantor's consent, of the amount so accumulated. All the provisions of the original trust deed, except as they were "expressly or necessarily" modified by the new instrument, were to
+continue in force. In 1919, the three children, with the grantor's approval,
+executed another modifying. instrument which provided that one-half of the net income "of each of the three trust estates" should be paid over, as received, to the beneficiaries entitled thereto, and that the other one-half should be paid to them when the payment was requested by any two of the original beneficiaries; the net income not so paid over was to "be, added to the principal of the
+trust fund from which it is derived." Provision was also made for the disposition of the net income in case of the death of any of the original beneficiaries and for
+the distribution of the "several trust estates" upon
+termination. In 1920, the three children, with the approval of the
+grantor, modified the amendment of 1919 with respect to
+the disposition of income by providing that the trustee should pay out "as much of the net income from each of said separate trusts" to the beneficiaries as should be requested by a majority in interest of the beneficiaries, with the added requirement that "equal payments must be made out of the net income from each of said separate
+trusts, to the end that said several separate trusts may be maintained on a basis of equality in amount so far as practicable." There was a further provision that so much
+of the net income, "received in any year from each separate trust estate," which was not paid out should form part "of the principal of the separate trust estate" from which it was derived, and the trustee was required to
+
+U. S. TRUST CO. v. COMMISSIONER.
+
+481
+
+Opinion of the Court.
+
+devote to charitable purposes so much of the net income "of said trusts". as should be requested by the three children (or survivors), such payments to be made "in equal amounts from each of said separate trusts."
+There was a further amendment in 1928 enlarging the powers conferred upon the trustee by the original deed with respect to the borrowing of money, the borrowed sums to be dealt with "as part of the principal of the three trusts hereunder, in equal shares."
+The purpose of the first amendment and the subsequent course of dealings are thus described in the findings of the Board of Tax Appeals, which are adequately supported by the evidence:
+"The purpose of the amendment of September 21, 1918, was to create three separate ana distinct trusts, one for each of the beneficiaries of the single trust then in existence, in order to reduce liability for income taxes on the income of the trust.
+"Prior to the first amendment the truitee kept one cash ac'rount for the trust under the heading' Trust under deed of John P. Wilson, for John P. Wilson, Jr., and others' to which was credited all income of the trust. On September 27, 1918, three accounts were opened up by the trustee, one in the name of 'Trust under Deed of John P. Wilson for John P. Wilson, Jr.'; one under the name of 'Trust under Deed of John P. Wilson, for Anna W. Dickinson'; and the other under the name of-'Trust under Deed of John P. Wilson, for Martha Wilson.' The single account was then closed by transferring equal amounts of its balance to each of the new accounts. Thereafter cash received and disbursed on account of the trust property was entered in these accounts, one-third in each.
+"At the same time the property account kept by the trustee for the stock of the single trust was closed out by transferring the items thereof equally to accounts opened up under the names of the three befeficiaries. There was
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+no actual division of the property held under the trust indenture. The new accounts as set up showed that onethird of each asset of the old trust represented the corpus of three new trusts, one for each of the three children of the grantor. Acquisitions of additional principal by purchase were divided equall among the three trusts.
+"The stock certificates acquired by the trustee before and after September 21, 1918, were carried in the name of the petitioner as trustee under the deed of trust of John P. Wilson or in the name of a nominee of the trustee. The cash belonging to the trusts in question here and all other trusts being administered by the trustee was kept in one general account with another bank.
+"During the taxable years the trustee rendered separate reports each month to the beneficiaries on the basis of a separate trust for each. For each of the years 1924 to 1929, inclusive, it filed fiduciary and income tax returns on the basis of a separate and distinct trust for each child. In his audit of the returns the respondent determined that the income held in trust under the indenture of March 12, 1913, as amended, was taxable on the basis of a single trust and a single return for each year."
+The Board of Tax Appeals concluded that "three separate and distinct trusts" were created.
+No question is raised as to the validity of the several amendments. The only question is as to their construction and effect. The parties, if they pleased, had power to convert the single trust into three trusts and the evidence and findings leave no doubt as to their intention to do so. The question is whether they accomplished their purpose. United States v. Phellis, 257 U. S. 156, 172. If the various securities had been divided physically, if new certificates of stock had been obtained for the several beneficiaries, and such certificates and specific bonds and cash had been set aside for each, there would be no room for argument that three separate trusts were not created. But it was
+
+U. S. TRUST CO. v. COMMISSIONER. 487
+
+481
+
+Opinion of the Court.
+
+not necessary to have such a physical division in order to carry out the clear intention of the parties. An undivided interest in property may constitute the corpus of a
+trust. The original trust deed provided that its provisions and limitations should be construed according to the laws of Illinois. But the elementary principle is applied in Illinois, as elsewhere, that " every kind of vested right which the law recognizes as valuable may be transferred in trust." Burke v. Burke, 259 Ill. 262, 268; 102 N. E. 293, 295. "It [a trust] may be created in any property, real or personal, legal or equitable, which is in existence, and which in the eye of a court of equity, is of value." Gurnett v. Mutual Life Insurance Co., 356 Ill. 612, 617; 191 N. E. 250, 252. Perry on Trusts, 7th ed., §§ 67, 68. Nor are the amending instruments open to the objection that the subject of the trusts was not adequately defined. Compare Snyder v. Snyder, 280 Ill. 467, 469, 470; 117 N. E. 465; Marble v. Marble's Estate, 304 Ill. 229, 236; 136 N. E. 589. Where there is an intention to create
+separate trusts, the fact that " the trusts" are "kept in
+one fund" does not necessarily defeat the intention and require the conclusion that there is but a single trust. Matter of Colegrove, 221 N. Y. 455, 459; 117 N. E. 813. "In many cases," said the Court of Appeals of New York in Vanderpoel v. Loew, 112 N. Y. 167, 180; 19 N. E. 481, 484, where "income and principal were given in equal shares, although out of one fund kept in solido for convenience of investment, a severance of the trust into its component parts has been adjudged. . . . The shares and interests are several, although the fund remains undivided." See, also, Rollestone v. National Bank of Commerce, 299 Mo. 57, 71; 252 S. W. 394.
+In the instant case, immediately following the first amendment, the trustee opened separate accounts for the three trusts and the single account previously k2pt was closed. Income received and amounts disbursed were n|i-
+
+OCTOBER TERM, 1935.
+Counsel for Parties.
+
+296 U.S.
+
+vided and entered in the separate accounts. The property account of the single trust was closed and the items were transferred equally to separate accounts in the names of the beneficiaries, showing one-third of the assets of the old trust as representing the corpus of each of the three trusts. New principal was divided equally in the same way. If, at the outset, there had been three trust deeds, each creating a trust for the benefit of a distinct bene-
+ficiary in an undivided one-third of the property involved, no question would have arisen. We think the same result was achieved by the use of the power of amendment. We find no ground for concluding that the purpose of the parties to create the three trusts was not carried out.
+The decision of the Circuit Court of Appeals is reversed and the order of the Board of Tax Appeals is affirmed.
+Reversed.
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. McILVAINE ET AL., TRUSTEES.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.
+No. 566. Argued December 17, 1935.-Decided January 6, 1936.
+Decided upon the authority of United States Trust Co. v. Commissioner, ante, p. 481.
+78 F. (2d) 787, affirmed.
+CERTIORARI *to review a judgment affirming a decision of the Board of Tax Appeals, 27 B. T. A. 304, which overruled an additional tax assessment on a trustee.
+Mr. J. Louis Monarch, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr. Sewall Key were on the brief, for, petitioner.
+Mr. Clay Judson forXespohdents.
+* See Table of Cases Reported in this volume.
+
+HELVERING v. HELMHOLZ.
+
+93
+
+Statement of the Case.
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. HELMHOLZ.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA.
+
+No. 14. Argued October 15, 16, 1935.-Decided November 11, 1935.
+
+1. Members of a family-the two parents and their childrentransferred the stock of the family corporation under a trust instrument, which provided for paying the net dividends to them
+and their issue during the existence of the trust, and for disposition of the shares upon its termination. The trust was to terminate (1) If the parents had died, upon the death of their last surviving grandchild; or (2) upon delivery to the trustee of a writing, signed by all of the then beneficiaries, declaring it at an end; or (3) upon unanimous vote of the directors of the corporation, so declaring; or (4) if the corporation were dissolved for any cause provided by law; and upon the happening of any of these events, the stock was to be distributed among the beneficiaries then entitled to receive the dividends. Upon the extinction of the issue of the parents, they being then also dead, the stock was to be turned over to a charitable trust. Held, that none of these provisions for termination of the trust was a power to "alter, amend or revoke" the transfer within the meaning of the Revenue Act of 1926, § 302 (d).
+P. 96. 2. A provision in a trust indenture that the trust shall terminate
+when all beneficiaries join in so declaring, merely expresses a, condition which the law itself imposes; this is not a power "to alter, amend or revoke," within the meaning of § 302 (d), Revenue Act, 1926. P. 97. 3. Section 302 (d) of the Revenue Act of 1926 would violate the Fifth Amendment if applied to a transfer in trust, made before its enactment, which was complete when made, and which left no power in the grantor to revoke, alter or amend without the consent of other beneficiaries of the trust. P. 98. 75 F. (2d) 245, affirmed.
+
+CERTIORARI, 295 U. S. 724, to review the affirmance of a decision of the Board of Tax Appeals, 28 B. T. A. 165, disapproving an increase of estate tax assessment.
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U.S.
+
+Mr. David E. Hudson, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Mr Sewall Key were on the brief, for petitioner.
+
+Mr. James Quarles, with whom Messrs. Louis Quarles and James T. Guy were on the brief, for respondent.
+
+MR. JUSTICE ROBERTS delivered the opinion of the Court.
+This case, like Helvering v. City Bank &c. Tr. Co., ante, p. 85, arises under § 302 (d) of the Revenue Act of 1926. The respondent is administrator and sole beneficiary of the estate of his wife, Irene C. Helmholz. In 1918 she, her father and mother and her brothers and sisters joined in an indenture conveying to a trustee all of the shares of stock in the Patrick Cudahy Family Company. Her contribution was 999 shares, the dividends from which the trustee was to receive, and pay, less expenses, to Mrs. Helmholz for life, remainder to her appointee by will and remainder to her issue; and in event she or any other subscriber should die without issue the net dividends on the stock delivered to the trustee by such decedent- were to be paid "to the surviving subscribers or their issue living at the time of distribution proportionately by right of representation."
+The paragraph of the indenture relative to the termination of the trust is:
+"Fifth: The term of the primary trust hereby created shall end (1) upon the death of the last surviving grandchild of Patrick and Anna M. Cudahy, they being then deceased, or (2) upon delivery to the said trustee of a written instrument signed by all of the then beneficiaries, other than testamentary appointees, declaring said trust term at an end, or (3) upon delivery to said trustee of a copy (certified by the president or secretary of the Patrick
+
+HELVERING v. HELMHOLZ.
+
+93
+
+Opinion of the Court.
+
+Cudahy Family Company and under its corporate seal) of a 'resolution adopted by unanimous vote of the board of directors of said corporation declaring said trust term at an end, whereupon and in either of said events the said trustee shall distribute the capital stock of said the Patiick Cudahy Family Company to the beneficiaries then entitled to receive the net dividends thereof other than testamentary appointees; excepting the shares to the dividends upon which such testamentary appointees are entitled, which shall be held by said trustee as herein-
+before provided. "The term of the primary trust hereby created shall also
+terminate upon the dissolution of said the Patrick Cudahy Family Company in the manner and for any of the causes
+provided by law, whereupon the trustee shall distribute
+all the proceeds and assets by it received upon the liquidation of said corporation to the beneficiaries other than testamentaiy appointees then entitled to receive net dividends or income in the proportion in which they are
+severally entitled, excepting the proceeds and (or) assets of shares to the net dividends or income upon which testamentary appointees are entitled, which shall continue to be held in trust as hereinbefore provided.
+"The term of the primary trust hereby created shall also terminate upon the extinction of issue of the said Patrick and Anna M. Cudahy, they being then deceased, whereupon the said trustee shall convey and transfer the stock of said the Patrick Cudahy Family Company to the Wisconsin Trust Company as trustee, to have and to hold the same upon the trusts and for the uses and purposes embraced in a certain resolution or declaration of trust adopted by the board of directors of the Wisconsin Trust Company May 24, 1915, establishing a certain community trust known as the Milwaukee Foundation for administration and distribution as in said trust declaration pre-
+
+96
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+scribed and defined, subject, however, to any existing valid testamentary appointments made by subscribers: hereto as hereinbefore provided."
+Irene C. Helmholz left a will bequeathing all her property to respondent. The Supreme Court of Wisconsin held this a valid exercise of her power of appointment under the trust deed. [First Wisconsin Trust Co. v. Helmholz, 198 Wis. 573; 225 N. W. 181.] The petitioner determined that the value of the 999 shares should be included in her gross estate. The Board of Tax Appeals rtversed this determination.1 The United States Court of Appeals for the District of Columbia, to which an appeal was taken pursuant to stipulation for hearing by that court, affirmed the Board.2 We granted certiorari.
+What is said in Helvering v. City Bank &c Tr. Co., supra, shows that the transfer was complete when the trust was created in 1918. The features which differentiate this case are the absence of a reserved power of revocation or alteration and the retroactive operation of the Act. Either requires -a decision that the corpus of the trust may not be-included in the gross estate.
+The words of § 302 (d) are, "where the enjoyment [of the transfer] was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend or revoke . . ." The'-agreement under consideration contains no such power as that described. Like every well drawn instrument it embodies provisions for the termination of the trust. An examination of paragraph Fifth shows that these were, in the main, such as any farsighted settlor would. employ. Since the beneficiaries were the issue of Patrick and Anna Cudahy it was natural to provide that upon the extinction of issue the trust
+28 B. T. A. 165. 264 App. D. C. 114; 75 F. (2d) 245.
+
+HELVERING v. HELMHOLZ.
+
+93
+
+Opinion of the Court.
+
+should terminate and the principal be turned over to a secondary charitable trust. Inasmuch as the corpus comprised only the shares of a corporation there was nothing out of the ordinary in requiring that the trust terminate upon dissolution of the company and that the proceeds of liquidation be distributed amongst the then beneficiaries.
+It was not unnatural to direct that the trust should end if the managers of the company should unanimously so de-
+cide. And termination upon the death of the last surviving grandchild of Patrick and Anna Cudahy, they being then deceased, is certainly not unusual.
+The petitioner, however, pitches upon the only remaining event of termination, asserting it to be the equivalent of a power to revoke, or to amend, to be exercised by the settlor with others. This is found in the clause providing
+that the delivery to the trustee of a writing signed by all the then beneficiaries (other than, testamentary appointees) declaring such purpose, shall be effective to end the trust. He points out that such a writing might have been executed by Mrs. Helmholz and her co-beneficiaries while she was alive, with the effect of revesting in her the shares which she had delivered into the trust. This argument overlooks the essential difference between a power to revoke, alter or amend, and a condition which the law imposes. The general rule is that all parties in interest may terminate the trust.' The clause in question added nothing to the rights which the law conferred. Congress cannot tax as a transfer intended to take effect in possession or enjoyment at the death of the settlor a trust created in a state whose law permits all the beneficiaries to terminate the trust.
+Another and more serious objection to the application of § 302 (d) in the present instance is its retroactive oper-
+3 Restatement of the Law of Trusts, §§ 337, 338. We are referred
+to no authorit' to the contrary in Wisconsin, the place of the trans-
+action.
+33682*--36-7
+
+98
+
+"
+
+OCTOBER TERM, 1935.
+Syllabus.
+
+296 U. S.
+
+ation. The transfer was complete at the time of the creation of the trust. There remained no interest in the grantor. She reservedno power in herself alone to revoke, to alter or to amend. Under the revenue act then in force the transfer was not taxable as intended to take effect in possession or in enjoyment at her death. Reinecke v. Northern Trust Co., 278 U. S. 339. If § 302 (d) of the Act of 1926 could fairly be considered as intended to apply in-the instant case its operation would violate the Fifth Aiendment. Nichols v. Coolidge, 274 U. S. 531.
+The judgment is Affirmed.
+MR. JUSTICE BRANDEIS, MR. JUSTICE STONE and MR.
+JUSTICE CARDOZO concur in the result on the ground last
+stated in the opinion.
+
+WHITE, FORMER COLLECTOR OF INTERNAL REVENUE, v. POOR ET AL., EXECUTORS.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIRST CIRCUIT.
+No. 36. Argued Ocober 16, 1935.-Decided November 11, 1935.
+Decedent, in her lifetime, conveyed property to herself and two others as trustees upoi a trust which was terminable by joint action of the three trustees but which she, herself, reserved no power to modify. She resigned as trustee; but later, upon the resignation of her successor, was reappointed under a clause of the trust instrunent providing that such vacancies could be filled by the other trustees with the approval of the beneficiaries. Held: 1. That the power thus acquired to participate in terminating the trust, not being in any sense a power reserved by her in the trust -instrument, was not a power "to alter, amend or revoke," within the meaning of § 302 (d), Revenue Act, 1926. P. 101. 2. If that section, enacted after the date of the transfer, were deemed applicable, it would violate the Fifth Amendment. Helvering v. Helmholz, ante, p. 93. P. 102.
+75 F. (2d)- 35, affirmed.
+
+HELVERING v. ST. LOUIS TRUST CO. 39
+
+33
+
+Syllabus.
+
+filed in 1923 in the Valuation Proceeding, and also the evidence as to the cost of reproduction, and said: "Clearly, the only pertinent value is that for purposes of sale or exchange. Cost of reproduction is to be given little, if any, weight in determining such value, in the absence of evidence thaf a reasonably prudent man would purchase or undertake the construction of the properties at such a figure." (201 I. C. C. 670.)
+_Affirmed.
+
+HELVERING, COMMISSIONER OF INTERNAI4 REVENUE, v. ST. LOUIS UNION TRUST CO.
+ET AL.
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE
+EIGHTH CIRCUIT.
+No. 25. Argued October 24, 25, 1935.-Decided November 11, 1935.
+1. Some years before his death, decedent conveyed property in trust to pay' the income to his daughter during her life, with remainder over to persons named. The indenture also provided (1) that'if the trustee should exercise a discretionary power given him to terminate the trust, or (2) the daughter should die before the grantor did, the property should be.transferred, to the grantor, to be his absolutely. Neither of the contingencies had taken place when "the grantor died. Held that the transfer was not "intended to take effect in possession or enjoyment at or after his death,"' within the meaning of § 302 (c), Revenue Act of 1924. P. 40.
+2. That wbich gives rise to the estate tax. laid by § 301 (a) of the Revenue Act of 1924, is the death of the decedent, with the resulting transfer of his estate, either by will or the law relating to intestacy. When, therefore, § 302 (c) includes within the purview of § 301 (a) a transfer inter vivos "intended to take effect in possession or enjoyment at or after his death," it does so upon the thebry that such a transfer in effect is testamentary-that is to say, a substitute for either a disposition by will or a passing in virtue of intestacy. P. 41.
+3. In this case the grantor had retained no right in the trust estate which was the subject of testamentary disposition; and his death
+
+OCTOBER TERM, 1935. Opinion of the Court.
+
+296 U. S.
+
+passed no interest to any of the beneficiaries of the trust; it did not enlarge the interests conveyed by the indenture, but simply extinguished a mere poss-bility of reverter. Klein v. United States, 283 U. S. 231, distinguished. P. 43. 75 F. (2d) 416, affirmed.
+CERTiORARI, 295 U. S. 727, to review a judgment of the Circuit Court of Appeals sustaining an order, 28 B. T. A. 107, disapproving a deficiency tax assessment.
+
+Mr. David E. Hudson, with whom Solicitor General Reed, Assistant Attorney General Wideman, and Messrs. Sewall Key and Maurice J. Mahoney were on the brief, for petitioner.
+
+Mr. Daniel N. Kirby for respondents.
+
+By leave of Court, Mr. Garret W. McEnerney filed a brief as amicus curiae, supporting the contentions of respondents.
+
+M R. JUSTICE SUTHERLAND delivered the opinion of the Court.
+
+The decedent, several years prior to his death, transferred to a trustee certain securities in trust, to be held, managed and disposed of as an active trust, the net income thereof' to be paid to the decedent's daughter during her life, with remainder over to the persons named. The trustee was given discretionary power to terminate the trust whenever the trustee might deem it wise to do so, whereupon the estate was to revert to the grantor. The :ndenture contained a further provision that if the daughter predecease the grantor, the trust shall terminate and the trust estate be transferred, paid over and delivered to the grantor, to be his absolutely. It is this latter provision which gives rise to the question we are called
+upon to consider. By the terms of the indenture, the grantor recited that it was his intention to make for the
+
+HELVERING v. ST. LOUIS TRUST CO.
+
+39
+
+Opinion of the Court.
+
+benefit of his daughter "an absolute and irrevocable gift and settlement of the property . . . so tat the grantor shall during the life of his said daughtex baM-V no furthr individual or beneficial interest therein." The grant was final and absolute in terms, and beyond the power of the grantor to revoke or alter.: At the death of the grantor, neither of the contingencies upon which the trust estate would revert to the grantor had taken place.
+The commissioner assessed a deficiency tax against the
+estate upon the view that the grantor, having reserved the right to a revestment in him of the trust property, title to which he had conveyed, upon the happening of either of the contingencies mentioned, the transfer to the trustee was one "intended to take effect in possession or enjoyment at or after his death" within the meaning of § 302 (c), Revenue Act of 1924, c. 234, 43 Stat. 253, 304.*
+The Board of Tax Appeals decided against the commissioner's view, 28 B. T. A. 107, and its holding was upheld by the court below. 75 F. (2d) 416.
+The substantive provision of the act which imposes the tax is § 301 (a); and by that provision the tax is laid "upon the transfer of the net estate of every decedent
+dying after the enactment of. this act." The event which gives rise to the tax is the death of the decedent, with the resulting transfer of his estate either by will or the law relating to intestacy. When, therefore, § 302 (c) includes within the purview of § 301 (a) a transfer inter vivos "intended to take effect in possession or enjoyment at or after his death," it does so upon the theory that such a transfer in effect is testamentary-that is to
+
+* Sec. 302 provides that there shall be included in the gross egtate the value of all property--
+"(c) To the extent of any interest 'therein of which the decedent has at any time made a transfer, or with respect to which h6 has at any time created a trust, in contemplation of or intended to take effect in posbcssion or enjoyment at or after his death, .. . "
+
+42
+
+OCTOBER TERM, 19 5.
+
+Opinion of the Court.
+
+296 U. S.
+
+say, a substitute for either a disposition by will or a passiig in virtue of intestacy.
+"But such a transfer, not so made, embodies a transaction begun and completed wholly by and between the living, taxable as a gift (Bromley v. McCaughn, 280 U. S. 124), but obviously not subject to any form of death duty, since it bears no. relation whatever to death. The generating s6urce' of such a gift is to be found in the facts of life and not in the -circumstance of death. And the deathafterward'of the donor in no way changes the situation; that is to say, the death does not result in a shifting, or in the conpletion of a shifting, to the donee of any economic benefit of property, which is the subject of a death tax, Chase Nat. Bank .v. United States, 278 U. S. 327, 338; Reinecke v. Northern Trust Co., 278 U. S. 339, 346; Saltonstall v. Saltonstall, 276 U. S. 260, 271'; nor does the death in such case bring into'being, or ripen for the donee or anyone else, so far as the gift is con-
+cerned, any property right or interest which can be the subject of any form of death tax. Compare Tyler v. United States, 281 U. S- 497, 503. Complete ownership of the gift, together with all its incidents, has passed during the life of both donor and donee, and no interest of any kind remains to pass to one or cease in the other in consequence of the death which happens afterward." (Ital. added.) Heiner v. Donnan,285 U. S.312, 322-323. - The property brought into the estate by subdivision
+302 (c) for the purpose of the tax is, as said by this court in Reinecke v. Northern Trust Co., 278 U. S. 339, 348,
+... either property transferred in contemplation of
+death or propeity passing out of the control, possession or enjoyment of the decedent at his death, . . . In the light of the' general purpose of the statute and the language of [§ 301 (a)] explicitly imposing the tax on net estates of decedents, we think it at least doubtful whether the trusts or interests in a trust intended to be
+
+HELVERING v. ST. LOUIS TRUST CO. 43
+
+39
+
+Opinion of the Court.
+
+reached by the phrase in [§ 302 (c)] 'to take effect in possession or enjoyment at or after his death,' include any others than those passing from the possession, enjoyment or control of the donor at his death and so taxable as transfers at death under [§ 301 (a)]. That doubt must be resolved in favor of the taxpayer." (Ital. added).
+If, therefore, no interest in the property involved in a given case pass "from the possession, enjoyment or control of the donor at his death," there is no interest with respect to which the decedent has created a trust intended to take effect in possession or enjoyment at or after his 'death. The grantor here, by the trust instrument, left in himself no power to resume ownership, possession or enjoyment except upon a contingency in the nature of a condition subsequent, the occurrence of which was entirely fortuitous so far as any control, design or volition on his part was concerned. After the execution of the trust he held no right in the trust estate which in any sense was the subject of testamentary disposition. His death passed no interest to any of the beneficiaries of the trust, and enlarged none beyond what was conveyed by the indenture. His death simply put an end to what, at best, was a mere possibility of a reverter by extinguishing it-that is to say, by conv rting wh'at was merely possible into an utter impossibility. This is well stated by the court below (75 F. (2d) at page 418):
+"It was only in the case of the happening of certain contingencies over which he had no control that the property would revert to him. One of these contingencies was the death of his daughter prior to his death, while the trust still continued; and the second was a termination by the trustee of the trust during the lifetime of the grantor. Neither of these contingencies occurred, and there was, during the decedent's. lifetime, nothing more than a possibility that either would occur.. In no proper sense was there an enlargement of the interests of the
+
+OCTOBER TERM, 1935.
+
+Opinion of the Court.
+
+296 U. S.
+
+beneficiaries of the trust resulting from the death of the 'decedent. That event merely changed the possibility that the property would revert into an impossibility."
+It is not, in reason, possible to find in'the circumstances ' anything which suggests that the death of the grantor, whenever it might happen, would effect any change, or was intended to effect any change, in the extent or quality of the estates conveyed in trust. The only death which could have had any such effect was that of the daughter, the grantee; and that event did not take place.
+In that connection see Matter of Barstow, 230 App. Div. (N. Y.) 371, 372-3, 244 N. Y. S. 588; aff'd 256 N. Y. 647; 177 N. E. 177. There the donor transferred irrevocably certain property to a trustee to be held in trust for the benefit of two daughters, with the condition that upon the death of both, the fund then in the hands of the trustee was to be transferred back to the donor if then living. The donor died leaving her daughters still living. The court held that the transfer took place when the deed of trust was executed and not when the donor died.
+"Mrs. Barstow could do nothing to change the effect of the deed. The corpus was beyond her control, except for the happening of the contingency that she might survive the two life tenants, and then she would have been revested with the corpus. The rights of the beneficiaries did not depend upon the death of the donor. The term of the trust was not measured by the life of the donor, but by the lives of her two daughters.' They had an interest in principal and income, provided one or both survived the donor. They took a vested estate subject to being divested if the donor survived both daughters. If we 'are to view the sequence of events in the order of the actual rather than the possible' (Matter of Schmidlapp, 236 N. Y. 278, 286), then we have not only a right, but are bound to conclude that because Mrs. Barstow' died before
+
+HELVERING v. ST. LOUIS TRUST CO.
+
+39
+
+Opinion of the Court.
+
+the termination of the trust which she created, the transfer took place when the deed was executed, and not when she died. There was the contingency that she might survive her daughters, but that did not depend upon any affirmative or volitional act of the donor."
+We think it unnecessary further to review the decisions which support our conclusion. In addition to those already cited, the following are in point: May v. Heiner, 281 U. S. 238, 243; Coolidge v. Long, 282 U. S. 582; McCormick v. Burnet, 283 U. S. 784, reversing the Circuit Court of Appeals for the Seventh Circuit (43 F. (2d) 277), and in effect affirming the Board of Tax Appeals, 13 B. T. A. 423, 437; Duke v. Helvering, 23 B. T. A. 1104, 1113, aff'd 62 F. (2d) 1057, and affirmed by an equally divided court in 290 U. S. 591; Wallace v. Helvering, 27 B. T. A. 902, 910, 913, aff'd 71 F. (2d) 1002, certiorari denied 293 U. S. 600; St. Louis Union Trust Co. v. Becker, 716 F. (2d) 851.
+The case of Klein v. United States, 283 U. S. 231, which is strongly relied upon by the Government, does not support its position. There the grantor, 15 months prior to his wife's death, conveyed to his wife by deed a life estate in certain lands. But in the event that she survived the grantor "and in that case only" she was to take the lands in fee simple. The effect of this deed, we held, waa-that only a life estate was vested, the remainder being, retained by the grantqr; and whether that should ever become vested in the grantee depdnded upon the condition precedent that the grantor die during the life of the grantee. The grantor having died first, his death clearly effected a transmission of the larger estate to the grantee. But here the grantor parted with the' title and all beneficial interest in the property, retaining no right with respect to it which would pass to anyone as a result of his death. Unlike the Klein case, where the death was, the generating source of the title, here, as the court below
+
+OCTOBER TERM, 1935. STONE, J., dissenting.
+
+296 U.S.
+
+said, the trust instrument and not the death was the generating source. The death did not transmit the possi'bility, but destroyed it.
+Judgment affirmed.
+MR. JUSTICE STONE, dissenting.
+Decedent, in making disposition of his property by his trust deed, retained a valuable interest in the property by Which he postponed final disposition of it until his death. I think that the value of that interest was rightly subjected to the tax imposed by § 302 (c). This conclusion is strengthened and not avoided by construing the section as imposing a tax on the value of the interest which is shifted from donor to donee on the former's death. Although the tax is a death tax, § 302 (c) nevertheless applies to any interest in gifts inter vivos which, by their provisions, are "intended to take effect in possession or enjoyment at or after death," and such gifts are subjected to the tax as a death tax if they are not complete until the donor's death. Reinecke v. Northern Trust Co., 278 U. S. 339, 345; Klein v. United States, 283 U. S. 231. The decedent's death, operating upon his gift inter vivos not complete until his death, is the event which calls the statute into operation. Klein v. United States, supra, 234.
+The section, in its scope and purpose, is thus similar to § 302 (d) which includes in the decedent's taxable estate the value of his interest held as joint tenant or tenant by the entirety, althougl{ created by deed inter vivos. Tyler v. United States, 281 U. S. 497; Phillips v. Dime Trust & S. D. Co., 284 U. S. 160. Both provisions prevent tax evasion by subjecting to the death tax, forms of gifts inter vivos which may be resorted to, as a substitute for a will, in making dispositions of property operative at death. See Tyler v. United States, supra, 505.
+
+HELVERING v. ST. LOUIS TRUST CO. 47
+
+39
+
+SroNE, J., dissenting.
+
+Compare No. 10, Helvering v. City Bank Farmers Trust Co., decided this day, post, p. 85.
+It seems plain that the gift here was not complete until
+decedent's death. He did not desire to make a complete gift. He wished to keep the property :for himself in case he survived his daughter. He kept this hold upon it by reserving from his gift an interest, terminable only at his
+death, by which full ownership would be restored to him if he survived his daughter. If he had reserved a power
+to revoke the trust, if he survived her, Reinecke v. Northern Trust Co., supra, would have made the gift taxable,
+as would Klein v. United States, supra, if he had reserved a remainder in himself with gift over, if he did not survive his daughter. Instead, by using a different form of words, he attained the same end and has escaped the tax.
+Having in mind the purpose of the statute and the breadth of its language it would seem to be of no consequence what particular conveyancers' device-what particular string-the decedent selected to hold in suspense the ultimate disposition of his property until the moment
+of his death. In determining whether a taxable transfer becomes complete only at death we look to substance, not to form. Klein v. United States, supra, 234; Chase National Bank v. United States, 278 U. S. 327, 335; Reinecke v. Northern Trust Co., supra, 345; Saltonstall v. Saltonstall, 276 U. S. 260, 271. However we label the device it is but a means by which the gift is rendered incomplete until the donor's death.. The extent to which it is incomplete marks the.extent of the "interest" passing at death, which the statute taxes.
+The judgment should be reversed.
+
+The CHIEF JUSTICE, MR. JUSTICE BRANDEIS, and MR. JUSTICE CARDOZO join in this opinion.
+
+

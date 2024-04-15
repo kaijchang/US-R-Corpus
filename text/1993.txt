@@ -1,0 +1,801 @@
+OCTOBER TERM, 1993
+Syllabus
+JOHN HANCOCK MUTUAL LIFE INSURANCE CO. v. HARRIS TRUST AND SAVINGS BANK, AS TRUSTEE OF THE SPERRY MASTER RETIREMENT TRUST NO. 2
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 92-1074. Argued October 12, 1993-Decided December 13, 1993
+Petitioner John Hancock Mutual Life Insurance Company (Hancock) and respondent Harris Trust and Savings Bank (Harris), the current trustee of a corporation's retirement plan, are party to Group Annuity Contract No. 50 (GAC 50), an agreement of a type known as a "participating group annuity." Under such a contract, the insurer commingles with its general corporate assets deposits received to secure retiree benefits, and does not immediately apply those deposits to the purchase of annuities. During the life of the contract, however, amounts credited to the deposit account may be converted into a stream of guaranteed benefits for individual retirees. Funds in excess of those that have been so converted are referred to as "free funds." Dissatisfied over its inability to gain access to GAC 50's free funds, Harris filed this suit pursuant to, inter alia, the Employee Retirement Income Security Act of 1974 (ERISA), alleging that Hancock is managing "plan assets," and therefore is subject to ERISA's fiduciary standards in its administration of GAC 50. Hancock responded that its undertaking fits within the ERISA provision, 29 U. S. C. §1101(b)(2)(B), that excludes :from "plan assets" a "guaranteed benefit policy," defined as an insurance policy or contract "to the extent that [it] provides for benefits the amount of which is guaranteed by the insurer." The District Court granted Hancock summary judgment on the ERISA claims, holding that it was not a fiduciary with respect to any portion of GAC 50. Reversing in part, the Court of Appeals held that the "guaranteed benefit policy" exclusion did not cover the GAC 50 free funds, as to which Hancock provides no guarantee of benefit payments or fixed rates of return.
+Heldk Because the GAC 50 free funds are "plan assets," Hancock's actions in regard to their management and disposition must be judged against ERISA's fiduciary standards. Pp. 94-110. (a) The import of the pertinent ERISA provisions, read as a whole and in light of the statute's broad purpose of protecting retirement benefits, is reasonably clear. In contrast to other ERISA provisions creat-
+
+Cite as: 510 U. S. 86 (1993)
+Syllabus
+ing unqualified exemptions from the statute's reach, Congress specifically instructed, by the words of limitation it used in § 1101(b)(2)(B), that the guaranteed benefit policy exclusion be closely contained: The deposits over which Hancock is exercising authority or control under GAC 50 must have been obtained "solely" by reason of the issuance of "an insurance policy or contract" that provides for benefits "the amount of which is guaranteed," and even then the exemption applies only "to the extent" that GAC 50 provides for such benefits. Pp. 94-97.
+(b) The Court rejects Hancock's contention that, because Congress reserved to the States primary responsibility for regulating the insurance industry, ERISA's requirement that a fiduciary act "solely in the interest of... participants and beneficiaries and.., for the exclusive purpose of... providing benefits," § 1104(a)(1)(A)(i) (emphasis added), must yield to conflicting state-law requirements that an insurer managing general account assets consider the interest of, and maintain equity among, all of its contractholders, creditors, and shareholders. The McCarran-Ferguson Act-which provides, among other things, that no federal "Act ... shall be construed to ... supersede any [state] law... enacted.. . for the purpose of regulating the business of insurance ... unless such Act specifically relates to the business of insurance"-does not support Hancock's contention, since ERISA and the guaranteed benefit policy provision obviously and specifically "relat[e] to the business of insurance." Moreover, although state laws concerning an insurer's management of general account assets "regulat[e] insurance" in the words of ERISA's saving clause-which instructs that ERISA "shall not be construed to exempt ... any person from any [state] law... which regulates insurance," § 1144(b)(2)(A)-state laws regulating general accounts also can "relate to [an] employee benefit plan" under ERISA's encompassing preemption clause, which directs that the statute "shall supersede any and all State laws insofar as they.., relate to any employee benefit plan," § 1144(a). There is no solid basis for believing that Congress, when it designed ERISA, intended fundamentally to alter traditional preemption analysis. Thus, ERISA leaves room for complementary or dual federal and state regulation, and calls for federal supremacy when the two regimes cannot be harmonized or accommodated. Pp. 97-101.
+(c) Hancock is an ERISA fiduciary with respect to the free funds it holds under GAC 50. To determine whether a contract qualifies as a guaranteed benefit policy, each component of the contract bears examination. A component fits within the guaranteed benefit policy exclusion only if it allocates investment risk to the insurer. Cf, e. g., SEC v. United Benefit Life Ins. Co., 387 U. S. 202. Such an allocation is present when the insurer provides a genuine guarantee of an aggregate amount
+
+88
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Syllabus
+
+of benefits payable to retirement plan participants and their beneficiaries, as Hancock indisputably did with respect to certain GAC 50 benefits not at issue. As to a contract's free funds, the insurer must guarantee a reasonable rate of return on those funds and provide a mechanism to convert them into guaranteed benefits at rates set by the contract. While another contract, with a different set of features, might satisfy these requirements, GAC 50 does not; indeed, Hancock provided no real guarantee that benefits in any amount would be payable from the free funds. Pp. 101-106.
+(d) The Court declines to follow the Labor Department's view that ERISA's fiduciary obligations do not apply in relation to assets held by an insurer in its general account under contracts like GAC 50. The 1975 interpretive bulletin assertedly expressing this view did not originally have the scope now attributed to it, since it expressly addressed only a question regarding the scope of the prohibited transaction rules, and did not mention or elaborate upon its applicability to the guaranteed benefit policy exemption or explain how an unqualified exclusion for an insurer's general asset account can be reconciled with Congress' choice of a more limited ("to the extent that") formulation. Moreover, as of 1992, the Department apparently had no firm position to communicate, since it declined to file a brief in the Court of Appeals, citing the need to fully consider all of the implications of the issues. This Court will not accord deference to the Department's current view, since, by reading the statutory words "to the extent" to mean nothing more than "if," the Department has exceeded the scope of available ambiguity. Pp. 106-110.
+970 F. 2d 1138, affirmed.
+
+GINSBURG, J., delivered the opinion of the Court, in which REHNQUIST, C. J., and BLACKMUN, STEVENS, SCALIA, and SOUTER, JJ., joined. THOMAS, J., filed a dissenting opinion, in which O'CONNOR and KENNEDY, JJ., joined, post, p. 111.
+
+Howard G. Kristol argued the cause for petitioner. With him on the briefs were Robert M. Peak, Rosalie A. Hailey, and Richard J. J. Scarola.
+Christopher J. Wright argued the cause for the United States as amicus curiae urging reversal. With him on the brief were Acting SolicitorGeneralBryson, Acting Deputy Solicitor General Kneedler, Judith E. Kramer, Allen H. Feldman,Nathaniel I. Spiller,and Elizabeth Hopkins.
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+Lawrence Kill argued the cause for respondent. With him on the brief was John B. Berringer*.
+JUSTICE GINSBURG delivered the opinion of the Court.
+This case presents an issue of statutory constructionwhether the fiduciary standards stated in the Employee Retirement Income Security Act of 1974 (ERISA) govern an insurance company's conduct in relation to certain annuity contracts. Fiduciary status under ERISA generally attends the management of "plan assets." The statute, however, contains no comprehensive definition of "plan assets." Our task in this case is to determine the bounds of a statutory exclusion from "plan asset" categorization, an exclusion Congress prescribed for "guaranteed benefit polic[ies]."
+The question before us arises in the context of a contract between defendant-petitioner John Hancock Mutual Life Insurance Company (Hancock) and plaintiff-respondent Harris Trust and Savings Bank (Harris), current trustee of a Sperry Rand Corporation Retirement Plan.' Pursuant to its con-
+*Briefs of amici curiaeurging reversal were fied for the State of New
+York et al. by Robert Abrams, Attorney General of New York, and Jerry Boone, Solicitor General, and Scott Harshbarger,Attorney General of Massachusetts; for the American Council of Life Insurance by James F Jorden, Stephen H. Goldberg,Perry Ian Cone, Waldemar J Pfiepsen, Jr., Richard E. Barnsback, Stephen W. Kraus, and Phillip E. Stano; and for the Life Insurance Council of New York by Theodore R. Groom, Stephen M. Saxon, William F Hanrahan,William J Flanagan,and Raymond A D'Amico.
+Briefs of amici curiae urging afflirmance were filed for Certain United States Senators and Representatives by Howard M. Metzenbaum, pro se; for the American Association of Retired Persons et al. by Cathy VentrellMonsees, Joan S. Wise, Mary Ellen Signorille,and EdgarPauk; and for the Western Conference of Teamsters Pension Trust Fund by William H. Song, Brigid CarrollAnderson, and Timothy St. ClairSmith.
+I Sperry Rand Corporation has undergone a number of changes in name and corporate form since 1941, when the contract with Hancock was initially made; for convenience, we use in this opinion only the employercorporation's original name, Sperry.
+
+90
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+tract with Harris, Hancock receives deposits from the Sperry Plan. Harris asserts that. Hancock is managing "plan
+assets," and therefore bears fiduciary responsibility. Hancock maintains that its undertaking fits within the statutory exclusion for "guaranteed benefit polic[ies]." "Guaranteed benefit policy" is not a trade term originating in the insurance industry; it is a statutory invention placed in ERISA and there defined as an insurance policy or contract that "provides for benefits the amount of which is guaranteed by the insurer." 88 Stat. 875, 29 U. S. C. § 1101(b)(2)(B).
+The contract in suit is of a kind known in the trade as a "deposit administration contract" or "participating group annuity."' 2 Under a contract of this type, deposits to secure retiree benefits are not immediately applied to the purchase of annuities; instead, the deposits are commingled with the insurer's general corporate assets, and deposit account balances reflect the insurer's overall investment experience. During the life of the contract, however, amounts credited to the deposit account may be converted into a stream of guaranteed benefits for individual retirees.
+We granted certiorari, 507 U. S.983 (1993), to resolve a split among Courts of Appeals regarding the applicability of the guaranteed benefit policy exclusion to annuity contracts of the kind just described. The Second Circuit in the case we review held that the guaranteed benefit policy exclusion did not cover funds administered by Hancock that bear no fixed rate of return and have not yet been converted into guaranteed benefits. 970 F. 2d 1138, 1143-1144 (1992). We agree with the Second Circuit that ERISA's fiduciary obligations bind Hancock in its management of such funds, and accordingly affirm that court's judgment.
+
+2For descriptions of these contracts, see D. McGill & D. Grubbs, Funda-
+mentals of Private Pensions 551-564 (6th ed. 1989) (hereinafter McGill & Grubbs); see also Goldberg & Altman, The Case for the Nonapplication of ERISA to Insurers' General Account Assets, 21 Tort & Ins. L. J. 475, 478-482 (1986) (hereinafter Goldberg & Altman).
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+I
+The parties refer to the contract at issue as Group Annuity Contract No. 50 (GAC 50). Initially, GAC 50 was a simple deferred annuity contract under which Sperry purchased from Hancock individual deferred annuities, at rates fixed by the contract, for employees eligible under the Sperry Retirement Plan.
+Since its origination in 1941, however, GAC 50 has been transformed by amendments. By the time this litigation commenced, the contract included the following features. Assets and liabilities under GAC 50 were recorded (for bookkeeping purposes) in two accounts-the "Pension Administration Fund" recorded assets, and the "Liabilities of the Fund," liabilities. GAC 50 assets were not segregated, however; they were part of Hancock's pool of corporate funds, or general account, out of which Hancock pays its costs of operation and satisfies its obligations to policyholders and other creditors. See Agreed Statement of Facts 11-19, App. 85-86; Brief for Petitioner 7-9; see also McGill & Grubbs 492 (describing general accounts); id., at 552 (describing asset allocation under deposit administration contracts). Hancock agreed to allocate to GAC 50's Pension Administration Fund a pro rata portion of the investment gains and losses attributable to Hancock's general account assets, Agreed Statement of Facts 11, App. 85, and also guaranteed that the Pension Administration Fund would not fall below its January 1, 1968, level, Agreed Statement of Facts 27, id., at 88.
+GAC 50 provided for conversion of the Pension Administration Fund into retirement benefits for Sperry employees in this way. Upon request of the Sperry Plan Administrator, Hancock would guarantee full payment of all benefits to which a designated Sperry retiree was entitled; attendant liability would then be recorded by adding an amount, set by
+
+92
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+Hancock, to the Liabilities of the Fund.3 In the event that the added liability caused GAC 50's "Minimum Operating Level"-the Liabilities of the Fund plus a contingency cushion of five percent-to exceed the amount accumulated in the Pension Administration Fund, the "active" or "accumulation" phase of the contract would terminate automatically. In that event, Hancock would purchase annuities at rates stated in the contract to cover all benefits previously guaranteed by Hancock under GAC 50, and the contract itself would convert back to a simple deferred annuity contract. Agreed
+Statement of Facts 33, 36-37, 42, id., at 89-91. As GAC 50 was administered, amounts recorded in the
+Pension Administration Fund were used to provide retirement benefits to Sperry employees in other ways. In this connection, the parties use the term "free funds" to describe the excess in the Pension Administration Fund over the Minimum Operating Level (105 percent of the amount needed to provide guaranteed benefits). In 1977, Sperry Plan trustee Harris obtained the right to direct Hancock to use the free funds to pay "nonguaranteed benefits" to retirees. These benefits were provided monthly on a pay-as-you-go basis; they were nonguaranteed in the sense that Hancock was obligated to make payments only out of free funds, i. e., only when the balance in the Pension Administration Fund exceeded the Minimum Operating Level.
+Additionally, in 1979 and again in 1981, Hancock permitted Harris to transfer portions of the free funds pursuant to "rollover" procedures. Agreed Statement of Facts 78, id., at 96. Finally, in 1988, a contract amendment allowed Harris to transfer over $50 million from the Pension Administration Fund without triggering the contract's "asset liquidation
+
+8 This liability calculation established, in effect, the price for Hancock's
+guarantee of a specified benefit stream. The liability associated with a given benefit entitlement was to be calculated using rates that, since 1972, could be altered by Hancock. Agreed Statement of Facts 39, App. 90.
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+adjustment," a mechanism for converting the book value of the transferred assets to market value.
+While Harris in fact used these various methods to effect withdrawals from the Pension Administration Fund, Hancock maintains that only the original method-conversion of the Pension Administration Fund into guaranteed benefitsis currently within the scope of Harris' contract rights. In May 1982, Hancock gave notice that it would no longer make nonguaranteed benefit payments. Agreed Statement of Facts 82-87, id., at 97-98. And since 1981 Hancock has refused all requests by Harris to make transfers using "rollover" procedures. Agreed Statement of Facts 79, id., at 96.
+Harris last exercised its right to convert Pension Administration Fund accumulations into guaranteed benefits in 1977. Agreed Statement of Facts 81, id., at 97. Harris contends, and Hancock denies, that the conversion price has been inflated by incorporation of artificially low interest rate assumptions.
+One means remains by which Harris may gain access to GAC 50's free funds. Harris can demand transfer of those funds in their entirety out of the Pension Administration Fund. Harris has not taken that course because it entails an asset liquidation adjustment Harris regards as undervaluing the plan's share of Hancock's general account. In sum, nothing was removed from the Pension Administration Fund or converted into guaranteed benefits between June 1982 and 1988. During that period the free funds increased dramatically as a result of Hancock's continuing positive investment experience, the allocation of a portion of that experience to the Pension Administration Fund, and the absence of any offsetting increase in the Liabilities of the Fund for additional guaranteed benefits.
+Harris commenced this action in July 1983, contending, inter alia, that Hancock breached its fiduciary obligations under ERISA by denying Harris any realistic means to make
+
+94
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+use of GAC 50's free funds. Hancock responded that ERISA's fiduciary standards do not apply because GAC 50, in its entirety, "provides for benefits the amount of which is
+guaranteed by the insurer" within the meaning of the "guaranteed benefit policy" exclusion accorded by 29 U. S. C. § 1101(b)(2)(B).
+In September 1989, the District Court granted Hancock's motion for summary judgment on Harris' ERISA claims, holding that Hancock was not an ERISA fiduciary with re-
+spect to any portion of GAC 50. 722 F. Supp. 998 (SDNY 1989). The District Court thereafter dismissed Harris' remaining contract and tort claims. See 767 F. Supp. 1269 (1991). On appeal, the Second Circuit reversed in part. The Court of Appeals determined that although Hancock "provides guarantees with respect to one portion of the ben-
+efits derived from [GAC 50], it does not do so at all times with respect to all the benefits derived from the other, or free funds, portion" of the contract. 970 F. 2d, at 1143. The free funds "were not converted to fixed, guaranteed obligations but instead were subject to fluctuation based on the insurer's investment performance." Id., at 1144. With respect to those free funds, the Second Circuit concluded, Hancock "provides no guarantee of benefit payments or fixed rates of return." Ibid. The Court of Appeals accordingly ruled that ERISA's fiduciary standards govern Hancock's management of the free funds, and it instructed the District Court to determine whether those standards had been satis-
+fied. Ibid. II
+
+A
+Is Hancock a fiduciary with respect to any of the funds it administers under GAC 50? To answer that question, we examine first the language of the governing statute, guided not by "a single sentence or member of a sentence, but look[ing] to the provisions of the whole law, and to its object
+
+Cite as: 510 U S. 86 (1993)
+Opinion of the Court
+and policy." Pilot Life Ins. Co. v. Dedeaux, 481 U. S. 41, 51 (1987), quoting Kelly v. Robinson, 479 U. S. 36, 43 (1986) (internal quotation marks omitted). The obligations of an ERISA fiduciary are described in 29 U. S. C. § 1104(a)(1): A fiduciary must discharge its duties with respect to a plan
+"solely in the interest of the participants and beneficiaries and-
+"(A) for the exclusive purpose of: "(i) providing benefits to participants and their beneficiaries ......
+A person is a fiduciary with respect to an employee benefit plan
+"to the extent (i) he exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authorityor controlrespecting management or disposition of its assets...." 29 U. S. C. § 1002(21)(A) (emphasis added).
+The "assets" of a plan are undefined except by exclusion in § 1101(b)(2), which reads in relevant part:
+"In the case of a plan to which a guaranteed benefit policy is issued by an insurer, the assets of such plan shall be deemed to include such policy, but shall not, solely by reason of the issuance of such policy, be deemed to include any assets of such insurer."
+A "guaranteed benefit policy," in turn, is defined as "an insurance policy or contract to the extent that such policy or contract provides for benefits the amount of which is guaranteed by the insurer. Such term includes any surplus in a separate account, but excludes any other portion of a separate account." §1101(b)(2)(B).4
+4As noted by Goldberg and Altman, the term "guaranteed benefit contract... has never been a part of the insurance industry lexicon." Goldberg & Altman 482. ERISA itself must thus supply the term's meaning.
+
+96
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+Although these provisions are not mellifluous, read as a whole their import is reasonably clear. To help fulfill ERISA's broadly protective purposes, 5 Congress commodiously imposed fiduciary standards on persons whose actions affect the amount of benefits retirement plan participants will receive. See 29 U. S. C. § 1002(21)(A) (defining as a fiduciary any person who "exercises any authority or control respecting management or disposition of [a plan's] assets"); H. R. Conf. Rep. No. 93-1280, p. 296 (1974) (the "fiduciary
+responsibility rules generally apply to all employee benefit plans.., in or affecting interstate commerce"). The guaranteed benefit policy exclusion from ERISA's fiduciary regime 6 is markedly confined: The deposits over which Hancock is exercising authority or control under GAC 50 must have been obtained "solely" by reason of the issuance of "an insurance policy or contract" that provides for benefits "the amount of which is guaranteed," and even then it is only "to the extent" that GAC 50 provides for such benefits that the § 1101(b)(2)(B) exemption applies.
+In contrast, elsewhere in the statute Congress spoke with-
+out qualification. For example, Congress exempted from the definition of plan assets "any security" issued to a plan by a registered investment company. 29 U. S. C. § 1101(b)(1) (emphasis added). Similarly, Congress exempted "any assets of ... an insurance company or any assets of a plan which are held by ... an insurance company" from the re-
+
+I See, e. g., Massachusettsv. Morash,490 U. S. 107, 112-113 (1989); Met-
+ropolitan Life Ins. Co. v. Massachusetts,471 U. S. 724, 732 (1985). The statute's statement of purpose observes that "the continued well-being and security of millions of employees and their dependents are directly affected by [employee benefit plans]" and declares it "desirable ... that disclosure be made and safeguards be provided with respect to the establishment, operation, and administration of such plans .... " 29 U. S. C. §1001(a).
+6Section 1101(b) also provides an exclusion for assets held by "an investment company registered under the Investment Company Act of 1940." 29 U. S. C. § 1101(b)(1).
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+quirement that plan assets be held in trust. § 1103(b)(2) (emphasis added). Notably, the guaranteed benefit policy exemption is not available to "any" insurance contract that provides for guaranteed benefits but only "to the extent that" the contract does so. See Comment, Insurers Beware: General Account Activities May Subject Insurance Companies to ERISA's Fiduciary Obligations, 88 Nw. U. L. Rev. 803, 833-834 (1994). Thus, even were we not inclined, generally, to tight reading of exemptions from comprehensive schemes of this kind, see, e. g., Commissioner v. Clark, 489 U. S. 726, 739-740 (1989) (when a general policy is qualified by an exception, the Court "usually read[s] the exception narrowly in order to preserve the primary operation of the [policy]"), A. H. Phillips,Inc. v. Walling, 324 U. S. 490, 493 (1945) (cautioning against extending exemptions "to other than those plainly and unmistakably within its terms"), Congress has specifically instructed, by the words of limitation it used, that we closely contain the guaranteed benefit policy exclusion.
+B
+Hancock, joined by some amici, raises a threshold objection. ERISA's fiduciary standards cannot govern an insurer's administration of general account contracts, Hancock asserts, for that would pose irreconcilable conflicts between state and federal regulatory regimes. ERISA requires fiduciaries to act "solely in the interest of the participants and beneficiaries and . . . for the exclusive purpose of... providing benefits to participants and their beneficiaries." 29 U. S. C. § 1104(a) (emphasis added). State law, however, requires an insurer, in managing general account assets, "to consider the interests of all of its contractholders, creditors and shareholders," and to "maintain equity among its various constituencies." Goldberg & Altman 477.7 To head off
+7See, e. g., N. Y Ins. Law § 4224(a)(1) (McKinney 1985) (prohibiting unfair discrimination between contractholders); see also Mack Boring & Parts v. Meeker Sharkey Moffitt, Actuarial Consultants of New Jersey,
+
+98
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+conflicts, Hancock contends, ERISA must yield, because Congress reserved to the States primary responsibility -for regulation of the insurance industry. We are satisfied that Congress did not order the unqualified deferral to state law that Hancock both advocates and attributes to the federal lawmakers. Instead, we hold, ERISA leaves room for complementary or dual federal and state regulation, and calls for federal supremacy when the two regimes cannot be harmonized or accommodated.
+To support its contention, Hancock refers first to the McCarran-Ferguson Act, 59 Stat. 33, as amended, 15 U. S. C. § 1011 et seq., which provides:
+"The business of insurance, and every person engaged
+therein, shall be subject to the laws of the several States which relate to the regulation.., of such business." 15 U. S. C. § 1012(a).
+"No Act of Congress shall be construed to invalidate, impair or supersede any law enacted by any State for the purpose of regulating the business of insurance... unless such Act specifically relates to the business of insurance...." § 1012(b).
+
+But as the United States points out, "ERISA, both in general and in the guaranteed benefit policy provision in particular, obviously and specifically relates to the business of insurance." Brief for United States as Amicus Curiae23, n. 13.8 Thus, the McCarran-Ferguson Act does not surrender regulation exclusively to the States so as to preclude the application of ERISA to an insurer's actions under a general
+account contract. See ibid.
+
+930 F. 2d 267, 275, n. 17 (CA3 1991) (noting state regulations requiring
+insurers to treat all contractholders fairly and equitably). See generally McGill & Grubbs 492-494.
+'We called attention to the "deliberately expansive" character of ERISA's preemption provisions in PilotLife Ins. Co. v. Dedeaux,481 U. S.
+41, 45-46 (1987).
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+More problematic are two clauses in ERISA itself, one broadly providing for preemption of state law, the other preserving, or saving from preemption, state laws regulating insurance. ERISA's encompassing preemption clause di'rects that the statute "shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan." 29 U. S. C. § 1144(a). The "saving clause," however, instructs that ERISA "shall [not] be construed to exempt or relieve any person from any law of any State which regulates insurance, banking, or securities." § 1144(b)(2)(A). State laws concerning an insurer's management of general account assets can "relate to [an] employee benefit plan" and thus fall under the preemption clause, but they are also, in the words of the saving clause, laws "which regulat[e] insurance."
+ERISA's preemption and saving clauses "'are not a model of legislative drafting,"' Pilot Life, 481 U. S., at 46, quoting Metropolitan Life Ins. Co. v. Massachusetts, 471 U. S. 724, 739 (1985), and the legislative history of these provisions is sparse,. see id., at 745-746. In accord with the District Court in this case, however, see 722 F. Supp., at 1003-1004, we discern no solid basis for believing that Congress, when it designed ERISA, intended fundamentally to alter traditional preemption analysis. State law governing insurance generally is not displaced, but "where [that] law stands as an obstacle to the accomplishment of the full purposes and objectives of Congress," federal preemption occurs. Silkwood v. Kerr-McGee Corp., 464 U. S. 238, 248 (1984). 9
+We note in this regard that even Hancock does not ascribe a discrete office to the "saving clause" but instead asserts that the clause "reaffirm[s] the McCarran-Ferguson Act's res-
+9No decision of this Court has applied the saving clause to supersede a provision of ERISA itself. See, e. g., FMC Corp. v. Holiday, 498 U. S. 52, 61 (1990) (ERISA-covered benefit plans that purchase insurance policies are governed by both ERISA and state law; self-insured plans are subject only to ERISA); MetropolitanLife, 471 U. S., at 746-747 (same).
+
+100
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+ervation of the business of insurance to the States." Brief for Petitioner 31; see Metropolitan Life, 471 U. S., at 744, n. 21 (saving clause "appears to have been designed to preserve the McCarran-Ferguson Act's reservation of the business of insurance to the States"; saving clause and McCarran-Ferguson Act "serve the same federal policy and utilize similar language"). As the United States recognizes, "dual regulation under ERISA and state law is not an impossibility[;] [m]any requirements are complementary, and in the case of a direct conflict, federal supremacy principles require that state law yield." Brief for United States as Amicus
+Curiae 23, n. 13.10 In resisting the argument that, with respect to general
+account contracts, state law, not federal law, is preemptive, we are mindful that Congress had before it, but failed to pass, just such a scheme. The Senate's proposed version of ERISA would have excluded all general account assets from the reach of the fiduciary rules." Instead of enacting the
+
+10See Chicago Bd. Options Exchange, Inc. v. Connecticut GeneralLife
+Ins. Co., 713 F. 2d 254, 260 (CA7 1983) ("That ERISA does not relieve insurance companies of the onus of state regulation does not mean that Congress intended ERISA not to apply to insurance companies. Had that been Congress' intent... ERISA would have directly stated that it was pre-empted by state insurance laws."); 722 F. Supp. 998, 1004 (SDNY 1989) ("dual regulation comports with the language of the preemption and saving clauses,... which save certain state statutes from preemption, but which also assume that ERISA applies ab initio").
+"The Senate version of ERISA originally defined an "employee benefit fund" to exclude "premium[s], subscription charges, or deposits received and retained by an insurance carrier ...except for any separate account established or maintained by an insurance carrier," and defined a fiduciary as "any person who exercises any power of control, management, or dispo-
+sition with respect to any moneys or other property of any employee benefit fund .... ." See S.4, 93d Cong., 1st Sess., §§ 502(17)(B), (25), reprinted in Subcommittee on Labor of the Senate Committee on Labor and Public
+Welfare, 94th Cong., 2d Sess., Legislative History of ERISA 147, 150 (Comm. Print 1976). After an amendment (Amdt. No. 496, Sept. 17, 1973), the provision regarding "Fiduciary Standards" was streamlined to exclude
+
+Cite as: 510 U. S. 86 (1993)
+
+Opinion of the Court
+
+Senate draft, which would indeed have "settled [insurance
+
+industry] expectations," see post, at 111, Congress adopted
+
+an exemption containing words of limitation. We are di-
+
+rected by those words, and not by the discarded draft. Cf.
+
+Russello v. United States, 464 U. S. 16, 23-24 (1983) (when
+
+Congress
+
+deletes
+
+limiting
+
+language,
+
+"it
+12
+
+may
+
+be
+
+presumed
+
+that the limitation was not intended").
+
+Persuaded that a plan's deposits are not shielded from the
+
+reach of ERISA's fiduciary prescriptions solely by virtue of
+
+their placement in an insurer's general account, we proceed
+
+to the question the Second Circuit decided: Is Hancock an
+
+ERISA fiduciary with respect to the free funds it holds
+
+under GAC 50?
+
+C
+
+To determine GAC 50's qualification for ERISA's guaranteed benefit policy exclusion, we follow the Seventh Circuit's lead, see Peoria Union Stock Yards Co. Retirement Plan v. Penn Mutual Life Ins. Co., 698 F. 2d 320, 324-327 (1983), and seek guidance from this Court's decisions construing the insurance policy exemption ordered in the Securities Act of 1933. See 48 Stat. 75, 15 U. S. C. § 77c(a)(8) (excluding from the reach of the Securities Act "[a]ny insurance or endowment policy or annuity contract or optional annuity
+contract"). In SEC v. Variable Annuity Life Ins. Co. of America, 359
+U. S.65 (1959), we observed that "the concept of 'insurance' involves some investment risk-taking on the part of the company," and "a guarantee that at least some fraction of the
+
+"funds held by an insurance carrier unless that carrier holds funds in a separate account." S. 4, Amdt. No. 496, §511, id., at 1451.
+12Congress' failure to pass a blanket exclusion for funds held by an in-
+surer in its general account also counsels against reading the second sentence of the guaranteed benefit policy exception, 29 U. S. C. § 1101(b)(2)(B), which includes all separate account assets within the definition of "plan assets," as implying that assets held in an insurer's general account are necessarily not plan assets.
+
+102
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+benefits will be payable in fixed amounts." Id., at 71. 'A variable annuity, we held, is not an "insurance policy":.within the meaning of the statutory exemption because the contract's entire investment risk remains with the policyholder inasmuch as "benefit payments vary with the success of the [insurer's] investment policy," id., at 69, and may be "greater or less, depending on the wisdom of [that] policy," id., at 70.
+Thereafter, in SEC v. United Benefit Life Ins. Co., 387 U. S. 202 (1967), we held that an annuity contract could be considered a nonexempt investment contract during the contract's accumulation phase, and an exempt insurance contract once contractually guaranteed fixed payouts began. Under the contract there at issue, the policyholder paid fixed monthly premiums which the issuer placed in a fund-called the "Flexible Fund"-invested by the issuer primarily in common stocks. At contract maturity the policyholder could either withdraw the cash value of his proportionate share of the fund (which the issuer guaranteed would not fall below a specified value), or convert to a fixed-benefit annuity, with payment amounts determined by the cash value of the policy. During the accumulation phase, the fund from which the policyholder would ultimately receive benefits fluctuated in value according to the insurer's investment results; because the "insurer promises to serve as an investment agency and allow the policyholder to share in its investment experience," id., at 208, this phase of the contract was serving primarily an investment, rather than an insurance, function, ibid.
+The same approach-division of the contract into its com-
+ponent parts and examination of risk allocation in each component-appears well suited to the matter at hand because ERISA instructs that the § 1101(b)(2)(B) exemption applies only "to the extent that" a policy or contract provides for "benefits the amount of which is guaranteed." Analyzing GAC 50 this way, we find that the contract fits the statutory exclusion only in part.
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+This much is not in dispute. During the contract's active, accumulation phase, any benefits payable by Hancock for which entries actually have been made in the Liabilities of the Fund fit squarely within the "guaranteed" category. Furthermore, if the active phase of the contract were to end, all benefits thereafter payable under the contract would be guaranteed in amount. To this extent also, GAC 50 "provides for benefits the amount of which is guaranteed."
+We turn, then, to the nub of the controversy, Hancock's responsibility for administration of the free funds during GAC 50's active phase. Between 1977 and 1982, we note first, GAC 50 furnished retirement benefits expressly called "nonguaranteed"; those benefits, it is undisputed, entailed no "amount . . . guaranteed by the insurer." 29 U.S.C. § 1101(b)(2)(B); see supra, at 92. To that extent, GAC 50 does not fall within the statutory exemption. But the nonguaranteed benefit option is not the only misfit.
+GAC 50, in key respects, is similar to the Flexible Fund contract examined in United Benefit. In that case, as in this one, the contract's aggregate value depended upon the insurer's success as an investment manager. Under both contracts, until the occurrence of a triggering event-contract maturity in the Flexible Fund case, Harris' exercise of its conversion option in the case of GAC 50-the investment risk is borne primarily by the contractholder. Confronting a contract bearing similar features, the Seventh Circuit stated:
+"The pension trustees did not buy an insurance contract with a fixed payout; they turned over the assets of the pension plan to [the insurer] to manage with full investment discretion, subject only to a modest income guaranty. If the pension plan had hired an investment advisor and given him authority to buy and sell securities at his discretion for the plan's account, the advisor would be a fiduciary within the meaning of [ERISA], and that is essentially what the trustees did during the accumula-
+
+104
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+tion phase of th[is] contract .... " Peoria Union, 698 F. 2d, at 327.
+In the Second Circuit's words, "[t]o the extent that [Hancock] engages in the discretionary management of assets attributable to that phase of the contract which provides no guarantee of benefit payments or fixed rates of return, it seems to us that [Hancock] should be subject to fiduciary responsibility." 970 F. 2d, at 1144.
+Hancock urges that to the full extent of the free fundsand hence, to the full extent of the contract-GAC 50 "provides for" benefits the amount of which is guaranteed, inasmuch as "Harris Trust ... has the right . ..to use any 'free funds' to purchase: future guaranteed benefits under the contract, in addition to benefits previously guaranteed." Brief for Petitioner 26; see also Mack Boring & Parts v. Meeker Sharkey Moffitt, Actuarial Consultants of New Jersey, 930 F. 2d 267, 273 (CA3 1991) (statute's use of phrase "provides for" does not require that the benefits contracted for be delivered immediately; it is enough that the contract provides for guaranteed benefits "at some finite point in the future").
+Logically pursued, Hancock's reading of the statute would exempt from ERISA's fiduciary regime any contract, in its entirety, so long as the funds held thereunder could be used at some point in the future to purchase some amount of guaranteed benefits. 13 But Congress did not say a contract is
+"3 This argument resembles one rejected in SEC v. United Benefit Life
+Ins. Co., 387 U. S. 202 (1967). In United Benefit, the policyholder was protected somewhat against fluctuations in the value of the contract fund through a promise that the cash value of the contract would not fall below the aggregate amount of premiums deposited with the insurer. Id., at 205, 208, n. 10. We held that although this "guarantee of cash value based on net premiums reduces substantially the investment risk of the contract holder, the assumption of an investment risk cannot by itself create an insurance provision under the federal definition. The basic difference between a contract which to some degree is insured and a contract of insurance must be recognized." Id., at 211 (citation omitted).
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+exempt "if" it provides for guaranteed benefits; it said a contract is exempt only "to the extent" it so provides. Using these words of limitation, Congress apparently recognized that contracts may provide to some extent for something other than guaranteed benefits, and expressly declared the exemption unavailable to that extent.
+Tellingly with respect to GAC 50, the Pension Administration Fund is guaranteed only against a decline below its January 1, 1968, level. See supra, at 91. Harris thus bears a substantial portion of the risk as to fluctuations in the free funds, and there is not even the "modest income guaranty" the Seventh Circuit found insufficient in Peoria Union. 698 F. 2d, at 327. Furthermore, Hancock has the authority to set the price at which free funds are convertible into guaranteed benefits. See supra,at 92, n. 3. In combination, these features provide no genuine guarantee of the amount of benefits that plan participants will receive in the future.
+It is true but irrelevant, Hancock pleads, that GAC 50 provides no guaranteed return to the plan, for ERISA uniformly uses the word "benefits" to refer exclusively to payments to plan participants or beneficiaries, not payments to plans. Brief for Petitioner 25; see also Mack Boring, 930 F. 2d, at 273 ("benefits" refers only to payments to participants or beneficiaries; payments to plan sponsors can be variable without defeating guaranteed benefit exclusion); Goldberg & Altman 482. This confinement of the word "benefits," however, perfectly fits the tight compass of the exclusion. A contract component that provides for something other than guaranteed payments to plan participants or beneficiariese. g., a guaranteed return to the plan-does not, without more, provide for guaranteed benefits and thus does not fall within the statutory exclusion. Moreover, the guaranteed benefit policy exclusion requires a guarantee of the amount of benefits to be provided; with no guaranteed investment return to the plan, and no guarantee regarding conversion price, plan participants are undeniably at risk inasmuch as
+
+106
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+the future amount of benefits-payments to participants and beneficiaries-attributable to the free funds can fall to zero. But see post, at 117, n. 4 (contending that the plan's guarantee renders immaterial the absence of a guarantee by the insurer). A contract of that order does not meet the statutory prescription.
+In sum, we hold that to determine whether a contract qualifies as a guaranteed benefit policy, each component of the contract bears examination. A component fits within the guaranteed benefit policy exclusion only if it allocates investment risk to the insurer. Such an allocation is present
+when the insurer provides a genuine guarantee of an aggregate amount of benefits payable to retirement plan participants and their beneficiaries. As to a contract's "free funds"-funds in excess of those that have been converted into guaranteed benefits-these indicators are key: the insurer's guarantee of a reasonable rate of return on those funds and the provision of a mechanism to convert the funds into guaranteed benefits at rates set by the contract. While another contract, with a different mix of features, might satisfy these requirements, GAC 50 does not. Indeed, Hancock provided no real guarantee that benefits in any amount would be payable from the free funds. We therefore conclude, as did the Second Circuit, that the free funds are "plan assets," and that Hancock's actions in regard to their management and disposition must be judged against ERISA's fiduciary standards.
+
+III
+One other contention pressed by Hancock and amici deserves consideration. Hancock, supported by the United States, asserts that the Department of Labor has adhered consistently to the view that ERISA's fiduciary obligations do not apply in relation to assets held by an insurer in its
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+general account under contracts like GAC 50.14 Hancock urges us to follow this view based on "'the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade, if lacking power to control."' Brief for Petitioner 39, quoting Skidmore v. Swift & Co., 323 U. S. 134, 140 (1944); see also Chevron U.S. A. Inc. v. NaturalResources Defense Council, Inc., 467 U. S. 837, 843-844 (1984).
+Hancock and the United States place primary reliance on an early interpretive bulletin in which the Department of Labor stated:
+"If an insurance company issues a contract or policy of insurance to a plan and places the consideration for such contract or policy in its general asset account, the assets in such account shall not be considered to be plan assets. Therefore, a subsequent transaction involving the general asset account between a party in interest and the insurance company will not, solely because the plan has been issued such a contract or policy of insurance, be a prohibited transaction." Interpretive Bulletin 75-2, 40 Fed. Reg. 31598 (1975), 29 CFR § 2509.75-2(b) (1992).
+If this passage squarely addressed the question we confront, namely, whether ERISA's fiduciary standards apply to assets held under participating annuity contracts like GAC 50, we would indeed have a clear statement of the Department's view on the matter at issue. But, as the second sentence of the quoted passage shows, the question addressed in Interpretive Bulletin 75-2 was "whether a party in interest has engaged in a prohibited transaction [under 29 U. S. C. § 1106] with an employee benefit plan." §2509.75-2.11 The De-
+14The Department of Labor shares enforcement responsibility for
+ERISA with the Department of the Treasury. See 29 U. S. C. § 1204(a). 16The subsection title for the interpretation, published in the Code of
+Federal Regulations, is "Interpretive bulletin relating to prohibited transactions."
+
+108
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+partment did not mention, let alone elaborate on, any grounding for Interpretive Bulletin 75-2 in § 1101's guaranteed benefit policy exemption, nor did the Bulletin speak of the application of its pronouncement, if any, to ERISA's
+fiduciary duty prescriptions. The Department asserts the absence of any textual basis
+for the view, adopted by the Second Circuit, that "certain assets [can be considered] plan assets for general fiduciary duty purposes but not for prohibited transaction purposes,"
+970 F. 2d, at 1145, and, accordingly, no reason to suppose that Interpretive Bulletin 75-2's statement regarding plan assets would not apply in both contexts. See Brief for United States as Amicus Curiae 26-27. Nothing in Interpretive Bulletin 75-2 or 29 CFR §2509.75-2 (1992), however, sets
+forth that position, or otherwise alerts the reader that more than the prohibited transaction exemption was then subject to the Department's scrutiny.16 Had the Department intended Interpretive Bulletin 75-2 to apply to the guaranteed benefit policy exclusion, it would have had to explain how an unqualified exclusion for an insurer's general asset account can be reconciled with Congress' choice of a more limited ("to the extent that") formulation. Its silence in that regard is an additional indication that the 1975 pronouncement did not originally have the scope the Department now attributes to it.17
+
+"'It is noteworthy that the Secretary of Labor has express authority to
+grant exemptions from the rules regarding prohibited transactions, but not from § 1104's fiduciary duty provisions. See 29 U. S. C. § 1108.
+17After a lengthy rulemaking proceeding, the Department did promulgate, in 1986, a comprehensive interpretation of what ERISA means by "plan assets." See 51 Fed. Reg. 41278 (1986), 29 CFR §2510.3-101 (1992). Again, however, the Department did not mention the guaranteed benefit policy exemption contained in § 1101(b) or refer to the status of assets in that setting. See 29 CFR §2510.3-101 (1992). The Department, without comment, "note[d] that the portion of Interpretive Bulletin 75-2 dealing with contracts or policies of insurance is not affected by the regulation being issued here." 51 Fed. Reg. 41278 (1986). But Interpretive Bulletin
+
+Cite as: 510 U. S. 86 (1993)
+Opinion of the Court
+We note, too, that the United States was unable to comply with the Second Circuit's request for its assistance in this very case; the Department of Labor informed the Court of Appeals, after requesting and receiving a substantial extension of time, that "'the need to fully consider all of the implications of these issues within the Department precludes our providing the Court with a brief within a foreseeable time frame."' 970 F. 2d, at 1141. We recognize the difficulties the Department faced, given the complexity of ERISA and the constant evolution of insurance contract practices as reflected in this case. Our point is simply that, as of 1992, the Department apparently had no firm position it was prepared to communicate.
+We need not grapple here with the difficult question of the deference due an agency view first precisely stated in a brief supporting a petitioner. Cf. Estate of Cowart v. Nicklos DrillingCo., 505 U. S. 469, 476 (1992) ("If the Director asked us to defer to his new statutory interpretation, this case might present a difficult question regarding whether and under what circumstances deference is due to an interpretation formulated during litigation.") (emphasis in original). It suffices to recall, once again, Congress' words of limitation. The Legislature provided an exemption "to the extent that" a contract provides for guaranteed benefits. By reading the words "to the extent" to mean nothing more than "if," the Department has exceeded the scope of available ambiguity. See Public Employees Retirement System of Ohio v. Betts, 492 U. S. 158, 171 (1989) ("no deference is due to agency interpretations at odds with the plain language of the statute itself"). We therefore cannot accept current pleas for the deference described in Skidmore or Chevron.
+75-2, as we just observed, did not home in on whether, or to what extent, particular insurance contracts fit within the guaranteed benefit policy exemption. Thus the 1986 publication is no more enlightening than the interpretation published in 1975.
+
+110
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+Opinion of the Court
+
+The Department of Labor recognizes that ranking free funds as "plan assets" would secure "added legal protections against losses by pension plans, because ERISA imposes restrictions not currently provided by contract and insurance law." Brief for United States as Amicus Curiae 25-26. But the Department warns that
+
+"the disruptions and costs [of holding insurance companies to be fiduciaries under participating group annuity contracts] would be significant, both in terms of the administrative changes the companies would be forced to undertake (e. g., segregation of plan-related assets into
+segmented or separate accounts, and re-allocation' of operating costs to other policyholders) and in terms of the considerable exposure to the ensuing litigation that would be brought by pension plans and others alleging fiduciary breaches." Id., at 25.
+
+These are substantial concerns, but we cannot give them dis-
+positive weight. The insurers' views have been presented to Congress' s and that body can adjust the statute. See Burnet v. Coronado Oil & Gas Co., 285 U. S. 393, 406 (1932) (Brandeis, J., dissenting); Di Santo v. Pennsylvania, 273
+U. S. 34, 42 (1927) (Brandeis, J., dissenting). Furthermore, the Department of Labor can provide administrative relief to facilitate insurers' compliance with the law, thereby reduc-
+ing the disruptions it forecasts.
+
+*
+
+*
+
+*
+
+For the reasons stated, the judgment of the Court of Appeals for the Second Circuit is
+Affirmed.
+"8See App. to Brief for Petitioner 19-64 (listing the hundreds of indi-
+viduals and organizations, including insurance industry representatives, testifying before Congress during deliberations on ERISA). Insurance industry representatives have constantly sought amendment of ERISA to exempt all general account assets. See Brief for Certain United States Senators as Amici Curiae 13-14.
+
+Cite as: 510 U. S. 86 (1993)
+THoMAs, J., dissenting
+JUSTICE THOMAS, with whom JUSTICE O'CONNOR and JUSTICE KENNEDY join, dissenting.
+Insurance companies hold more than $332 billion in their general accounts pursuant to group annuity contracts with pension plans. See American Council of Life Insurance, 1993 Life Insurance Fact Book Update 27. Today, the Court abruptly overturns the settled expectations of the insurance industry by deeming a substantial portion of those funds "plan assets" and thus subjecting insurers to the fiduciary .regime of the Employee Retirement Income Security Act of 1974 (ERISA). Although I agree with the Court that the guaranteed benefit policy exception, § 401(b)(2) of ERISA, 29 U. S. C. § 1101(b)(2), does not-as petitioner Hancock contends-exclude all general account assets from ERISA's coverage, the Court, in making the exception depend upon whether investment risk is allocated to the insurer, ante, at 106, proposes a new test that bears little relation to the statute Congress enacted. The relevant question under the statute is not whether the contract shifts investment risk, but whether, and to what extent, it "provides for benefits the amount of which is guaranteed." 29 U. S. C. § 1101(b)(2)(B). In my view, a contract can "provide for" guaranteed benefits before it actually guarantees future payouts-that is, before it shifts the investment risk as to those benefits to the insurer. Accordingly, I respectfully dissent.
+I
+The guaranteed benefit policy exception, §401(b)(2) of ERISA, excludes from the scope of ERISA's fiduciary requirements assets held pursuant to "an insurance policy or contract to the extent that such policy or contract provides for benefits the amount of which is guaranteed by the insurer." 29 U. S. C. § 1101(b)(2)(B). In interpreting this exception, I begin, as in any case of statutory construction, with "the language of the statute," Estate of Cowart v. Nicklos DrillingCo., 505 U. S. 469, 475 (1992), and with the
+
+112
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOMAS, J., dissenting
+
+assumption that Congress "says in a statute what it means and means in a statute what it says there," ConnecticutNat. Bank v. Germain, 503 U. S. 249, 254 (1992). Unlike the
+Court, I see no need to base an understanding of §401(b)(2) on principles derived from the interpretation of dissimilar provisions in the Securities Act of 1933, see ante, at 101-104, or from a sense of the policy of ERISA as a whole, see ante, at 96. The meaning of the provision can be determined readily by examining its component terms.
+First, the insurance contract must "provide for" guaranteed benefits. Because "provides for" is not defined by the statute, we should give the phrase its ordinary or natural meaning. See Smith v. United States, 508 U. S.223, 228 (1993). Looking at the contract, the Court observes that there is "no genuine guarantee of the amount of benefits that plan participants will receive in the future." Ante, at 105. The Court apparently takes "provides for" to mean that the contract must currently guarantee the amounts to be disbursed in future payments. That is not, however, what "provides for" means in ordinary speech.
+When applied to a document such as a contract, "provides for" is "most natural[ly]" read and is "commonly understood" to mean "'make a provision for."' Rake v. Wade, 508 U. S. 464, 473, 474 (1993) (interpreting a section of the Bankruptcy Code that applies to "'each allowed secured claim provided for by the [reorganization] plan'") (emphasis added). See
+also Black's Law Dictionary 1224 (6th ed. 1990) (defining "provide" as "[t]o make; procure, or furnish for future use,
+prepare"). If "provides for" is construed in this way, the insurance contract need not guarantee the benefits for any particular plan participant until the benefits have vested, so long as it makes provision for the payment of guaranteed
+benefits in the future. See Mack Boring & Partsv. Meeker Sharkey Moffitt, Actuarial Consultants, 930 F. 2d 267, 273 (CA3 1991) ("Section 401(b)(2)(B) does not, on its face, require that the benefits contracted for be delivered immedi-
+
+Cite as: 510 U. S. 86 (1993)
+THOMAS, J., dissenting
+ately, and we will not read into the statute such a requirement. Rather, it is enough that the.., contract 'provided' guaranteed benefits to plan participants at some finite point in the future").'
+Had Congress intended the meaning the Court suggests, it easily could have applied the exception to an insurance contract "to the extent that benefits, the amount of which is guaranteed by the insurer, are vested in plan participants." The concept of vested benefits was familiar to Congress, see, e. g., 29 U. S. C. § 1001(c), and it.knew how to require vesting when it intended to do so. See ERISA § 1012(a), 26 U. S. C. §411 (1988 ed. and Supp. IV). In the guaranteed benefit policy exception, however, Congress, rather than requiring that benefits be vested, required that guaranteed benefits be provided for.2
+The second requirement under the statute is that the "amount" of benefits be guaranteed. The relevant "bene-
+1Even Harris Trust, which argues that benefits are not "provided for"
+until they have vested in plan participants, see Brief for Respondent 15, cannot avoid this common meaning of the phrase. In describing the original contract between Sperry and Hancock, Harris Trust states that "the contract provided for the annual purchase of individual deferred annuities . .. ." Id., at 2 (emphasis added). Certainly, one would not say-and Harris Trust did not mean-that the contract only "provided for" such annuities after they were purchased. Common sense and usage dictate precisely the sense in which Harris Trust used the phrase: The contract made provision for the purchase of annuities. Similarly, after 1968 the contract made provision for the payment of guaranteed benefits.
+2Giving "provides for" its ordinary meaning as outlined here would not, as the Court suggests, see ante, at 104-105, exempt from ERISA's fiduciary rules any contract "in its entirety" if it allows for the payment of some amount of guaranteed benefits in the future. As the Court implicitly acknowledges, that potential misconstruction of the exception results, not from a misreading of the term "provides for," but from a misunderstanding of the limitation imposed by the phrase "to the extent that." As I discuss below, see infra,at 117-118, I agree with the Court that by limiting the exception to policies "to the extent that" they provide for guaranteed benefits, Congress did not mean that any contract would be completely exempted "if" it provided for any guaranteed benefits. Ante, at 104-105.
+
+114
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOmAS, J., dissenting
+
+fits" under the statute are payments to plan participants, not any payments to the pension plan itself. See Mack Boring, supra, at 273 ("[T]he term 'benefit,' when used in ERISA, uniformly refers only to payments due to the plan participants or beneficiaries"). The Court recognizes that the term "benefits" does not include payments to the plan but concludes that the reference to "the amount of" benefits means the aggregate amount of benefits. Ante, at 106. The Court cites neither authority nor reason for its interpretation, and with good cause. Given that "benefits" refers to payments to individuals, "amount" standing alone most naturally refers to the amount owed to each individual. If, on the other hand, "amount" means aggregate amount, benefits to individuals could vary so long as the insurance company guaranteed that a fixed total amount would be paid. That is hardly consistent with ERISA's focus on protecting plan participants and their beneficiaries. See ante, at 96, and n. 5; 29 U. S. C. § 1001(c).
+The Court's focus on the aggregate amount of benefits, combined with its understanding of "provides for" as requiring a current guarantee, shifts the inquiry from the nature of the benefits that the policy will provide to individuals to the nature of the return that the policy provides to the plan as a whole. In the Court's view, this is precisely the inquiry demanded by the statute. As it makes clear by its citation to Peoria Union Stock Yards Co. Retirement Plan v. Penn Mutual Life Ins. Co., 698 F. 2d 320 (CA7 1983), from which it takes its "lead," ante, at 101, the Court sees the guaranteed benefit policy exception as requiring a guaranteed return on all moneys paid to the insurer-that is, the guaranteed benefit policy exception is really an exception for "insurance contract[s] with a fixed payout." Peoria Union, supra, at 327.3 In reaching this result, the Court is driven
+8 To be sure, the payouts must be in the form of guaranteed benefits to
+plan participants, but the Court's focus remains on an overall fixed return. Thus, in its view, any funds not immediately committed to the payment of
+
+Cite as: 510 U. S. 86 (1993)
+THOMAS, J., dissenting
+by its gloss on the guaranteed benefit exception as a provision demanding an "examination of risk allocation in each component" of the policy. See ante, at 102. But Congress nowhere mentioned allocation of risk, fixed payouts, or guaranteed investment returns in the statute, despite the obvious superiority of those terms in conveying the meaning the Court ascribes to the text. Instead, Congress directed our attention to the provision of guaranteed benefits-that is, to the type of payments the policy provides to individual participants.
+The Court derives its gloss on the guaranteed benefit policy exception from extratextual sources that lead it to a reading divorced from the statute's language. First, the Court begins its analysis not with an examination of the terms of §401(b)(2), but with a discussion of cases decided under the Securities Act of 1933, 48 Stat. 74, as amended. For example, the Court looks to a case in which we addressed whether a variable annuity was an "investment contract" covered by §2 of the Securities Act, 15 U. S. C. §77b, or an "insurance or endowment policy or annuity contract or optional annuity contract" exempted by § 3 of that Act, 15 U. S. C. § 77c(a)(8). See SEC v. United Benefit Life Ins. Co., 387 U. S. 202, 204205, 211 (1967). Were it disputed that GAC 50 is an "insurance policy or contract," it might be useful to consider how this Court has defined an insurance policy under federal securities law and the extent to which GAC 50 meets that test. Here, however, no one denies that GAC 50 is an insurance policy. If it were not, §401(b)(2) would not apply at all. Because GAC 50 is concededly an insurance policy, its allocation of risk is irrelevant to the distinct inquiry demanded by the statute into the provision of guaranteed benefits.
+guaranteed benefits (through the purchase, for example, of fixed annuities) must be invested at a guaranteed return and converted to guaranteed benefits at a rate fixed by contract. Ante, at 106.
+
+116
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOMAS, J., dissenting
+
+The second source from which the Court distills its "risk
+of loss" test is the premise, based on ERISA "as a whole," that "Congress commodiously imposed fiduciary standards on persons whose actions affect the amount of benefits retirement plan participants will receive." Ante, at 96. Even were that true, there is no need to resort to such general understandings of the policy behind a statute when the language suggests a contrary meaning. Cf. Connecticut Nat. Bank, 503 U. S., at 253-254; Park 'N Fly, Inc. v. Dollar Park & Fly, Inc., 469 U. S. 189, 194 (1985) (statutory construction begins with "the assumption that the ordinary meaning of [the] language accurately expresses the legislative purpose"). The text of §401(b)(2) gives no reason to think that Congress meant to protect pension plans from all risk or to impose a fiduciary duty on the insurer whenever the pension plan faced a possibility of loss. Congress easily could have required that all funds credited to a pension plan be guaranteed, but it did not.
+Moreover, contrary to the Court's assumption, in the statute "as a whole" Congress did not impose fiduciary duties on all persons whose actions affect the amount of benefits plan participants receive. In the same section that contains the guaranteed benefit policy exception, for example, Congress exempted pension plans' investments in mutual funds from ERISA's fiduciary provisions. See 29 U. S. C. § 1101(b)(1); H. R. Conf. Rep. No. 93-1280, p. 296 (1974). Obviously, pension plans bear a significant risk with respect to such investments, yet Congress allowed them to bear that risk without imposing fiduciary duties on the companies that manage the funds.
+In any event, as long as a policy provides for guaranteed benefits as I have described them, the connection between the return to the plan and the amount of benefits individual plan participants receive is remote. The insurer's investment performance would influence the amount of benefits if participants received either variable benefits or fixed benefit
+
+Cite as: 510 U. S. 86 (1993)
+THOMAS, J., dissenting
+payments that were not guaranteed, e.g., benefits paid for a fixed amount of time unless the fund from which they were paid was depleted sooner. In both cases, ERISA imposes fiduciary duties on the insurer. But as long as the benefits will be guaranteed, a variable return to the plan entails no such risk for plan participants. Whether the insurer earns 2% or 20%, or even loses 20% on its investm4 ents, participants will receive the same amount of benefits.
+In short, the provision of guaranteed benefits does not require the provision of a guaranteed return to the plan, nor does it require that all amounts to be provided in the future be currently guaranteed. In my view, an insurance policy "provides for benefits the amount of which are guaranteed" when its terms make provision for fixed payments to plan participants and their beneficiaries that will be guaranteed by the insurer. The policy need not guarantee the aggregate amount of benefits that will ultimately be returned from the plan's contributions or insulate the plan from all investment risk to accomplish that more limited goal.
+Of course, as the Court correctly observes, §401(b)(2) excludes an insurance company's assets from fiduciary obligations only "to the extent that" the policy provides for guar-
+4In this case, Sperry's retirement plan, not the insurance policy, specifies the amount of benefits to which a plan participant is entitled. App. 119, 121. The return on the funds held under GAC 50 has no effect on that amount. Thus, even if the free funds fell to zero and the policy terminated, see ante, at 105-106, plan participants whose benefits had not yet vested would be entitled to the same amount of benefits under the plan itself, and would have an action against the plan if it failed to pay. See 29 U. S. C. § 1132(a). For this reason, it is simply wrong to suggest, as some amici curiae do, that reversing the decision below would leave millions of pensioners unprotected by ERISA. See Brief for Senator Howard Metzenbaum et al. as Amici Curiae 15. If the plan, on the other hand, is "trapped" by an unwise insurance contract, the trap is one of its own making. Those amici are in a far better position than this Court to persuade Congress to protect pension plans from their own mistakes and misjudgments. Nothing in either the text or the logic of the guaranteed benefit policy exception provides such protection.
+
+118
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOMAS, J., dissenting
+
+anteed benefits. That limitation does not mean that the exception is available to a contract "if" it provides for guaranteed benefits. Cf. ante, at 104-105. Rather, the term suggests that a contract may provide for guaranteed benefits only to a certain extent. In the Court's view, to the extent that a policy allows a pension plan a variable return on free funds not yet committed to providing guaranteed benefits to participants, it falls outside the § 401(b)(2) exception. Once again, however, the Court's understanding of the statute is controlled by its focus on the allocation of risk. The difficulty the Court sees with the variable return on any component of the contract is that a variable return ensures no guaranteed aggregate amount of benefits. If all of the funds attributable to the policy are allocated to purchasing guaranteed benefits, however, whether those funds come from pension plan contributions or investment return, the contract is "provid[ing] for benefits the amount of which is guaranteed" in its entirety. Only if one assumes, as the Court does, that overall returns are critical would one read the "to the extent that" limitation more narrowly.
+
+II
+In its effort to insulate Harris Trust from all risk, the Court radically alters the law applicable to insurance companies. The Department of Labor has taken the view that general account assets are not plan assets. See, e. g., Interpretive Bulletin 75-2, 40 Fed. Reg. 31598 (1975), 29 CFR § 2509.75-2 (1992) (concerning prohibited transactions); § 2510.3-101 (same).6 In reliance on that settled under-
+
+' Iagree with the Court that Interpretive Bulletin 75-2's exemption of
+all general account assets from fiduciary requirements is at odds with the text of § 401(b)(2) and is therefore not entitled to deference under Chevron U S. A Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984). Rejecting the Department of Labor's interpretation of the guaranteed benefit policy exception, however, does not require adopting the Court's extreme approach.
+
+Cite as: 510 U. S. 86 (1993)
+THOMAS, J., dissenting
+standing, insurers have set up general account contracts with pension plans and have managed assets theoretically attributable to those policies, not in accordance with ERISA's fiduciary obligations, but in accordance with potentially incompatible state-law rules. See Mack Boring, 930 F. 2d, at 275, n. 17. Most States treat the relationship between insurer and insured as a matter of contract, not a fiduciary relationship. See, e. g., Benefit Trust Life Ins. Co. v. Union Nat. Bank of Pittsburgh,776 F. 2d 1174, 1177 (CA3 1985) (generally, relationship between insurer and insured is "solely a matter of contract"); New Hampshire Ins. Co. v. Foxfire, Inc., 820 F. Supp. 489, 497 (ND Cal. 1993) (implied covenant of good faith and fair dealing does not create fiduciary relationship between insurer and insured under California law). And state law generally requires that the insurer not discriminate among its policyholders. See, e. g., N. Y Ins. Law §4224(a)(1) (McKinney 1985). ERISA, on the other hand, will require insurers to manage what the Court deems plan assets "solely in the interest of the participants and beneficiaries" of the plan, 29 U. S. C. § 1104(a)(1), and will impose a host of other requirements. These conflicting demands will place insurers in a difficult position: "Whenever an insurance company takes actions to ensure that under state law, it is treating its policyholders fairly and equitably, it runs the risk of violating ERISA's fiduciary requirements." Mack Boring, supra,at 275, n. 17.
+Although the Court attempts to limit the fiduciary duty to the free funds-it dubs only the free funds "'plan assets,"' see ante, at 106-the duty it imposes on insurers extends much farther. The free funds are not identifiable assets at all, but are simply an accounting entry in Hancock's books. The amount of the free funds, and hence their "management," ibid., depends on the management of all of the assets in Hancock's Group Pension line of business. See Agreed Statement of Facts 43, App. 91. To impose fiduciary duties with respect to the management of the free funds is essen-
+
+120
+
+JOHN HANCOCK MUT. LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOMAS, J., dissenting
+
+tially to impose fiduciary duties on the management of the entire line of business. Although insurers in reaction to today's decision may be able to segregate their assets and allocate certain assets to free funds on specific contracts, that will not help insurers like Hancock in this case who now find themselves potentially liable for past actions.
+The Court's decision may also significantly disrupt insurers' transactions with companies whose pension plans they fund. The Court's interpretation of §401(b)(2) will impose on insurers not only general fiduciary duties under 29 U. S. C. § 1104, but also restrictions on prohibited transactions under § 1106. The guaranteed benefit policy exception expressly applies to both. See § 1101(b) (applying subsections (b)(1) and (b)(2) "[f]or purposes of this part," that is, Part 4, which comprises §§ 1101-1114). Indeed, this case concerns alleged violations of both sections. Amended Complaint 40, App.
+58. Among the previously innocent transactions now potentially prohibited will be an insurer's investment in stock issued by any of the employers whose pension plans the insurer funds, a lease of a building owned by the insurer to one of those employers, or the purchase of goods or services from any of those employers. See Hearings on Public Law 93-406 before the Subcommittee on Labor Standards of the House Committee on Education and Labor, 94th Cong., 1st Sess., 390-391 (1975) (testimony of the Assistant Secretary of Labor). Thus, large insurance companies that may have sold policies to thousands of pension plans could suddenly find themselves restricted in contracting with the corre-
+
+6It will be especially difficult for the lower courts in this case to limit
+application of fiduciary duties to the free funds, as the Court appears to desire, because the pension plan claims that Hancock breached its fiduciary duty by understating the amount of the free funds. See Amended Complaint 29, 30, 40, App. 55-56, 58-60. Thus, it will not be possible to determine the extent of Hancock's fiduciary duty without first ascertaining whether Hancock violated it.
+
+Cite as: 510 U. S. 86 (1993)
+THOMAS, J., dissenting
+sponding thousands of employers whose goods and services they may require. See id., at 391.
+I do not intend to suggest that the Court should give dispositive weight to the practical effects of its decision on the settled expectations of the insurance industry (and its customers, the pension plans, who stand to lose much of the benefit that these contracts presumably offered them). Such considerations are a matter for Congress. But surely the serious and far-reaching effects that today's ruling is likely to have should counsel caution and compel the Court to undertake a closer examination of the terms of the statute to ensure that Congress commanded the result the Court reaches. As discussed in Part I, supra, I believe Congress did not mandate that result.
+III
+Application of the standards I have outlined above to GAC 50, prior to its amendment in 1977 to allow for payment of nonguaranteed benefits, is relatively straightforward. In its pre-1977 form, GAC 50 provided for guaranteed benefits in its entirety. Plan participants would be guaranteed to receive the amount of benefits specified in the contract if the contract was in operation when they retired, regardless of the contract's subsequent termination, App. 137, or any other contingency. Hancock's entire general account, not simply the funds Hancock credited to the pension plan, stood behind that guarantee. Moreover, GAC 50 provided that all investment return remained in a fund allocated exclusively to the payment of guaranteed benefits, and all of the free funds were available to pay such benefits. We therefore are not faced with a contract that uses a pretextual option of guaranteed benefits to disguise an ordinary investment vehicle. Apart from an asset withdrawal mechanism that imposed a significant charge, the contract provided for no other way to
+
+122
+
+JOHN HANCOCK MUT LIFE INS. CO. v.
+
+HARRIS TRUST AND SAV. BANK
+
+THOMAS, J., dissenting
+
+use those funds.
+7
+
+See 767 F. Supp. 1269, 1274-1275 (SDNY
+
+1991).
+
+Indeed, that is precisely why this litigation arose. Hancock had not squandered the pension plan's funds, as one might expect in the run-of-the-mill breach of fiduciary duty case. The Pension Administration Fund, and thus the free funds, had grown beyond the parties' expectations. The pension plan, however, was unhappy with the bargain it had struck in its contract. By 1977, it had discovered that it
+could get cheaper guaranteed benefits and a better return on its investment elsewhere, see id., at 1273-1274, but GAC
+50 posed several obstacles to moving the uncommitted funds. Terminating the contract would require the plan to "repurchase" annuities for the benefits already guaranteed.
+The repurchase price set by the contract depends on assumptions concerning the interest rate that would be earned on the funds over the term of the annuity. See Agreed Statement of Facts 33-34, 41, App. 89, 90-91 (21/2-3% for benefits vested before 1968; 5% for those vested after 1968).8 Because those interest rates turned out by the late 1970's to
+be relatively low compared to prevailing market rates, the contractually determined price for purchasing the annuities was correspondingly high and the pension plan considered the option of terminating the contract to be "prohibitively expensive." Brief for Respondent 5. Withdrawing assets, as already mentioned, entailed a significant asset liquidation adjustment. Therefore, before the 1977 amendment the only other way the free funds could be used was to purchase
+
+7 GAC 50 made no provision for the rollover mechanism that Hancock
+allowed the pension plan to use on several occasions to reduce the surplus in the Pension Administration Fund. See 767 F. Supp., at 1274-1275. See also Agreed Statement of Facts 77, App. 96.
+'The "artificially low interest rate assumptions," ante, at 93, in the contract were last amended in 1968. See Agreed Statement of Facts 11 105, 111, App. 100, 101. The pension plan alleged that Hancock breached its fiduciary duties by refusing to amend the contract again to take into account changed conditions. Amended Complaint 40(b), App. 58.
+
+Cite as: 510 U. S. 86 (1993)
+THoMAs, J., dissenting
+guaranteed benefits for plan participants. It is difficult to see how a policy that provided for nothing but guaranteed benefits could be said not to provide for such benefits in its entirety.
+The extent to which GAC 50 "provides for" guaranteed benefits is more complicated, however, because the 1977 amendment discontinued the automatic provision of guaranteed benefits and permitted the payment of "Non-Guaranteed Benefits." See Agreed Statement of Facts 80, 82, App. 96-97. Proper resolution of this case ultimately depends on the operation and the effect of that amendment. Because the courts below did not discuss its relevance and should be given the opportunity to consider it in the first instance, I would remand.
+IV
+In the judgment of both the Court and the Second Circuit, to the extent that the contract "'provides no guarantee of benefit payments or fixed rates of return, it seems to us that [Hancock] should be subject to fiduciary responsibility."' Ante, at 104 (quoting 970 F. 2d 1138, 1144 (CA2 1992)). Perhaps it should. But imposing that responsibility disrupts nearly 20 years of settled expectations among the buyers and sellers of group annuity contracts. I do not believe that the statute can be fairly read to command that result. I therefore respectfully dissent.
+
+OCTOBER TERM, 1993
+Syllabus
+UNITED STATES v. CARLTON
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 92-1941. Argued February 28, 1994-Decided June 13, 1994
+As adopted in October 1986, 26 U. S. C. § 2057 granted an estate tax deduction for half the proceeds of "any sale of employer securities by the executor of an estate" to "an employee stock ownership plan" (ESOP). In December 1986, respondent Carlton, acting as an executor, purchased shares in a corporation, sold them to that company's ESOP at a loss, and claimed a large §2057 deduction on his estate tax return. In December 1987, § 2057 was amended to provide that, to qualify for the deduction, the securities sold to an ESOP must have been "directly owned" by the decedent "immediately before death." Because the amendment applied retroactively, as if it were incorporated in the original 1986 provision, the Internal Revenue Service (IRS) disallowed Carlton's § 2057 deduction. The District Court entered summary judgment against him in his ensuing refund action, rejecting his contention that the amendment's retroactive application to his transactions violated the Due Process Clause of the Fifth Amendment. The Court of Appeals reversed, holding that such application was rendered unduly harsh and oppressive, and therefore unconstitutional, by Carlton's lack of notice that §2057 would be retroactively amended and by his reasonable reliance to his detriment on preamendment law.
+Held: The 1987 amendment's retroactive application to Carlton's 1986 transactions does not violate due process. Under the applicable standard, a tax statute's retroactive application must be supported by a legitimate legislative purpose furthered by rational means. See, e. g., Pension Benefit GuarantyCorporationv. R. A. Gray & Co., 467 U. S. 717, 729-730. Here, Congress' purpose in enacting the 1987 amendment was neither illegitimate nor arbitrary. Section 2057 was originally intended to create an incentive for stockholders to sell their companies to their employees, but the absence of a decedent-stock-ownership requirement resulted in the deduction's broad availability to virtually any estate, at an estimated loss to the Government of up to $7 billion in anticipated revenues. Thus, Congress undoubtedly intended the amendment to correct what it reasonably viewed as a mistake in the original provision. There is no plausible contention that it acted with an improper motive, and its decision to prevent the unanticipated revenue loss by denying
+
+Cite as: 512 U. S. 26 (1994)
+Opinion of the Court
+the deduction to those who made purely tax-motivated stock transfers was not unreasonable. Moreover, the amendment's retroactive application is rationally related to its legitimate purpose, since Congress acted promptly in proposing the amendment within a few months of §2057's original enactment and established a modest retroactivity period that extended only slightly longer than one year. The Court of Appeals' exclusive focus on the taxpayer's notice and reliance held §2057 to an unduly strict standard. Pp. 30-35. 972 F. 2d 1051, reversed.
+BLACKMUN, J., delivered the opinion of the Court, in which REHNQUIST, C. J., and STEVENS, KENNEDY, SOUTER, and GINSBURG, JJ., joined. O'CONNOR, J., fied an opinion concurring in the judgment, post, p. 35. SCALIA, J., filed an opinion concurring in the judgment, in which THOMAS, J., joined, post, p. 39.
+Kent L. Jones argued the cause for the United States. With him on the brief were Solicitor General Days, Acting Assistant Attorney GeneralPaup,Deputy SolicitorGeneral Wallace, Gilbert S. Rothenberg, and Teresa E. McLaughlin.
+Russell G. Allen argued the cause and filed a brief for respondent. With him on the brief was PhillipR. Kaplan.*
+JUSTICE BLACKMUN delivered the opinion of the Court.
+In 1987, Congress amended a provision of the federal estate tax statute by limiting the availability of a recently added deduction for the proceeds of sales of stock to employee stock-ownership plans (ESOP's). Congress provided that the amendment would apply retroactively, as if incorporated in the original deduction provision, which had been adopted in October 1986. The question presented by this case is whether the retroactive application of the amendment violates the Due Process Clause of the Fifth Amendment.
+*Briefs of amici curiae urging affirmance were filed for the Washington Legal Foundation et al. by Joseph E. Schmitz, Charles A Shanor, Daniel J Popeo, and Paul D. Kamenar; and for Anthony C. Morici, Jr., Executor and Trustee of the estate of McNamee, by Charles C. Marson.
+
+UNITED STATES v. CARLTON
+Opinion of the Court
+I
+Congress effected major revisions of the Internal Revenue Code in the Tax Reform Act of 1986, 100 Stat. 2085. One of those revisions was the addition of a new estate tax provision applicable to any estate that filed a timely return after the date of the Act, October 22, 1986. The new provision, codified as 26 U. S. C. § 2057 (1982 ed., Supp. IV),1 granted a deduction for half the proceeds of "any sale of employer securities by the executor of an estate" to "an employee stock ownership plan." §2057(b).2 In order to qualify for the deduction, the sale of securities had to be made "before the date on which the [estate tax] return ... [was] required to be filed (including any extensions)." § 2057(c)(1).
+Respondent Jerry W. Carlton, the executor of the will of Willametta K. Day, deceased, sought to utilize the § 2057 deduction. Day died on September 29, 1985. Her estate tax return was due December 29, 1986 (after Carlton had obtained a 6-month filing extension). On December 10, 1986, Carlton used estate funds to purchase 1.5 million shares of MCI Communications Corporation for $11,206,000, at an average price of $7.47 per share. Two days later, Carlton sold the MCI stock to the MCI ESOP for $10,575,000, at an average price of $7.05 per share. The total sale price thus was $631,000 less than the purchase price. When Carlton filed the estate tax return on December 29, 1986, he claimed a deduction under § 2057 of $5,287,000, for half the proceeds of the sale of the stock to the MCI ESOP. The deduction reduced the estate tax by $2,501,161. The parties have stipu-
+ISection 2057 was repealed for estates of decedents who died after
+December 19, 1989. See Omnibus Budget Reconciliation Act of 1989, §7304(a), 103 Stat. 2352.
+2Section 2057(e) defined "employer securities" by reference to §409(l) of the Code, which in turn defined the term generally as "common stock issued by the employer (or by a corporation which is a member of the same controlled group) which is readily tradable on an established securities market." 26 U. S. C. §409(l)(1) (1982 ed., Supp. IV).
+
+Cite as: 512 U. S. 26 (1994)
+Opinion of the Court
+lated that Carlton engaged in the MCI stock transactions specifically to take advantage of the §2057 deduction.
+On January 5, 1987, the Internal Revenue Service (IRS) announced that, "[p]ending the enactment of clarifying legislation," it would treat the §2057 deduction as available only to estates of decedents who owned the securities in question immediately before death. See IRS Notice 87-13, 1987-1 Cum. Bull. 432, 442. A bill to enact such an amendment to § 2057 was introduced in each Chamber of Congress on February 26, 1987. See 133 Cong. Rec. 4145 and 4293 (1987).
+On December 22, 1987, the amendment to § 2057 was enacted. As amended, the statute provided that, to qualify for the estate tax deduction, the securities sold to an ESOP must have been "directly owned" by the decedent "immediately before death." Omnibus Budget Reconciliation Act of 1987, § 10411(a), 101 Stat. 1330-432.3 The 1987 amendment was made effective as if it had been contained in the statute as originally enacted in October 1986. § 10411(b).
+The IRS disallowed the deduction claimed by Carlton under § 2057 on the ground that the MCI stock had not been owned by his decedent "immediately before death." Carlton paid the asserted estate tax deficiency, plus interest, filed a claim for refund, and instituted a refund action in the United States District Court for the Central District of California. He conceded that the estate did not qualify for the deduction under the 1987 amendment to §2057. He argued, however, that retroactive application of the 1987 amendment to the estate's 1986 transactions violated the Due Process Clause of the Fifth Amendment. The District Court rejected his argument and entered summary judgment in favor of the United States.
+A divided panel of the Court of Appeals for the Ninth Circuit reversed. 972 F. 2d 1051 (1992). The majority consid-
+'The amendment also required that employer securities qualifying for
+the deduction must, after the sale, be allocated to participants or held for future allocation in accordance with certain rules.
+
+UNITED STATES v. CARLTON
+Opinion of the Court
+ered two factors paramount in determining whether retroactive application of a tax violates due process: whether the taxpayer had actual or constructive notice that the tax statute would be retroactively amended, and whether the taxpayer reasonably relied to his detriment on preamendment law. The court concluded that both factors rendered retroactive application of the amendment in this case unduly harsh and oppressive and therefore unconstitutional. Judge Norris dissented. In his view, the 1987 amendment was within the wide latitude of congressional authority to legislate retroactively in regulating economic activity. We granted certiorari, 510 U. S. 810 (1993).
+II
+This Court repeatedly has upheld retroactive tax legislation against a due process challenge. See, e. g., United States v. Hemne, 476 U. S. 558 (1986); United States v. Darusmont,449 U. S.292 (1981); Welch v. Henry, 305 U. S.134 (1938); United States v. Hudson, 299 U. S. 498 (1937); Milliken v. United States, 283 U. S.15 (1931); Cooper v. United States, 280 U. S.409 (1930). Some of its decisions have stated that the validity of a retroactive tax provision under the Due Process Clause depends upon whether "retroactive application is so harsh and oppressive as to transgress the constitutional limitation." Welch v. Henry,305 U. S., at 147, quoted in United States v. Hemme, 476 U. S., at 568-569. The "harsh and oppressive" formulation, however, "does not differ from the prohibition against arbitrary and irrational legislation" that applies generally to enactments in the sphere of economic policy. Pension Benefit Guaranty Corporationv. R. A. Gray & Co., 467 U. S.717, 733 (1984). The due process standard to be applied to tax statutes with retroactive effect, therefore, is the same as that generally applicable to retroactive economic legislation:
+"Provided that the retroactive application of a statute is supported by a legitimate legislative purpose furthered
+
+Cite as: 512 U. S. 26 (1994)
+Opinion of the Court
+by rational means, judgments about the wisdom of such legislation remain within the exclusive province of the legislative and executive branches ....
+"To be sure,... retroactive legislation does have to meet a burden not faced by legislation that has only future effects .... 'The retroactive aspects of legislation, as well as the prospective aspects, must meet the test of due process, and the justifications for the latter may not suffice for the former' .... But that burden is met simply by showing that the retroactive application of the legislation is itself justified by a rational legislative purpose." Id., at 729-730, quoting Usery v. Turner Elkhorn Mining Co., 428 U. S. 1, 16-17 (1976).
+There is little doubt that the 1987 amendment to §2057 was adopted as a curative measure. As enacted in October 1986, §2057 contained no requirement that the decedent have owned the stock in question to qualify for the ESOP proceeds deduction. As a result, any estate could claim the deduction simply by buying stock in the market and immediately reselling it to an ESOP, thereby obtaining a potentially dramatic reduction in (or even elimination of) the estate tax obligation.
+It seems clear that Congress did not contemplate such broad applicability of the deduction when it originally adopted §2057. That provision was intended to create an "incentive for stockholders to sell their companies to their employees who helped them build the company rather than liquidate, sell to outsiders or have the corporation redeem their shares on behalf of existing shareholders." Joint Committee on Taxation, Tax Reform Proposals: Tax Treatment of Employee Stock Ownership Plans (ESOPs), 99th Cong., 2d Sess., 37 (Joint Comm. Print 1985); see also 132 Cong. Rec. 14507 (1986) (statement of Sen. Long) (§2057 "allow[s] ... an executor to reduce taxes on an estate by one-half by selling the decedent's company to an ESOP"). When Congress initially enacted § 2057, it estimated a revenue loss from the
+
+UNITED STATES v. CARLTON
+Opinion of the Court
+deduction of approximately $300 million over a 5-year period. See 133 Cong. Rec. 4145 (1987) (statement of Rep. Rostenkowski); id., at 4293 (statement of Sen. Bentsen). It became evident shortly after passage of the 1986 Act, however, that the expected revenue loss under §2057 could be as much as $7 billion-over 20 times greater than anticipated-because the deduction was not limited to situations in which the decedent owned the securities immediately before death. Ibid. In introducing the amendment in February 1987, Senator Bentsen observed: "Congress did not intend for estates to be able to claim the deduction by virtue of purchasing stock in the market and simply reselling the stock to an ESOP ... and Congress certainly did not anticipate a $7 billion revenue loss." Id., at 4294. Without the amendment, Senator Bentsen stated, "taxpayers could qualify for the deductions by engaging in essentially sham transactions." Ibid.
+We conclude that the 1987 amendment's retroactive application meets the requirements of due process. First, Congress' purpose in enacting the amendment was neither illegitimate nor arbitrary. Congress acted to correct what it reasonably viewed as a mistake in the original 1986 provision that would have created a significant and unanticipated revenue loss. There is no plausible contention that Congress acted with an improper motive, as by targeting estate representatives such as Carlton after deliberately inducing them to engage in ESOP transactions. Congress, of course, might have chosen to make up the unanticipated revenue loss through general prospective taxation, but that choice would have burdened equally "innocent" taxpayers. Instead, it decided to prevent the loss by denying the deduction to those who had made purely tax-motivated stock transfers. We cannot say that its decision was unreasonable.
+Second, Congress acted promptly and established only a modest period of retroactivity. This Court noted in United States v. Darusmont,449 U. S., at 296, that Congress "almost without exception" has given general revenue statutes effec-
+
+Cite as: 512 U. S. 26 (1994)
+Opinion of the Court
+tive dates prior to the dates of actual enactment. This "customary congressional practice" generally has been "confined to short and limited periods required by the practicalities of producing national legislation." Id., at 296-297. In Welch v. Henry, 305 U. S. 134 (1938), the Court upheld a Wisconsin income tax adopted in 1935 on dividends received in 1933. The Court stated that the "'recent transactions"' to which a tax law may be retroactively applied "must be taken to include the receipt of income during the year of the legislative session preceding that of its enactment." Id., at 150. Here, the actual retroactive effect of the 1987 amendment extended for a period only slightly greater than one year. Moreover, the amendment was proposed by the IRS in January 1987 and by Congress in February 1987, within a few months of § 2057's original enactment.
+Respondent Carlton argues that the 1987 amendment violates due process because he specifically and detrimentally relied on the preamendment version of § 2057 in engaging in the MCI stock transactions in December 1986. Although Carlton's reliance is uncontested-and the reading of the original statute on which he relied appears to have been correct-his reliance alone is insufficient to establish a constitutional violation. Tax legislation is not a promise, and a taxpayer has no vested right in the Internal Revenue Code. Justice Stone explained in Welch v. Henry, 305 U. S., at 146-147:
+"Taxation is neither a penalty imposed on the taxpayer nor a liability which he assumes by contract. It is but a way of apportioning the cost of government among those who in some measure are privileged to enjoy its benefits and must bear its burdens. Since no citizen enjoys immunity from that burden, its retroactive imposition does not necessarily infringe due process ......
+Moreover, the detrimental reliance principle is not limited to retroactive legislation. An entirely prospective change in
+
+UNITED STATES v. CARLTON
+Opinion of the Court
+the law may disturb the relied-upon expectations of individuals, but such a change would not be deemed therefore to be violative of due process.
+Similarly, we do not consider respondent Carlton's lack of notice regarding the 1987 amendment to be dispositive. In Welch v. Henry, the Court upheld the retroactive imposition of a tax despite the absence of advance notice of the legislation. And in Milliken v. United States, the Court rejected a similar notice argument, declaring that a taxpayer "should be regarded as taking his chances of any increase in the tax burden which might result from carrying out the established policy of taxation." 283 U. S., at 23.
+In holding the 1987 amendment unconstitutional, the Court of Appeals relied on this Court's decisions in Nichols v. Coolidge, 274 U. S. 531 (1927), Blodgett v. Holden, 275 U. S. 142 (1927), and Untermyer v. Anderson, 276 U. S. 440 (1928). Those cases were decided during an era characterized by exacting review of economic legislation under an approach that "has long since been discarded." Ferguson v. Skrupa, 372 U. S. 726, 730 (1963). To the extent that their authority survives, they do not control here. Blodgett and Untermyer, which involved the Nation's first gift tax, essentially have been limited to situations involving "the creation of a wholly new tax," and their "authority is of limited value in assessing the constitutionality of subsequent amendments that bring about certain changes in operation of the tax laws." United States v. Hemme, 476 U. S., at 568. Nichols involved a novel development in the estate tax which embraced a transfer that occurred 12 years earlier. The amendment at issue here certainly is not properly characterized as a "wholly new tax," and its period of retroactive effect is limited. Nor do the above cases stand for the proposition that retroactivity is permitted with respect to income taxes, but prohibited with respect to gift and estate taxes. In Hemme and Milliken, this Court upheld retroactive features of gift and estate taxes.
+
+Cite as: 512 U. S. 26 (1994)
+O'CONNOR, J., concurring in judgment
+III
+In focusing exclusively on the taxpayer's notice and reliance, the Court of Appeals held the congressional enactment to an unduly strict standard. Because we conclude that retroactive application of the 1987 amendment to §2057 is rationally related to a legitimate legislative purpose, we conclude that the amendment as applied to Carlton's 1986 transactions is consistent with the Due Process Clause.
+The judgment of the Court of Appeals is reversed.
+It is so ordered.
+JUSTICE O'CONNOR, concurring in the judgment.
+The unamended 26 U. S. C. § 2057, which allowed taxpayers to reduce the taxable estate by buying securities and reselling them to employee stock ownership plans (ESOP's), made it possible to avoid estate taxes by structuring transactions in a certain way. But the tax laws contain many such provisions. See, e. g., 26 U. S. C. §2055 (allowing deductions from taxable estate for transfers to the government, charities, and religious organizations). And §2057 was only the latest in a series of congressional efforts to promote ESOP's by providing tax incentives. See, e. g., 26 U. S. C. § 133 (partial income tax exclusion for interest paid to banks on ESOP loans); 26 U. S. C. § 1042 (allowing certain taxpayers to defer capital gains taxes on sale of securities to ESOP's).
+Thus, although respondent Carlton may have made a "purely tax-motivated stock transfe[r]," ante, at 32, I do not understand the Court to express any normative disapproval of this course of action. As executor of Willametta Day's estate, it was entirely appropriate for Carlton to seek to reduce the estate taxes. And like all taxpayers, Carlton was entitled to structure the estate's affairs to comply with the tax laws while minimizing tax liability. As Learned Hand observed with characteristic acerbity:
+
+UNITED STATES v. CARLTON
+O'CONNOR, J., concurring in judgment
+"[A] transaction, otherwise within an exception of the tax law, does not lose its immunity, because it is actuated by a desire to avoid, or, if one choose, to evade, taxation. Any one may so arrange his affairs that his taxes shall be as low as possible; he is not bound to choose that pattern which will best pay the Treasury; there is not even a patriotic duty to increase one's taxes. Therefore, if what was done here, was what was intended by [the statute], it is of no consequence that it was all an elaborate scheme to get rid of [estate] taxes, as it certainly was." Helvering v. Gregory, 69 F. 2d 809, 810 (CA2 1934) (citations omitted), aff'd, 293 U. S. 465 (1935).
+To say that Carlton did nothing wrong in claiming the deduction does not, of course, answer the question whether Congress deprived him of due process by amending §2057. As we have noted, "the retroactive aspects of economic legislation, as well as the prospective aspects, must meet the test of due process: a legitimate legislative purpose furthered by rational means." General Motors Corp. v. Romein, 503 U. S. 181, 191 (1992) (internal quotation marks omitted).
+The Court finds it relevant that, according to prominent members of the tax-writing committees of each House, the statute as originally enacted would have cost the Government too much money and would have allowed taxpayers to avoid tax by engaging in sham transactions. See ante, at 31-32. Thus, the Court reasons that the amendment to § 2057 served the legislative purpose of "correct[ing]" a "mistake" Congress made the first time. Ante, at 32. But this mode of analysis proves too much. Every law touching on an area in which Congress has previously legislated can be said to serve the legislative purpose of fixing a perceived problem with the prior state of affairs-there is no reason to pass a new law, after all, if the legislators are satisfied with the old one. Moreover, the subjective motivation of Members of Congress in passing a statute-to the extent it can
+
+Cite as: 512 U. S. 26 (1994)
+O'CONNOR, J., concurring in judgment
+even be known-is irrelevant in this context: It is sufficient for due process analysis if there exists some legitimate purpose underlying the retroactivity provision. Cf. FCC v. Beach Communications,Inc., 508 U. S. 307, 313-315 (1993).
+Retroactive application of revenue measures is rationally related to the legitimate governmental purpose of raising revenue. In enacting revenue measures, retroactivity allows "the legislative body, in the revision of tax laws, to distribute increased costs of government among its taxpayers in the light of present need for revenue and with knowledge of the sources and amounts of the various classes of taxable income during the taxable period preceding revision." Welch v. Henry, 305 U. S. 134, 149 (1938). For this reason,
+"[i]n enacting general revenue statutes, Congress almost without exception has given each such statute an effective date prior to the date of actual enactment.... Usually the 'retroactive' feature has application only to that portion of the current calendar year preceding the date of enactment, but [some statutes have been] applicable to an entire calendar year that had expired preceding enactment. This 'retroactive' application apparently has been confined to short and limited periods required by the practicalities of producing national legislation. We may safely say that it is a customary congressional practice." United States v. Darusmont,449 U. S. 292, 296-297 (1981) (percuriam).
+But "the Court has never intimated that Congress possesses unlimited power to 'readjust rights and burdens ... and upset otherwise settled expectations."' Connolly v. Pension Benefit Guaranty Corporation,475 U. S. 211, 229 (1986) (O'CONNOR, J., concurring) (brackets omitted), quoting Usery v. Turner Elkhorn Mining Co., 428 U. S. 1, 16 (1976). The governmental interest in revising the tax laws must at some point give way to the taxpayer's interest in finality and
+
+UNITED STATES v. CARLTON
+O'CONNOR, J., concurring in judgment
+repose. For example, a "wholly new tax" cannot be imposed retroactively, United States v. Hemme, 476 U. S. 558, 568 (1986), even though such a tax would surely serve to raise money. Because the tax consequences of commercial transactions are a relevant, and sometimes dispositive, consideration in a taxpayer's decisions regarding the use of his capital, it is arbitrary to tax transactions that were not subject to taxation at the time the taxpayer entered into them. See Welch v. Henry, supra,at 147.
+Although there is also an element of arbitrariness in retroactively changing the rate of tax to which the transaction is subject, or the availability of a deduction for engaging in that transaction, our cases have recognized that Congress must be able to make such adjustments in an attempt to equalize actual revenue and projected budgetary requirements. In every case in which we have upheld a retroactive federal tax statute against due process challenge, however, the law applied retroactively for only a relatively short period prior to enactment. See United States v. Hemme, supra, at 562 (1 month); United States v. Darusmont, supra, at 294-295 (10 months); United States v. Hudson, 299 U. S. 498, 501 (1937) (1 month). In Welch v. Henry, supra, the tax was enacted in 1935 to reach transactions completed in 1933; but we emphasized that the state legislature met only biannually and it made the revision "at the first opportunity after the tax year in which the income was received." 305 U. S., at 151. A period of retroactivity longer than the year preceding the legislative session in which the law was enacted would raise, in my view, serious constitutional questions. But in keeping with Congress' practice of limiting the retroactive effect of revenue measures (a practice that may reflect Congress' sensitivity to the due process problems that would be raised by overreaching), the December 1987 amendment to §2057 was made retroactive only to October 1986. Given our precedents and the limited period of retroactivity, I con-
+
+Cite as: 512 U. S. 26 (1994)
+SCALIA, J., concurring in judgment
+cur in the judgment of the Court that applying the amended statute to respondent Carlton did not violate due process.
+JUSTICE SCALIA, with whom JUSTICE THOMAS joins,
+concurring in the judgment.
+If I thought that "substantive due process" were a constitutional right rather than an oxymoron, I would think it violated by bait-and-switch taxation. Although there is not much precision in the concept "'harsh and oppressive,"' which is what the Court has adopted as its test of substantive due process unconstitutionality in the field of retroactive tax legislation, see, e. g., United States v. Hemme, 476 U. S. 558, 568-569 (1986), quoting Welch v. Henry, 305 U. S. 134, 147 (1938), surely it would cover a retroactive amendment that cost a taxpayer who relied on the original statute's clear meaning over $600,000. Unlike the tax at issue in Hemme, here the amendment "without notice,... gives a different and more oppressive legal effect to conduct undertaken before enactment of the statute." 476 U. S., at 569.
+The Court attempts to minimize the amendment's harshness by characterizing it as "a curative measure," quoting some post-legislation legislative history (another oxymoron) to show that, despite the uncontested plain meaning of the statute, Congress never meant it to apply to stock that was not owned by the decedent at the time of death. See ante, at 31-32. I am not sure that whether Congress has treated a citizen oppressively should turn upon whether the oppression was, after all, only Congress' "curing" of its own mistake. Even if it should, however, what was done to respondent here went beyond a "cure." The retroactivity not only hit him with the tax that Congress "meant" to impose originally, but it caused his expenditures incurred in invited reliance upon the earlier law to become worthless. That could have been avoided, of course, by providing a tax credit for such expenditures. Retroactively disallowing the tax bene-
+
+UNITED STATES v. CARLTON
+SCALIA, J., concurring in judgment
+fit that the earlier law offered, without compensating those who incurred expenses in accepting that offer, seems to me harsh and oppressive by any normal measure.
+The Court seeks to distinguish our precedents invalidating retroactive taxes by pointing out that they involved the imposition of new taxes rather than a change in tax rates. See ante, at 34. But eliminating the specifically promised reward for costly action after the action has been taken, and refusing to reimburse the cost, is even more harsh and oppressive, it seems to me, than merely imposing a new tax on past actions. The Court also attempts to soften the impact of the amendment by noting that it involved only "a modest period of retroactivity." Ante, at 32. But in the case of a tax-incentive provision, as opposed to a tax on a continuous activity (like the earning of income), the critical event is the taxpayer's reliance on the incentive, and the key timing issue is whether the change occurs after the reliance; that it occurs immediately after rather than long after renders it no less harsh.
+The reasoning the Court applies to uphold the statute in this case guarantees that all retroactive tax laws will henceforth be valid. To pass constitutional muster the retroactive aspects of the statute need only be "rationally related to a legitimate legislative purpose." Ante, at 35. Revenue raising is certainly a legitimate legislative purpose, see U. S. Const., Art. I, § 8, cl. 1, and any law that retroactively adds a tax, removes a deduction, or increases a rate rationally furthers that goal. I welcome this recognition that the Due Process Clause does not prevent retroactive taxes, since I believe that the Due Process Clause guarantees no substantive rights, but only (as it says) process, see TXO Production Corp. v. Alliance Resources Corp., 509 U. S. 443, 470-471 (1993) (SCALIA, J., concurring in judgment).
+I cannot avoid observing, however, two stark discrepancies between today's due process reasoning and the due process reasoning the Court applies to its identification of new so-
+
+Cite as: 512 U. S. 26 (1994)
+SCALIA, J., concurring in judgment
+called fundamental rights, such as the right to structure family living arrangements, see Moore v. East Cleveland, 431 U. S. 494 (1977) (plurality opinion), and the right to an abortion, see Roe v. Wade, 410 U. S. 113 (1973). First and most obviously, where respondent's claimed right to hold onto his property is at issue, the Court upholds the tax amendment because it rationally furthers a legitimate interest; whereas when other claimed rights that the Court deems fundamental are at issue, the Court strikes down laws that concededly promote legitimate interests, id., at 150, 162. Secondly, when it is pointed out that the Court's retroactive-tax ruling today is inconsistent with earlier decisions, see, e. g., Nichols v. Coolidge, 274 U. S. 531 (1927); Blodgett v. Holden, 275 U. S. 142 (1927); Untermyer v. Anderson, 276 U. S. 440 (1928), the Court dismisses those cases as having been "decided during an era characterized by exacting review of economic legislation under an approach that 'has long since been discarded."' Ante, at 34, quoting Ferguson v. Skrupa, 372 U. S. 726, 730 (1963). But economic legislation was not the only legislation subjected to "exacting review" in those bad old days, and one wonders what principled reason justifies "discarding" that bad old approach only as to that category. For the Court continues to rely upon "exacting review" cases of the Nichols-Blodgett-Untermyervintage for its due process "fundamental rights" jurisprudence. See, e. g., Roe, supra, at 152-153, 159 (citing Meyer v. Nebraska,262 U. S. 390, 399 (1923), and Pierce v. Society of Sisters, 268 U. S. 510, 535 (1925)); see also Griswold v. Connecticut, 381 U. S. 479, 483 (1965) ("[W]e reaffirm the principle of the Pierce and the Meyer cases").
+The picking and choosing among various rights to be accorded "substantive due process" protection is alone enough to arouse suspicion; but the categorical and inexplicable exclusion of so-called "economic rights" (even though the Due Process Clause explicitly applies to "property") unquestionably involves policymaking rather than neutral legal analy-
+
+42
+
+UNITED STATES v. CARLTON
+
+SCALIA, J., concurring in judgment
+sis. I would follow the text of the Constitution, which sets forth certain substantive rights that cannot be taken away, and adds, beyond that, a right to due process when life, liberty, or property is to be taken away.
+
+OCTOBER TERM, 1993
+Syllabus
+UNITED STATES v. IRVINE ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE EIGHTH CIRCUIT
+No. 92-1546. Argued December 6, 1993-Decided April 20, 1994
+As a result of Sally Ordway Irvine's 1979 disclaimer of five-sixteenths of her interest in the corpus of a recently terminated trust that had been created by her grandfather in 1917, each of her five children received one-sixteenth of her share of the distributed trust principal. Her disclaimer was effective under Minnesota law even though she had learned of her contingent interest in the trust at least as early as 1931 when she became 21, but the Internal Revenue Service determined that the disclaimer brought about a gratuitous transfer that was subject to federal gift tax under Internal Revenue Code §§2501(a)(1) and 2511(a). Mrs. Irvine died after she paid the tax and accrued interest, and respondents, representing her estate, filed this refund action. Arguing that the transaction was not excepted from gift tax under Treasury Regulation §25.2511-1(c)(2) (Regulation), the Government relied on Jewett v. Commissioner, 455 U. S. 305, in which this Court construed the 1958 version of the Regulation to provide that the disclaimer of a remainder interest in a trust effects a taxable gift to the beneficiary of the disclaimer unless the disclaimant acts within a reasonable time after learning of the transfer that created the interest being disclaimed. Respondents attempted to distinguish Jewett as having dealt with a trust established in 1939, after the creation of the gift tax by the Revenue Act of 1932 (Act). The District Court ruled for respondents on cross-motions for summary judgment. The Court of Appeals affirmed, holding that the Regulation's express terms rendered it inapplicable to the trust in question; that state law therefore governed, and the federal gift tax did not apply because Mrs. Irvine's disclaimer was indisputably valid under state law; and that taxation of the transfer effected by the disclaimer would violate the Act's prohibition of retroactive gift taxation.
+Held: The disclaimer of a remainder interest in a trust is subject to federal gift taxation when the creation of the interest (but not the disclaimer) occurred before enactment of the gift tax. Pp. 232-242. (a) Although the Internal Revenue Code's gift tax provisions embrace all gratuitous transfers of property having significant value, the Regulation affords an exception by providing that a disclaimer of property
+
+Cite as: 511 U. S. 224 (1994)
+Syllabus
+transferred from a decedent's estate does not result in a gift if it is unequivocal and effective under local law, and made "within a reasonable time after knowledge of the existence of the transfer." 'The Jewett Court held that "the transfer" in the 1958 version of the Regulation refers to the creation of the interest being disclaimed, with the "reasonable time" therefore beginning to run upon knowledge of the creation of the trust. Pp. 232-234.
+(b) If the Regulation applies to Mrs. Irvine's disclaimer, her act resulted in taxable gifts. The knowledge and capacity to act, which are presupposed by the requirement that a tax-free disclaimer be made within a reasonable time of the disclaimant's knowledge of the transfer of the interest to her, were present in this instance at least as early as Mrs. Irvine's 21st birthday in 1931. Although there is no bright-line rule for timeliness in the absence of a statute or regulation providing one, Mrs. Irvine's delay for at least 47 years in making her disclaimer could not possibly be thought reasonable. Pp. 234-236.
+(c)Respondents' arguments that the Regulation is inapposite by its own terms to the facts of this case need not be resolved here, for the result of the Regulation's inapplicability would not be, as respondents claim, a freedom from gift taxation on a theory of borrowed state law. State property transfer rules do not translate into federal taxation rules because the principles underlying the two look to different objects. In order to defeat the claims of a disclaimant's creditors in the disclaimed property, the state rules apply the legal fiction that an effective disclaimer of a testamentary gift cancels the transfer to the disclaimant ab initio and substitutes a single transfer from the original donor to the disclaimant's beneficiary. In contrast, Congress enacted the gift tax as a supplement to the federal estate tax and a means of curbing estate tax avoidance. Since the reasons for defeating a disclaimant's creditors would furnish no reasons for defeating the gift tax, the Court in Jewett, supra, at 317, was undoubtedly correct to hold that Congress had not meant to incorporate state-law fictions as touchstones of taxability when it enacted the Act. Absent such a legal fiction, the federal gift tax is not struck blind by a disclaimer. Pp. 236-240.
+(d) Taxation of the transfer following Mrs. Irvine's disclaimer would not violate § 501(b) of the Act, which provided that it would "not apply to a transfer. made on or before the date of the enactment of this Act [June 6, 1932]." Section 501 merely prohibited application of the gift tax statute to transfers antedating the enactment of the Act; it did not prohibit taxation where, as here, interests created before the Act were transferred after enactment. Pp. 240-241.
+981 F. 2d 991, reversed.
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+SOUTER, J., delivered the opinion of the Court, in which REHNQUIST, C. J., and STEVENS, O'CONNOR, KENNEDY, THOMAS, and GINSBURG, JJ., joined, and in which SCALIA, J., joined except as to Part III-A. SCALIA, J., filed an opinion concurring in part and concurring in the judgment, post, p. 242. BLACKMUN, J., took no part in the decision of the case.
+Kent L. Jones argued the cause for the United States. With him on the briefs were Solicitor General Days, Acting Assistant Attorney GeneralPaup,Deputy SolicitorGeneral Wallace, JonathanS. Cohen, and Teresa E. McLaughlin..
+Phillip H. Martin argued the cause for respondents. With him on the briefs were Mary J. Streitz, Carol A. Peterson,and Cole Oehler.*
+JUSTICE SOUTER delivered the opinion of the Court. In Jewett v. Commissioner, 455 U. S. 305 (1982), we construed the 1958 version of Treasury Regulation §25.25111(c) to provide that the disclaimer of a remainder interest in a trust effects a taxable gift unless the disclaimant acts within a reasonable time after learning of the transfer that created the interest. This case presents the question whether the rule is the same, under current Treasury Regulation § 25.2511-1(c)(2) (Regulation), when the creation of the interest (but not the disclaimer) occurred before enactment of the federal gift tax provisions of the Revenue Act of 1932. We hold that it is.
+In 1917, Lucius P. Ordway established an irrevocable inter vivos family trust, with his wife and their children as primary concurrent life income beneficiaries, to be succeeded by unmarried surviving spouses of the children and by grandchildren. The trust was to terminate upon the death of the last surviving primary income beneficiary, at which time the
+*Burton G. Ross, Cynthia S. Rosenblatt, and Robert P. Reznick filed a brief for John G. Ordway, Jr., et al. as amici curiae urging affirmance.
+Geoffrey J. O'Connor filed a brief for the estate of Helen W. Halbach et al. as amici curiae.
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+corpus would be distributed to Mr. Ordway's surviving grandchildren and the issue of any grandchildren who had died before termination. When the trust terminated on June 27, 1979, the corpus was subject to division into 13 equal shares among 12 grandchildren living and the issue of one who had died. Prior to distribution, on August 23, 1979, one of the grandchildren, Sally Ordway Irvine, filed a disclaimer of five-sixteenths of her interest in the trust principal. Mrs. Irvine had learned of her contingent interest in the trust at least as early as 1931 when she reached the age of 21, and she had begun receiving a share of the annual trust income after her father's death in 1966. Her disclaimer was nonetheless effective under a Minnesota statute on the books at the time, which permitted the disclaimer of a future interest at any time within six months of the event finally identifying the disclaimant and causing her interest to become indefeasibly fixed.1 As a result of her disclaimer, each of Mrs. Irvine's five children received one-sixteenth of her share of the distributed trust principal.
+Mrs. Irvine reported the disclaimer in a federal gift tax return, but did not treat it as resulting in a taxable gift. The Commissioner of Internal Revenue determined on audit that the disclaimer indirectly transferred property by gift within the meaning of Internal Revenue Code of 1986 §§2501(a)(1) 2 and 2511(a),3 and was not excepted from gift
+'Minn. Stat. §501.211, subd. 3 (1978), repealed by 1989 Minn. Laws, ch. 340, art. 1, §77 (and replaced by Minn. Stat. § 501B.86, subd. 3 (1992) (changing the time permitted for disclaiming to nine months, effective January 1, 1990)).
+2A tax... is hereby imposed for each calendar year on the transfer of property by gift during such calendar year by any individual resident or nonresident." 26 U. S.C. §2501(a)(1).
+",Subject to the limitations contained in this chapter, the tax imposed by section 2501 shall apply whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible...." 26 U. S. C. §2511(a).
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+tax under Treas. Reg. §25.2511-1(c) 4 because it was not made "within a reasonable time after [Mrs. Irvine's] knowledge" of her grandfather's transfer creating her interest in the trust estate. Mrs. Irvine responded with an amended return treating the disclaimer as a taxable gift, on which she paid the resulting tax of $7,468,671, plus $2,086,627.51 in accrued interest on the deficiency.5 She then claimed a refund of the tax and interest, which the Internal Revenue Service denied.
+4The following is the relevant text of the 1958 regulation then in effect: "The gift tax also applies to gifts indirectly made. Thus, all transactions whereby property or property rights or interests are gratuitously passed or conferred upon another, regardless of the means or device employed, constitute gifts subject to tax. See further §25.2512-8. Where the law governing the administration of the decedent's estate gives a beneficiary, heir, or next-of-kin a right to completely and unqualifiedly refuse to accept ownership of property transferred from a decedent (whether the transfer is effected by the decedents will or by the law of descent and distribution of intestate property), a refusal to accept ownership does not constitute the making of a gift if the refusal is made within a reasonable time after knowledge of the existence of the transfer. The refusal must be unequivocable [sic] and effective under the local law. There can be no refusal of ownership of property after its acceptance. Where the local law does not permit such a refusal, any disposition by the beneficiary, heir, or next-of-kin whereby ownership is transferred gratuitously to another constitutes the making of a gift by the beneficiary, heir, or next-of-kin. In any case where a refusal is purported to relate to only a part of the property, the determination of whether or not there has been a complete and unqualified refusal to accept ownership will depend on all of the facts and circumstances in each particular case, taking into account the recognition and effectiveness of such a purported refusal under the local law. In the absence of facts to the contrary, if a person fails to refuse to accept a transfer to him of ownership of a decedent's property within a reasonable time after learning of the existence of the transfer, he will be presumed to have accepted the property... ." Treas. Reg. §25.2511-1(c), 26 CFR §25.25 11-1(c) (1959). 'Mrs. Irvine was also assessed additional gift tax and penalties in connection with an unrelated gift made in 1980 because her amended gift tax return for the third quarter of 1979 reduced the amount of unified credit available to her in the following year. See 26 U. S. C. §2505 (1988 ed. and Supp. IV). That assessment is not at issue here.
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+After Mrs. Irvine's death in 1987, respondents, representing. her estate, filed this action for refund of the tax and interest in the United States District Court for the District of Minnesota. The Government continued to maintain that the partial disclaimer brought about a transfer subject to federal gift tax because Mrs. Irvine had not made it, as the Regulation requires, "within a reasonable time after knowledge of the [earlier] transfer" that created her interest in the trust estate. The Government relied on Jewett v. Commissioner,455 U. S. 305 (1982), in which this Court held that the "transfer" referred.to in Treas. Reg. §25.2511-1(c), 26 CFR §25.2511-1(c) (1959) (promulgated in 1958), knowledge of which starts the clock ticking, occurs at the creation of the interest being disclaimed, not when its extent is finally ascertained or it becomes possessory. Jewett, supra,at 311-312.
+Respondents tried to distinguish Jewett as having dealt with a trust established in 1939, after the creation of the gift tax by the Revenue Act of 1932 (Act), whereas the Ordway trust had been created before the Act, in 1917. Respondents also argued that the "reasonable- time" limitation did not apply because the pre-Act, 1917 transfer creating the trust was not a "taxable transfer" of an interest, absent which the Regulation was inapplicable. 6 On*cross-motions
+6The 1958 version of the Regulation was in force throughout the period
+from Mrs. Irvine's disclaimer to her unsuccessful claim for a refund. The parties agree, however, that the current (1986) version of the Regulation supersedes the earlier version and governs this case. See 26 U. S. C. §7805(b) (Secretary of the Treasury "may prescribe the extent, if any, to which any ruling.or regulation, relating to the internal revenue laws, shall be applied without retroactive effect"); Automobile Club of Mich. v. Commissioner,353 U. S. 180, 184 (1957) (Treasury Regulations may be retroactively applied unless doing so constitutes an abuse of the Secretary's discretion).
+The relevant regulation is now Treas. Reg. §25.2511-1(c)(2), 26 CFR §25.2511-1(c)(2) (1993), which provides in relevant part:
+"In the case of taxable transfers creating an interest in the person disclaiming made before January 1, 1977, where the law governing the administration of the decedent's estate gives a beneficiary, heir, or next-of-kin a right completely and unqualifiedly to refuse to accept ownership of prop-
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+for summary judgment, the District Court held that imposing the gift tax on Mrs. Irvine's disclaimer would amount to retroactive application of the gift tax in violation of the Act's provision that "[t]he tax shall not apply to a transfer made on or before the date of the enactment of this Act [June 6, 1932]." Revenue Act of 1932, ch. 209, § 501(b), 47 Stat. 245. The District Court cited Ordway v. United States, 89-1 USTC 13,802 (1989), in which the United States District Court for the Southern District of Florida had reached the same conclusion, on virtually identical facts, in a case involving a partial disclaimer by another beneficiary of the Ordway trust.
+A divided panel of the Court of Appeals for the Eighth Circuit reversed. 936 F. 2d 343 (1991). It rejected the view that the Regulation is inapplicable to a trust created before enactment of the gift tax statute simply because the Regulation reaches only "'taxable transfers creating an interest in the person disclaiming made before January 1, 1977."' Id., at 347 (emphasis in original). The Court of Appeals held that the transfer creating the trust was "tax-
+erty transferred from a decedent (whether the transfer is effected by the decedent's will or by the law of descent and distribution), a refusal to accept ownership does not constitute the making of a gift if the refusal is made within a reasonable time after knowledge of the existence of the transfer. The refusal must be unequivocal and effective under the local law. There can be no refusal of ownership of property after its acceptance. In the absence of the facts to the contrary, if a person fails to refuse to accept the transfer to him of ownership of a decedent's property within a reasonable time after learning of the existence of the transfer, he will be presumed to have accepted the property. Where the local law does not permit such a refusal, any disposition by the beneficiary, heir, or nextof-kin whereby ownership is transferred gratuitously to another constitutes the making of a gift by the beneficiary, heir, or next-of-kin. In any case where a refusal is purported to relate to only a part of the property, the determination of whether or not there has been a complete and unqualified refusal to accept ownership will depend on all the facts and circumstances in each particular case, taking into account the recognition and effectiveness of such a purported refusal under the local law."
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+able," relying on the provision of Treas. Reg. §25.25182(c)(3) that "'a taxable transfer occurs when there is a completed gift for Federal gift tAx purposes regardless of whether a gift tax is imposed on the completed gift."' 936 F. 2d, at 347-348. The court adopted the reasoning of its sister court for the Eleventh Circuit in Ordway v. United States, 908 F. 2d 890 (1990), which held that a "taxable transfer" occurs within the meaning of the Regulation whenever there is "'any transaction in which an interest in property is gratuitously passed or conferred upon another,' even if that transaction was not subject to the gift tax." Id., at 895 (citation omitted). Applying the Regulation, the Court of Appeals for the Eighth Circuit held that Mrs. Irvine's disclaimer was subject to gift tax because she did not make it within a reasonable time after she learned of her interest in the trust. Finally, the divided panel also upheld application of the Act against the claim of retroactivity, holding it to be irrelevant that the trust antedated the 1932 enactment of the Act, since the tax was being imposed on the transfer brought about by the 1979 disclaimer, not on the inter vivos transfer that created the trust in 1917. 936 F. 2d, at 346.
+Respondents' suggestion for rehearing en banc was granted, however, and the panel opinion was vacated. Unlike the panel, the en banc court affirmed the District Court, holding the Regulation inapplicable because its terms expressly limit its scope to "taxable transfers ... made before January 1, 1977." 981 F. 2d 991 (CA8 1992). The creation of the Ordway trust in 1917 was not a "taxable transfer," the court reasoned, because the federal gift tax provisions had yet to be enacted: "It is fundamental that for a transfer to be taxable there must be an applicable tax in existence when the transfer is made. No such federal tax existed on January 16, 1917, when ... Mrs. Irvine's interest was created." Id., at 994. Given the inapplicability of the Regulation and its "reasonable time" requirement for tax-free disclaimer, the majority held that state law governed the effect of a dis-
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+claimer for federal gift tax purposes. See id., at 996 (citing Hardenberghv. Commissioner,198 F. 2d 63 (CA8), cert. denied, 344 U. S. 836 (1952)); 981 F. 2d, at 998 (concurring opinion). Because Mrs. Irvine's disclaimer was indisputably valid under Minnesota law, the court held that the federal gift tax did not apply. Finally, the majority rejected the panel's analysis of retroactive application, indicating that taxation of the transfer effected by the disclaimer would violate the Act's prohibition of retroactive gift taxation. Id., at 994.
+In a concurring opinion, id., at 996-998, Judge Loken also concluded the Regulation was inapplicable, not because of its limitation to "taxable transfers," but because it is limited to interests in "property transferred from a decedent ... by the decedent's will or by the law of descent and distribution," whereas the Ordway trust came from an inter vivos transfer. Judge Loken shared the majority view, however, that because the Regulation was inapplicable, the federal gift tax consequences of the disclaimer were a function of state law. The dissent took the position of the majority in the panel opinion, and of the Eleventh Circuit in Ordway v. United States, supra. See 981 F. 2d, at 998-1002.
+The conflict prompted us to grant certiorari to determine whether a disclaimer made after enactment of the gift tax statute, of an interest created before enactment, is necessarily free of any consequent federal gift taxation. 508 U. S. 971 (1993). We hold that it is not, and reverse.
+II
+The Internal Revenue Code of 1986 taxes "the transfer of property by gift," 26 U. S. C. §2501(a)(1), 7 "whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible," §2511(a).8 We have repeatedly em-
+7See n. 2, supra. 8 See n. 3, supra.
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+phasized that this comprehensive language was chosen to embrace all gratuitous transfers, by whatever means, of property and property rights of significant value. See, e. g., Dickman v. Commissioner, 465 U..S. 330, 333-335 (1984); Jewett v. Commissioner, 455 U. S., at 309-310; Smith v. Shaughnessy, 318 U. S. 176, 180 (1943). We held in Jewett, supra, at 310, that "the statutory language... unquestionably encompasses an indirect transfer, effected by means of a disclaimer, of a contingent future interest in a trust," the practical effect of such a transfer being "to reduce the expected size of [the taxpayer's] taxable estate and to confer a gratuitous benefit upon the natural objects of [her] bounty ......
+Treasury Reg. §25.2511-1(c)(1) 9 restates the gift tax's broad scope by providing that the tax is payable on "any transaction in which an interest in property is gratuitously passed or conferred upon another, regardless of the means or device employed .... " The Regulation (subsection 1(c)(2)), on the other hand, affords an exception to the general rule of taxability, by providing that a disclaimer of property transferred by a decedent's will or the law of descent and distribution does not result in a gift if it is unequivocal and effective under local law, and made "within a reasonable time after knowledge of the existence of the transfer." As
+9,"Thegift tax also applies to gifts indirectly made. Thus, any transaction in which an interest in property is gratuitously passed or conferred upon another, regardless of the means or device employed, constitutes a gift subject to tax. See further §25.2512-8 relating to transfers for insufficient consideration. However, in the case of a taxable transfer creating an interest in the person disclaiming made after December 31, 1976, this paragraph (c)(1) shall not apply to the donee ifa,s a result of a qualified disclaimer by the donee, the property passes to a different donee. Nor shall it apply to a donor if, as a result of a qualified disclaimer by the donee, a completed transfer of an interest in property is not effected. See section 2518 and the corresponding regulations for rules relating to a qualified disclaimer." Treas. Reg. §25.2511-1(c)(1), 26 CFR §25.2511-1(c)(1) (1993).
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+already noted, the Jewett Court held that "the transfer" in the 1958 version of the Regulation refers to the creation of the interest being disclaimed, with the "reasonable time" therefore beginning to run upon knowledge of the creation of the trust. See supra,at 229.
+III
+A
+On one point there cannot be any serious dispute, for it is clear that if the Regulation applies to Mrs. Irvine's disclaimer, her act resulted in taxable gifts. The knowledge and capacity to act, which are presupposed by the requirement that a tax-free disclaimer be made within a reasonable time of the disclaimant's knowledge of the transfer of the interest to her, were present in this instance at least as early as Mrs. Irvine's 21st birthday in 1931.10 We need not decide whether a disclaimer good for gift tax purposes could be required to have been made before enactment of the gift tax, for Mrs. Irvine did not disclaim shortly after enactment of the Act, and the timeliness determination in this case would be the same whether the reasonable time was calculated from Mrs. Irvine's first knowledge of the interest (1931) or from the enactment, of the federal gift tax statute (1932). Moreover, we understand the Government to have conceded that it would not have contested the timeliness of a disclaimer made within a reasonable time after the enactment of the Act. See Tr. of Oral Arg. 12.
+The determination of the amount of "reasonable time" that remained after Mrs. Irvine learned of the interest and reached majority status must be based upon the gift tax's purpose to curb avoidance of the estate tax. We have al-
+l' Arguably, occasion and capacity occurred under applicable Minnesota law in 1928 when Mrs. Irvine became 18'years old, the age of majority for women at the time. 1866 Minn. Gen. Stat., ch. 59, § 2; see Vlasek v. Vlasek, 204 Minn. 331, 331-332, 283 N. W. 489, 490 (1939).
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+ready observed, supra,at 233, that "the practical effect of [a disclaimer like this one is] to reduce the expected size of [the disclaimant's] taxable estate and to confer a gratuitous benefit upon the natural, objects of [her] bounty . . . ." Jewett, 455 U. S., at 310. Accordingly, as the Court said in Jewett, "'[a]n important, if not the main, purpose of the gift tax was to prevent or compensate for avoidance of death taxes by taxing the gifts of property inter vivos which, but for the gifts, would be subject in its original or converted form to the tax laid upon transfers at death."' Ibid. (quoting Estate of Sanford v. Commissioner,308 U. S. 39, 44 (1939)). Hence the capacious language of Internal Revenue Code §§2501(a)(1) and 2511(a), which encompasses all gratuitous transfers of property and property rights of significant value. See supra,at 232-233.
+"[T]he passage of time is crucial to the scheme of the gift tax." Jewett, supra, at 316, n. 17 (internal quotation marks and citation omitted). The opportunity to disclaim, and thereby to avoid gift as well as estate taxation, should not be so long as to provide a virtually unlimited opportunity to consider estate planning consequences. While a decision to disclaim even at the earliest opportunity may be made with appreciation of potential estate tax consequences, the passage of time puts the prospective disclaimant in a correspondingly superior position to determine whether her need to enjoy the property (and incur a tax for a subsequent gift of it or an increased estate tax if she retains it) outweighs the favorable estate and gift tax consequences of a disclaimer. Although there is no bright-line rule for timeliness in the absence of a statute or regulation providing one, Mrs. Irvine's delay for at least 47 years after the clock began running, until she reached age 68, could not possibly be thought reasonable. By the date of her disclaimer, Mrs. Irvine was in a position to make a fairly precise determination of the advantage to be gained by a transfer diminishing her estate
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+and its eventual taxation. If her decision were treated as timely, the requirement for a timely election would have no bite at all.
+B
+Respondents would avoid this result on two alternative grounds. They argue first that by its own terms, the Regulation does not apply on the facts of this case, with the consequence that taxability under the Internal Revenue Code turns on the efficacy of the disclaimer under state law. Second, respondents argue that even if the disclaimer would result in an otherwise taxable transfer in the absence of the governing Regulation, the tax on transfer of an interest created by an instrument antedating the enactment of the gift tax statute would be barred by the statutory prohibition of retroactive application.
+1
+The question of the Regulation's applicability under its own terms need not be resolved here, for the result of its inapplicability would not be freedom from gift taxation on a theory of borrowed state law or on any other rationale. The arguments for inapplicability may therefore be shortly stated, each having been raised at one point or another in the prior litigation of this case.
+The first argument turns on the Regulation's application to disclaimers of interests created by what it terms "taxable transfers," a phrase that on its face presupposes some source of taxability for the transfer. There was, however, no gift tax when the trust, including its remainder interests, was created in 1917, and the gift tax provisions of the Act did not render preenactment transfers taxable.11 The language is, to say the least, troublesome to the Government's position that the Regulation applies. The Government responds to
+11See Revenue Act of 1932, ch. 209, §501(b), 47 Stat. 245 (nonretroactivity provision).
+
+Cite as: .511 U. S. 224 (1994)
+
+237
+
+Opinion of the Court
+the trouble by citing Treas. Reg. §25.2518-2(c)(3)1 2 (adopted in 1986, as was the Regulation), which deals with the new regime (not applicable here) for disclaimers of interests created after December 31, 1976,13 and defines "taxable transfer" for its purposes as covering transfers on which no tax is actually imposed (e.g., because a gift is chargeable against the current lifetime exemption, 26 U. S. C. §2503(b)). If this definition is thought to beg the question, the Government falls back to the argument that the predecessor regulation was not limited in application to interests derived from taxable transfers, and there was no intent in 1986 to narrow the scope covered by the 1958 version of the Regulation in any such way.
+The second argument rests on the Regulation's provision
+that "the transfer" to which it applies is subject to a timely, tax-free disclaimer "whether the transfer is effected by the decedent's will or by the law of descent and distribution," but only "where the law governing the administration of the decedent's estate" gives the recipient of the transferred interest a right to refuse it.14 As against these descriptions of the transfer's testamentary character, the text says nothing indicating that a taxable transfer from anyone other than a decedent may create an interest subject to a disclaimer free of gift tax. If the text is given its strict reading, then, it has no application to the interest in question here, which came into being not from a decedent's transfer by will or from application of the law of descent and distribution, but
+12 Treasury Reg. §25.2518-2(c)(3), 26 CFR §25.2518-2(c)(3) (1993), pro-
+vides in relevant part: "With respect to inter vivos transfers, a taxable transfer occurs when there is a completed gift for Federal gift tax purposes regardless of whether a gift tax is imposed on the completed gift."
+IsUnder the new regime, tax-free disclaimers of interests created by post-1976 transfers may generally be made within nine months after the disclaimant has learned of the interest and reached the age of 21. See 26 U. S. C. §2518; Treas. Reg. §§ 25.2518-1, 25.2518-2, 26 CFR §§ 25.2518-1, 25.2518-2 (1993).
+14See n. 6, 8upra.
+
+238"'
+
+UNITED STATES v. IRVINE
+
+Opinion of the Court
+from Mr. Ordway's transfer during his lifetime, creating an irrevocable inter vivos trust.5
+2
+Even assuming the soundness of one or both of these arguments that the Regulation is inapposite, however, the disclaimer would not escape federal gift taxation by reference to state law rules giving effect to the disclaimer as causing a transfer to the beneficiary next in line- Any such reasoning would run counter to our holding in Jewett. In rejecting the argument that the 1958 version of the Regulation was being applied retroactively to the taxpayer's disadvantage in that case, the Jewett Court repudiated the "assumption that [the taxpayer] had a 'right' to renounce the interest without tax consequences that was 'taken away' by the 1958 Regulation. [The taxpayer] never had such a right." Jewett, 455 U. S., at 317. Only then did the Jewett Court go on to determine that the disclaimer at issue did not fall within the exemption from the gift tax provided by the Regulation, and was consequently taxable. Id., at 312-316. The Court followed the general and longstanding rule in federal tax cases that although state law creates legal interests and rights in property, federal law determines whether and to what extent those interests will be taxed. See, e. g., Burnet v. Harmel, 287 U. S.103, 110 (1932); Morgan v. Commissioner,309 U. S. 78, 80-81 (1940); United States v. Mitchell, 403 U. S.190, 197 (1971). The Court put it this way in United States v. Pelzer, 312 U. S.399, 402-403 (1941):
+"[T]he revenue laws are to be construed in the light of their general purpose to establish a nationwide scheme of taxation uniform in its application. Hence their pro-
+
+1 In direct contrast, the disclaimed interest in Jewett was created by a testamentary trust, and the disclaimer therefore involved "property transferred from a decedent ... by the decedent's will . . . ." Treas. Reg. §25.2511-1(c)(2), 26 CFR §25.2511-1(c)(2) (1993). See Jewett v. Commissioner, 455 U. S.305, 306 (1982).
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+visions are not to be taken as subject to state control or limitation unless the language or necessary implication of the section involved makes its application dependent on state law."
+Cases like Jewett and this one illustrate as well as any why it is that state property transfer rules do not translate into federal taxation rules. Under state property rules, an effective disclaimer of a testamentary gift' 6 is generally treated as relating back to the moment of the original transfer of the interest being disclaimed, having the effect of canceling the transfer to the disclaimant ab initio and substituting a single transfer from the original donor to the beneficiary of the disclaimer. See, e. g., Schoonover v. Osborne, 193 Iowa 474, 478, 187 N. W. 20, 22 (1922); Seifner v. Weller, 171 S. W. 2d 617, 624 (Mo. 1943); Albany Hosp. v. Hanson, 214 N. Y. 435, 445, 108 N. E. 812, 815 (1915); Burritt v. Silliman, 13 N. Y 93, 97-98 (1855); Perkins v. Isley, 224 N. C. 793, 798, 32 S. E. 2d 588, 591 (1945); see also 3 American Law of Property § 14.15 (A. Casner ed. 1952). Although a state-law right to disclaim with such consequences might be thought to follow from the common-law principle that a gift is a bilateral transaction, requiring not only a donor's intent to give, but also a donee's acceptance, see, e. g., Wallace v. Moore, 219 Ga. 137, 139, 132 S. E. 2d 37, 39 (1963); Gottstein v. Hedges, 210 Iowa 272, 275, 228 N. W. 93, 94 (1929); Pirie v. Le Saulnier, 161 Wis. 503, 507, 154 N. W. 993, 994 (1915); Blanchard v. Sheldon, 43 Vt. 512, 514 (1871), state-law tolerance for delay in disclaiming reflects a less theoretical concern. An impor-
+16 See Brown v. Routzahn, 63 F. 2d 914, 916 (CA6 1933); 3 American
+Law of Property § 14.15 (A. Casner ed. 1952). As to interests created by intestate succession, state laws generally refused to give effect to disclaimers; the traditional rule is that "title to the property of an intestate passes by force of the rules of law ... and that those so entitled by law have no power to prevent the vesting of title in themselves." Hardenbergh v. Commissioner, 198 F. 2d 63, 66 (CA8), cert. denied, 344 U. S. 836 (1952) (citations omitted).
+
+UNITED STATES v. IRVINE
+Opinion of the Court
+tant consequence of treating a disclaimer as an ab initio defeasance is that the disclaimant's creditors are barred from reaching the disclaimed property. See, e. g., Gottstein v. Hedges, supra. The ab initio disclaimer thus operates as a legal fiction obviating a more straightforward rule defeating the claims of a disclaimant's creditors in the property disclaimed.
+The principles underlying the federal gift tax treatment of disclaimers look to different objects, however. As we have already stated, Congress enacted the gift tax as a supplement to the estate tax and a means of curbing estate tax avoidance. See supra, at 234-235. Since the reasons for defeating a disclaimant's creditors would furnish no reasons for defeating the gift tax as well, the Jewett Court was undoubtedly correct to hold that Congress had. not meant to incorporate state-law fictions as touchstones of taxability when it enacted the Act. Absent such a legal fiction, the federal gift tax is not struck blind by a disclaimer. And as we have already stated, supra, at 233, without the exception afforded in the Regulation," the gift tax statute provides a general rule of taxability for disclaimers such as Mrs. Irvine's.
+IV
+Presumably to ward off any attack on the federal gift tax resting on the possibility that its retroactive application would violate due process, see Untermyer v. Anderson, 276 U. S. 440 (1928), §501(b) of the Act provided that it would ''not apply to a transfer made on or before the date of the enactment of this Act [June 6,1932]." Revenue, Act of 1932, ch. 209, § 501(b), 47 Stat. 245. The same provision has in substance been carried forward to this day.18 Respondents argue that even if the Regulation applies, or taxation would
+'71Respondents challenge the Regulation's validity only insofar as it would allegedly sanction a retroactive application of gift tax. See infra, at 241.
+,8See 26 U. S. C. §2502(b).
+
+Cite as: 511 U. S. 224 (1994)
+Opinion of the Court
+otherwise be authorized, taxation of the transfer following Mrs. Irvine's disclaimer would violate this limitation. The language that respondents use to frame this claim reveals the flaw in their position. Respondents argue that "[t]he government's interpretation of the 1986 Regulation to apply to interests created before enactment of the Act [i. e., to result in taxability] would be a retroactive application of the Act clearly contrary to Congressional intent." Brief for Respondents 26. But §501 merely prohibited application of the gift tax statute to transfers antedating the enactment of the Act; it did not prohibit taxation when interests created before the Act were transferred after enactment. Such postenactment transfers are all that happened on the occasion of Mrs. Irvine's disclaimer. The critical events, the transfers of fractional portions of Mrs. Irvine's remainder to her children, occurred after enactment of the gift tax, though the interests transferred were created before that date. To argue otherwise, that the transfer to be taxed antedated the Act, would be to cling to the legal fiction that the disclaimer related back to the moment in 1917 when Lucius P. Ordway established the trust. This fiction may be indulged under state law as a device to regulate creditors' rights, but the Jewett Court clearly held that Congress enacted no such fantasy.19 In sum, the retroactivity argument is sufficiently answered by our statement in United States v. Jacobs,306 U. S. 363, 367 (1939), that a tax "does not operate retroactively merely because some of the facts or conditions upon which its application depends came into being prior to the enactment of the tax."
+19While respondents do not take the further step of arguing that §502
+should be read to embody the fiction because due process would otherwise be violated, they do argue that taxation here would violate due process because Mrs. Irvine would not have been allowed to make a tax-free disclaimer within a reasonable time after adoption of the Act. But those facts are not presented here, as Mrs. Irvine did not disclaim until 1979. See supra,at 235.
+
+UNITED STATES v. IRVINE
+Opinion of SCALIA, J.
+V
+The Commissioner's assessment of federal gift tax on Mrs. Irvine's 1979 disclaimer was authorized by the statute. The judgment of the Court of Appeals is reversed.
+It is so ordered.
+JUSTICE BLACKMUN took no part in the decision of this case.
+JUSTICE SCALIA, concurring in part and concurring in the judgment.
+I join the judgment of the Court, and its opinion except for Part III-A. It seems to me that the basis for the "reasonable time" limitation in the Regulation cannot be, as the Court says, ante, at 235, the need to deprive the beneficiary of "a virtually unlimited opportunity to consider estate planning consequences." Considering estate planning consequences (not a malum in se) is nowhere condemned by the tax laws, and I would see no basis for the Treasury Department's arbitrarily declaring a disclaimer to be a gift solely in order to deter such consideration. The Secretary undoubtedly has broad discretion to determine the meaning of the term "transfer" as it is used in the gift tax statute, and undoubtedly may indulge an antagonism to estate planning in choosing among permissible meanings. But "disclaimer after opportunity for estate tax planning" is simply not a permissible meaning.
+The justification for the "reasonable time" limitation must, as always, be a textual one. It consists, in my view, of the fact that the failure to make a reasonably prompt disclaimer of a known bequest is an implicit acceptance. Qui tacet, consentire videtur. Thus, a later disclaimer, which causes the property to go to someone else by operation of law, is effectively a transfer to that someone else. (The implication from nondisclaimer is much weaker when the interest is a
+
+Cite as: 511 U. S. 224 (1994)
+
+243
+
+Opinion of SCALIA, J.
+contingent one, but Jewett v. Commissioner, 455 U. S. 305 (1982), resolved that issue-perhaps incorrectly.) While state disclaimer laws have chosen to override the reasonable implication of nondisclaimer, the Treasury Department regulations correctly (or at least permissibly) conclude that the federal gift tax does not.
+
+

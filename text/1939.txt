@@ -1,0 +1,375 @@
+78
+
+OCTOBER TERM, 1939.
+
+Counsel for Parties.
+
+309 U. S.
+
+MORGAN, EXECUTOR, v. COMMISSIONER OF INTERNAL REVENUE.
+
+CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.
+
+No. 210. Argued January 4, 5, 1940.-Decided January 29, 1940.
+A decedent in Wisconsin exercised a power of appointment over property held in trusts created under the law of that State. The trusts empowered the trustees to withhold from any beneficiary, property which in their judgment would be dissipated or be improvidently handled, and gave directions for disposition, in such event, of what was withheld. Held: 1.That the power exercised was a "general power of appointment" within § 302 (f) of the Revenue Act of 1926, whatever its characterization-whether "general" or "special"--by the Wisconsin law. P. 80. State law creates legal interests and rights. The federal Revenue Acts designate what interests or rights, so created, shall be taxed. 2. The term "general power of appointment," as used in the federal Revenue Acts, applies where the donee may appoint to any person he chooses, including his own estate -or his creditors. P. 81. This accords with common acceptation and with administrative construction approved by Congressional re-enactments of the provisions construed. 3. Assuming that the trustees could withhold the appointed property from an appointee, the power must still be held general. The important considerafion is the breadth of the control in the donee of the power, whatever the nature or extent of the appointee's interest. P.82.
+103 F. 2d 636, affirmed.
+
+CERTIORARI, 308 U. S. 534, to review an affirmance by the court below of a decision of the Board of Tax Appeals (36 B. T. A. 588), approving a deficiency assessment.
+Mr. Brode B. Davis, with whom Mr. Arthur M. Kracke was on the brief, for petitioner.
+
+MORGAN v. COMMISSIONER.
+
+78
+
+Opinion of the Court.
+
+Mr. Richard H. Demuth, with whom Solicitor General Jackson, Assistant Attorney General Clark, and Messrs. Sewall Key and Warren F. Wattles were on the brief, for respondent.
+MR. JUSTICE ROBERTS delivered the opinion of the Court.
+We took this case because it raises an important question as to the construction of the Revenue Act of 1926, § 302 (f), amended by the Revenue Act of 1932,
+§ 803 (b).
+The question is to what extent and in what sense the law of the decedent's domicile governs in determining whether a power of appointment exercised by him is a general power within the meaning of the statute.
+The petitioner is the executor of Elizabeth S. Morgan who was the donee of two powers of appointment over property held in two trusts created by her father by will and by deed. The persons named are, or were, at death, citizens of. Wisconsin. It is unnecessary to recite the terms of the trusts. Suffice it to say that under each, property remaining in the trustees' hands for Elizabeth S. Morgan was given at her death, to the appointee or appointees named in her will, with gifts over in case she failed to appoint. Under both trusts, if in the judgment
+
+'44 Stat. 9, 71, 47 Stat. 169, 279; 26 U. S. C. § 411. "Sec. 302. The value of the gross estate of the decedent shall be determined by including the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated-
+
+"(f) To the extent of any property passing under a general power of appointment exercised by the decedent (1) by will, or (2) by deed executed in contemplation of or intended to take effect in possession or enjoyment at or after his death, . . . except in case of a bona fide sale for an adequate and full consideration in money or money's worth; . . ."
+
+80
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+309 U. S.
+
+of the trustees, property going to any beneficiary would be dissipated for any reason, or improvidently handled, the trustees were to withhold any part of such property; with directions for disposition, in such event, of what was withheld. The decedent appointed in favor of her husband.
+The Commissioner ruled that the value of the appointed property should be included in the gross estate and determined a tax deficiency. The Board of Tax Appeals approved his action.' The Circuit Court of Appeals affirmed the Board's decision.'
+Although, under the law of Wisconsin, the decedent could have appointed anyone to receive the trust property, including her estate and her creditors, the petitioner urges that, by statute and decision, Wisconsin has defined as special a power such as she held.4 The respondent urges that this is not a correct interpretation of the state law. We find it unnecessary to resolve the issue, since we hold that the powers are general within the intent of the Revenue Act, notwithstanding they may be classified, as special by the law of Wisconsin.
+State law creates legal interests and rights. The federal revenue acts designate what interests or rights, so created, shall be taxed. Our duty is to ascertain the
+236 B. T. A. 588.
+103 F. 2d 636. "Sec. 232.05: General Power. A power is general when it authorizes the alienation in fee, by means of a conveyance, will, or charge of the lands embraced in the power, to any alienee whatever. "232.06. Special Power. A power is special: (1) When the person or class of persons to whom the disposition of the lands under the power to be made are designated. (2) When the power authorizes the alienation by means of a conveyance, will, or charge of a particular estate or interest less than a fee." See Will of Zweifel, 194 Wis. 428; 216 N. W. 840; Cawker v. Dreutzer, 197 Wis. 98; 221 N. W. 401.
+
+MORGAN v. COMMISSIONER.
+
+78
+
+Opinion of the Court.
+
+meaning of the words used to specify the thing taxed. If it is found in a given case that an interest or right created by local law was the object intended to be taxed, the federal law must prevail no matter what name is given to the interest or right by state law.'
+None of the revenue acts has defined the phrase "general power of appointment." The distinction usually made between a general and a special power lies in the circumstance that, under the former, the donee may appoint to anyone, including his own estate or his creditors, thus having as full dominion over the property as if he owned it; whereas, under the latter, the donee may appoint only amongst a restricted or designated class of persons other than himself.'
+We should expect, therefore, that Congress had this distinction in mind when it used the adjective "general." The legislative history indicates that this is so.7 The Treasury regulations have provided that a power is within the purview of the statute, if the donee may appoint to any person.'
+With these regulations outstanding Congress has several times reenacted § 302 (f), and has thus adopted the administrative construction. That construction is in accord with the opinion of several federal courts.'
+
+'Burnet v. Harmel, 287 U. S. 103, 110; Bankers Coal Co. v. Burnet, 287 U. S. 308, 310; Palmerv. Bender, 287 U. S. 551, 555; Thomas v. Perkins, 301 U. S. 655, 659; Heiner v. Mellon, 304 U. S. 271, 279; Lyeth v. Hoey, 305 U. S. 188, 193.
+'Sugden on Powers (8th Ed.), p. 394; Farwell on Powers (2d Ed.), p. 7.
+House Rep. No. 767, 65th Cong., 2nd Sess., pp. 21-22. 'Regulations 63 (1922 Ed.), Art. 25; Regulations 68 (1924 Ed.), Art. 24; Regulations 70 (1926 and 1929 Eds.), Art. 24; Regulations 80 (1934 Ed.), Art. 24. 'Fidelity-Philadelphia Trust Co. v. McCaughn, 34 F. 2d 600; Stratton v. United States, 50 F. 2d 48; Old Colony Trust Co. v. Commissioner, 73 F. 2d 970; Johnstone v. Commissioner, 76 F. 2d 55.
+21.5234-40-6
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+309 U. S.
+
+The petitioner claims, however, that the decision below is in conflict with two by other Circuit Courts of Appeal."0 The contention is based on certain phrases found in the opinions. We think it clear that, in both cases, the courts examined the local law to ascertain whether a power would be construed by the state court to permit the appointment of the donee, his estate or his creditors, and on the basis of the answer to, that question determined whether the power was general within the intent of the federal act.
+As the decedent in this case could have appointed to her estate, or to her creditors, we hold that she had a general power within the meaning of § 302 (f). This conclusion is not inconsistent with authorities on which the petitioner relies," holding that, in the application of a federal revenue act, state law controls in determining the nature of the legal interest which the taxpayer had in the property or income sought to be reached by the statute.
+The petitioner's second position is that, inasmuch as the trustees had an unfettered discretion to withhold principal or income from any beneficiary, they could exercise their discretion as respects any appointee of the decedent. This fact, they say, renders the power a special one. Assuming that the trustees could withhold the appointed property from an appointee, we think the power must still be held general. The quantum or character of the interest appointed, or the conditions imposed by the terms of the trust upon its enjoyment, do not render the powers in question special within the purport
+° Whitlock-Rose v. McCaughn, 21 F. 2d 164; Leser v. Burnet, 46 F.
+2d 756. 1 Poe v. Seaborn,282 U. S. 101; Freulerv. Helvering, 291 U. S. 35;
+Blair v. Commissioner,300 U. S. 5; Lang v. Commissioner, 304 U. S. 264.
+
+MADDEN v. KENTUCKY.
+
+78
+
+Statement of the Case.
+
+of § 302 (f). The important consideration is the breadth of the control the decedent could exercise over the property, whatever the nature or extent of the appointee's interest.
+The judgment is
+Affirmed.
+
+MADDEN, EXECUTOR, v. KENTUCKY, BY
+REEVES, COMMISSIONER OF REVENUE.
+APPEAL FROM THE COURT OF APPEALS OF KENTUCKY.
+No. 92. Argued December 14, 1939.-Decided January 29, 1940.
+1. A statute by which a State taxed deposits in banks outside of the State atfifty cents per hundred dollars and deposits in banks within the State at ten cents per hundred dollars, held consistent with the due process, equal protection and privileges and immunities clauses of the Fourteenth Amendment. P. 86.
+2. In taxation, even more than in other fields, legislatures possess the greatest freedom in classification. The presumption of constitutionality can be overcome only by the most explicit demonstration that a classification is a hostile and oppressive discrimination against particular persons and classes. P. 87.
+3. The treatment accorded the two kinds of deposits in this case may have resulted from the differences in the difficulties and expenses of tax collection. P. 89.
+4. The right to carry out an incident to a trade, business or calling, such as the deposit of money in banks, is not a privilege of national citizenship, protected by the privileges and immunities clause of the Fourteenth Amendment. Hague v. C. I 0., 307 U. S. 496, expounded; Colgate v. Harvey, 296 U. S. 404, in part overruled. P. 90.
+277 Ky. 343; 126.S. W. 2d 463, affirmed.
+
+APPEAL from a judgment sustaining the assessment and taxation of a decedent's bank deposits, in a suit against the executor of his will in the name of the Commonwealth of Kentucky.
+
+HELVERING v. FULLER.
+
+53
+
+Syllabus.
+
+beyond the technical knowledge and skill of the average Virginia agent, and that the interests of the non-resident assureds can be best looked after by the brokers at the great centers of population where the head offices of the insurance companies and of the assureds are located, and in Virginia. by the engineering and claim personnel of the
+companies. It is also true that the substantial compensation required by the statute to be paid to the Virginia agents will increase the cost of the business."
+The plain effort of Virginia is to compel a nonresident
+to pay a resident of Virginia for services which tle latter does not in fact render and is not required to render. The principles underlying former decisions of this court are at war with the existence of any such asserted power.'
+
+The CHIEF JUSTICE and MR.JUSTICE MCREYNOLDS join in this opinion.
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. FULLER.
+CERTIORARI TO THE. CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.
+No. 427. Argued March 26, 1940.-Decided April 22, 1940.
+In compliance with a separation agreement approved by a decree of divorce in Nevada, the husband created an irrevocable trust, of shares of stock, to continue for ten years, during which period all-trust income was to be used for the maintenance and support of the wife, or in case of her prior decease, then for the
+1Allgeyer v. Louisiana,165 U. S. 578; New York Life Ins. Co. v. Head, 234 U. S. 149; Aetna Life Is.Cp.. v. Dunken, 266 U. S.389; Fidelity & Deposit Co. v. Tafoya, 270 U. S. 426; Home Ins. Co. v. Dick, 281 U. S. 397; Hartford Accident & Indemnity Co. v. Delta & Pine Land Co., 292 U. S.143; Boseman v. Connecticut General Life Ins. Co., 301 U. S.196
+
+70
+
+OCTOBER TERM, 1939.
+
+Counsel for Parties.
+
+310 U. S.
+
+children; or in case of their prior decease, then for the heirs of the wife or as she should provide in her will. At the expiration of the ten year period the trust property was to be transferred to her outright. The husband retained "exclusive voting power" of the shares during the term of the trust, Power to sell the stock vested jointly in him, the wife, and the corporate trustee, and could be exercised only in case all three agreed in writing. Those three had the power to invest and reinvest the proceeds
+and to disburse, withhold, and accumulate the principal of the trust at their discretion, such power over the income being vested in the wife and corporate trustee. Held:
+1. The question whether the husband is taxable on the trust income under the Revenue Acts of 1928 and 1932 is not affected by the fact that an independent undertaking on his part to make certain weekly payments to his wife, not'secured by the trust, was contained in the same instrument with the trust agreement.
+P. 73. 2. The provisions of the Revenue Acts of 1928, § 24 (a) (1),
+and 1932, § 24, and Treasury regulations concerning the nondeductibility of "family expenses" and of "alimony" imply the necessity for an examination of the local law to determine the marital status and the obligations which have survived a divorce.
+P. 74. 3.Under the law of Nevada, the decree and the trust agree-
+ment, no power of modification having been reserved, operated to discharge, pro tanto,. the husband's duty of support; and under the Revenue Acts supra, he was not taxable on the trust income.
+P. 75. 4. Whether the trust agreement left the husband sufficient
+interest in or control over the shares to make him the owner of the corpus for the purposes of the federal income tax, is a question not raised or passed upon in this case. P. 76. 105 F.2d 903, affirmed.
+
+CERTIORARI, 309 U. S. 644, to review the reversal of a decision of the Board of Tax Appeals, 37 B. T. A. 1333, sustaining a determination of a deficiency in income tax.
+
+Mr. Arnold Raum, with whom SolicitorGeneral Biddle, Assistant Attorney General Clark, and Mr. Sewall Key were on the brief, for petitioner.
+
+HELVERING v. FULLER.
+
+69
+
+Opinion of the Court.
+
+Mr. FrancisW. Cole, with whom Messrs.John C. Parsons and Lucius F. Robinson were on the brief, for respondent.
+
+MR. JUSTICE DOUGLAS delivered the opinion of the Court.
+
+This case raises the question of the circumstances under
+which income paid to the taxpayer's divorced wife under a trust, the provisions of which have been approved in the divorce decree, is taxable to him. We granted certiorari because of the asserted misapplication by the Circuit Court of Appeals of the rule of Douglas v. Willcuts, 296 U. S. 1, to these facts:
+On July 25, 1930, respondent and his wife, residing in Connecticut, entered into an agreement in contemplation of divorce which provided, inter alia, for the creation by him of a trust of 60,380 shares of Class A common stock of the Fuller Brush Co. The trust was irrevocable and was to continue for ten years. During that period all trust income was to be used for the maintenance and support of the wife, or in case of her prior decease, then for the children; or in case of their prior decease, then for the heirs of the wife or as she should provide in her will. At the expiration of the ten year period the trust property was to be transferred to her outright. The agreement provided for other property settlements, for control and custody of the children, and for waiver by respondent and his wife of all claims against each other arising out of the marital relation. It also contained an agreement on the part of respondent to pay the wife $40 per week for five years, and, if at the end of that period his annual net income exceeded by the amount of the weekly payments the sum of $60,000, to continue those weekly payments for an additional five years or for such portion thereof as his annual net income exceeded the above sum.
+
+72
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+310 U. S.
+
+The wife repaired to Reno, Nevada, and obtained a divorce decree on November 12, .1930, which "ordered,
+adjudged, and decreed that said agreement entered into between the plaintiff and the defendant on or about the twenty-fifth day of July, 1930, be and the same hereby is approved." On December 22, 1930, respondent created the trust provided for in the agreement.' The corporate trustee thereunder received from the Fuller Brush Co: all the dividends and income from the trusteed shares during 1931, 1932 and 1933 and disbursed them all for the benefit of the divorced wife. On the failure of respondent to include those amounts in. his tax returns for the years in question, the Commissioner assessed deficiencies. The decisions of the Board of Tax Appeals, 37 B. T. A. 1333, sustaining the action of the Commissioner, were reversed by the Circuit Court of Appeals. 105 F. 2d 903.
+
+'The trust agreement provided that he was to transfer the 60,380 shares of stock on the books of the company from himself personally to himself as trustee and then to deliver the certificate for such shares to the corporate trustee. This was done. Also in accordance with the provisions of the trust respondent executed a dividend order against the shares directing the Fuller Brush Co. to pay all dividends to the corporate trustee. Respondent was the founder of the company and during the years in question was its president. It had outstanding only one class of voting stock, viz. Class A common. The amount outstanding during these years varied between 172,000 and 186,000 shares. Respondent owned 60,380 shares which together with the 60,380 shares under the trust constituted moie than a majority of that class of stock. .By terms of the trust respondent retained "exclusive voting power" of the trusteed shares during the term of the trust. If he died before its termination, the voting power would pass to the wife. During that period power to sell the stock was vested jointly in him, the wife, and the corporate trustee and could be exercised only in case all three agreed in writing. In case of such a sale, those three had the power to invest and reinvest the proceeds. They also were given the power to disburse, withhold, and accumulate the principal of the trust at their sole discretion, such power over the income being vested in the wife and the corporate trustee.
+
+HELVERING v. FULLER.
+
+69
+
+Opinion of the Court.
+
+I. There can be no doubt but that respondent is taxable on the $40 weekly payment to the wife. That is a continuing personal obligation falling within the rule of Douglasv. Willcuts, supra,as a result of which those payments are taxable to him, not to the wife. Gould v. Gould, 245 U. S. 151. But that fact does not make the income from the trust also taxable to him. Although the provisions for the weekly payments and for the trust agreement were embodied in the same separation agreement, they were not so interrelated or interdependent as to make the trust a security for the weekly payments. Functionally they were as independent of each other as were the other property settlements from either of them.
+II. Petitioner does not challenge the conclusion of the Circuit Court of Appeals that, so far as the trust agreement is concerned, the Nevada court retained no power to alter or modify the divorce decree. It seems to be admitted that under Nevada law the wife's allowance once made is final, Sweeney v. Sweeney, 42 Nev. 431; 179 P. 638, unless the decree itself expressly reserves the power to modify it, Lewis v. Lewis, 53 Nev. 398; 2 P. 2d 131, or unless, the
+decree approves a settlement which in turn provides for a modification, Aseltine v. Second Judicial District Court, 57 Nev. 269; 62 P. 2d 701. Here no such power was reserved in the decree or in the trust agreement approved by the decree. Nor did respondent underwrite the principal or income from the trust or any part thereof or make any commitments, contingent or otherwise, respecting them, beyond his promise to transfer the securities to a trustee. But petitioner argues that the rule of- Douglasv. Willcuts, supra,should nonetheless apply since the decree recognized the husband's preexisting duty to support and defined that duty as cgextensive with what the parties had themselves arranged, and since the husband simply carved out future income from property
+
+74
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+310 U. S.
+
+which he then owned and devoted it in advance to the discharge of his obligation.
+We take a different view. If respondent had not placed the shares of stock in trust but had transferred them outright to his wife as part of the property settlement, there seems to be no doubt that income subsequently accrued and paid thereon, would be, taxable to the wife, not to him. Under the present statutory scheme that case would be no different from one where any debtor, voluntarily or under the compulsion of a court decree, transfers securities, a farm, an office building, or the like, to his creditor in whole or partial payment of his debt. Certainly it could not be claimed, that income thereafter accruing from the transferred property must be included in the debtor's income tax return. If the debtor retained no right or interest in and to the property, he would cease to be the owner for purposes of the federal revenue acts. See Helvering v. Clifford, 309 U. S. 331. To hold that a different result necessarily obtains where the transfer is made or the trust is created as part of a property settlement attendant on a divorce would be to hold that for purposes of the federal income tax the marital obligation of the husband to support his wife cannot be discharged. But whether or not it can be depends on state law. For other purposes, local law determines the status of the parties and their property after a decree dissolving the matrimonial bonds. See Barrettv. Failing,II U. S. 523. And while the federal income tax is to be given a uniform con'struction of national application, Congress frequently has made it dependent on state law. See Thomas v. Perkins, 301 U. S. 655, 659, and cases cited. In the instant situation, an inquiry into state law seems inescapable. For the provisions in the revenue acts 2
+'Revenue Act of 1928 (45 Stat. 791) § 24 (a) (1). The same
+provision appears in § 24 of the 1932 Act (47 Stat. 169).
+
+-AELVERING v. FULLER.
+
+75
+
+69
+
+Opinion of the Court.
+
+and regulations3 concerning the non-deductibility of "family expenses" and of "alimony" do not illuminate
+the problem beyond implying the necessity for an examination of local law to determine the marital status and the obligations which have survived a divorce. The Nevada cases tell us that under such a degkee as was entered here the obligation to support was pro-tanto discharged and ended. And the trust agreement contains no contractual undertaking by respondent, contingent or otherwise, for support of the wife. Hence we can only conclude that respondent's personal obligation is not a continuing one but has been discharged pro tanto. To hold that it was not would be to find substantial differences between this irrevocable trust and an outright transfer of the shares to the wife, where in terms of local divorce law we can see only attenuated ones. This is not to imply that Congress lacks authority to design a different statutory scheme applying uniform standarxds for the taxation of income of the so-called alimony tfusts. A somewhat comparable statute taxing to the grantor income from a trust applied to the payment of premiums upon insurance policies on his life was upheld in Burnet v. Wells, 289 U. S. 670. But the reach of Congressional power is one thing; an interpretation of a federal revenue act based on local divorce law, quite another.
+For the reasons we have stated, it seems clear that local
+law and the trust have given the respondent pro tanto a full discharge from his duty to support- his divorced wife and leave no continuing obligation, contingent or otherwise. Hence under Helvering v. Fitch, 309 1U. S. 149, income to the wife from this trust is to be treated the same as income accruing from property after a debtor
+
+'Treasury Reg. 74, Arts. 83, 281, promulgated under the 1928 Act. The same provisions appear in Treasury Reg. 77, Arts. 83, 281. promulgated under the 1932 Act.
+
+OCTOBER TERM., 1939.
+
+REED, J., dissenting.
+
+310 U. S.
+
+has transferred that property to his creditor in full satis-
+faction of his obligations. III. One other observation is pertinent. Though the
+divorce decree extinguishes the husband's preexisting duty to support the wife, and though no provision of the trust agreement places such obligation on him, that agreeinent may nevertheless'leave him with sufficient interest in or control over the trust as to make him the owner of the corpus for purposes of the federal income tax. Helvering v. Clifford, supra.
+As we have seen, respondenit did retain considerable control over the trusteed shares. But that was not the basis for the assessment of the deficiency by the Commissioner. It was not passed upon by the Board of Tax Appeals or the Circuit Court of Appeals. It was not included in the petition for certiorari among the errors to be urged or the reasons for granting the writ. Nor did petitioner brief or argue the point here. Hence we do not pass on the applicability of the rule of Helvering v. Clifford, supra, to these facts. Cf. Helvering v. Wood, 309 U. S. 344.
+Affirmed. 244. JusTIcE REED, dissenting:
+
+The opinion of the Court in this case is made to turn upon the question whether the law of the taxpayer's
+residence withdraws divorce settlements from the continuing supervision ' and subsequent modification of the courts. Two trusts, both irrevocable, in words precisely the same, drawn for the purpose of providing maintenance for a former wife, recognized or approved by divorce decrees identical in form, are to have different tax results upon the settlor. If income taxes are predominantly important, prospective divorces must locate in the
+
+See Paul, Five Years with Douglas v. Willcuts. 53 Harv. L. Rev. 1.
+
+HELVERING v. FULLER.
+
+69
+
+REED, J., dissenting.
+
+states where the finality of the settlement is clearly established. Compare Douglas v. Willcuts,1 Helvering v. Fitch' and Helvering v. Leonard' with this case. The reason given to support such a conclusion is that the lia-
+bility of the settlor for taxes on trust income is based on the possibility that the settlor may be called upon for additional sums in the future. If the obligation contin-
+ues, the tax liability continues. If the obligation is ended, the tax liability is ended. In Douglas v. Willcuts continued liability existed. It does not seem to me, however, that this continuing liability was the real basis for the Douglas decision. The basis for that decision was the prior appropriation, by the creation of the trust, of future income to meet an obligation of the taxpayer. The fol-
+lowing excerpts from pages eight and nine show the foundation for the conclusion:
+"Within the limits prescribed by the statute (and'there is no suggestion that the provision here went beyond those limits) the court had full authority to make an allowance to the wife out of her husband's property and to set up a trust to give effect to that allowance."
+
+"Upon the preexisting duty of the husband- the decree placed a particular and adequate sanction, and imposed
+upon petitioner the obligation to devote the income in question, through the medium of the trust, to the use of his divorced wife."
+
+"The creation of a trust by the taxpayer as the channel for the application of the income to the discharge of his obligation leaves the nature of the ttabnsaction unaltered. . . . In the present case, the net income of the
+'296 U S. 1.
+2 309 U. S. 149. 'Post, p. 80.
+
+OCTOBER TERM, 1939.
+
+REsE, J., dissenting.
+
+310 U. S.
+
+trust fund, which was paid to the wife under the decree, stands substantially on the sarfe footing as though he had received the income personally and. had been required by the decree to make the payment directly." The Fitch case was the first to rely explicitly upon the finality of the settlement. It pushed the idea to the point that the burden was upon the settlor to demonstrate the clear finality of the local settlement. This Court there refused to draw its own conclusion as to what the local law was, eveu though numerous state cases touched upon the subjeet. In Helvering v: Leonard, this Court continues to
+apply the finality rule. It interprets the local law and finds that while "mere property settlements . . . may not be modified" the state judicial reserve power may be exercised where "'theprovision in the separate agreement, approved by the decree" is for support and maintenance. We are now at the point where the taxability of the settlor depends not only on the "clear and convincing proof" of the finality of the decree but the ability to produce that proof depends upon the skill of the draftsman of the settlement. Fine distinctions are necessary in reasoning but most undesirable in a national tax system.
+It is no answer to the problem to say that if the stock had been transferred outright to the wife the husband would not be liable for the tax. If the stock had been kept by the husband and dividends paid as alimony, he would have been liable.' Either analogy might be logically "followed in the trust situation but the choice of taxability
+of trust income was made in Douglas v. Willcuts. That case determines -the "general rule." 5 . It may be assumed that .the original obligation of the husband to support a divorced wife depends upon state law and to tiat extent that the state law is applicable to
+
+'Gould v. Gould, 245 U. S. 151. 'Helvering v. Fitch, 309 U. S. 149, 156.
+
+HELVERING v. FULLER.
+
+69
+
+REED, J., dissenting.
+
+the determination of liability under the .federal income tax act. But that necessary reliance upon local law need be carried no farther than the determination of obligation to support. Once that is determined the applicability of the theory of constructive receipt of income to discharge the obligation would come into play and would be nationwide in extent.
+The obligation to support exists prior to the divorce decree. It is ended in Nevada only upon getting the court's approval to an arrangement which permits the creation of a fund to meet from year to year the obligation from which the Nevada law then and only then releases the settlor husband.' It is by the court's approval that the continuing obligation is discharged. Granting that a lump sum payment would terminate both the marital and the tax liability, the creation of a trust, approved by the court, for continuous payments in lieu of alimony seems to bring the trust income much closer to alimony than to the situation of a final settlement by lump sum payment.
+This is particularly true in this present case where the settlement agreement shows that the husband retained voting power over the stock placed in trust. 60,380 shares of Class A Common Stock of the Fuller Brush Company, ,he only class of voting stock, was placed in the trust. An equal amount was retained by the taxpayer. I ie aggregate was a majority of the total of voting st ick outstanding. This power, retained to the settlor, i, of weight in determining that the present trust is more i early akin to an agreement to pay alimony than it is to 3. satisfaction of an obligation by an unrestricted transfer.
+The judgment should be reversed.
+
+' Ne-.ada Compiled Laws, 1929, §§ 9463 and 9465.
+
+80
+
+OCTOBER TERM, 1939.
+
+Statement of the Case.
+
+310 U. S..
+
+HELVERING, COMMISSIONER OF INTERNAL REVENUE, v. LEONARD.
+CERTIORARI TO TH31E CIRCUIT -COURT OF APPEALS FOR THE SECOND CIRCUIT.
+No. 426. Argued March 26, 1940.-Decided April 22, 1940.
+A separation agreement providing for the support of a wife embraced a trust agreement whereby the husband contributed to the corpus securities and cash, including corporate bonds the payment of the principal and interest of which he guaranteed. The trust could be amended by the husband and wife jointly, and the husband retained a limited power of substitution in respect of certain bank stock -which was part of the corpus. Otherwise the trust was irrevocable and the husband retained no right to either the corpus or the income. A specified amount of the trust income was to be paid to each of three children; the remainder to the wife; and upon her death, the corpus was to be held for the children. The separation agreement also obligated the husband to pay to the wife annually a certain additional sum for the support of herself and the children, subject to reduction upon application to a court of competent jurisdiction. The arrangement was approved by a decree of divorce in New York. Held: 1. The portion of the- trust income which was received from the' guaranteed bonds was taxable income of the husband, under -the Revenue Act of 1928. P. 84. By the husband's guarantee of payment of the principal and interest of the bonds, a personal obligation, though contingent, contipued to exist pro tanto; and the rule of Dougldas v. Willcuts, 296 U. S.1, is applicable, 2. Other trust, income also was taxable to the husband, for the reason that he did not sustai tha burden of showing by clear and convincing proof that the New York court lacked power after the divorce to add to his personal obligations in any eventuality. Helvering v. Fitch, 309 U. S.149. P. 85.
+105 F. 2d 900, reversed.
+CERTIORARI, 309 U. S. 644, to review a judgment reversing 'a decision of the Board of Tax Appeals, 36 B. T. A. .563, assessing a deficiency in income tax.
+
+HELVERING v. LEONARD.
+
+so
+
+Opinion of the Court.
+
+Mr. Arnold Raum, with whom SolicitorGeneralBiddle, Assistant Attorney General Clark, and Mr. Sewall Key were on the brief, for petitioner.
+
+Mr. J. DonaldDuncan,with whom Mr. James B. Alley was on the brief, for respondent.
+
+MR. JUSTICE DOUGLAS delivered the opinion of the Court.
+This case involves the question of the taxability to the grantor under the Revenue Act of 1928 (45 Stat. 791) of income from a so-called alimony trust which is payable to his divorced wife. We granted certiorari because of the probable conflict of the decision below with Douglas v. Wilicuts, 296 U. S. 1, and Helvering v. Fitch, 309 U. S. 149.
+In 1928 respondent's wife instituted suit in New York for an absolute divorce. On June 4, 1929, while that suit was pending, respondent and his wife entered into a separation agreement and, together with a corporate trustee, executed a trust agreement. Under the latter respondent contributed securities and cash of $650,000, which included $400,000 principal amount- of 6% first mortgage bonds of an oil company. Respondent guaranteed the "payment when due of the principal and interest" on those bonds; and on notice of any default in the payment of any interest on or principal of them, he agreed to substitute cash or securities with a "market value equal to" the principal, and cash sufficient to cover any accrued interest.' The trust was irrevocable- except that
+
+'No extension of the time of payment of principal or interest on these bonds was to be made without the consent of the wife afid without the extension of the guarantee of respondent or his personal representative.
+'Except on discontinuance or dismissal of the divorce action.
+
+82
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+310 U. S.
+
+(1) it could be amended by respondent and his wife; I and (2) respondent retained a limited power of substitution as respects certain bank stock which was'part of the corpus. The trustee agreed to use "reasonable efforts to con-
+sult" with respondent wit1krespect to "the character of the investments" though it was not bound to follow his advice. Respondent retained no right to either the corpus or the income, or any part thereof, except as indicated above. The net income was to be paid as follows: $5000 a year to each of three children; the remaining amount to the wife during her life for her maintenance and sup-
+port, and in her sole discretion for the support, maintenance and education of the children On death of the wife, the corpus was to be held for the children.
+The separation agreement incorporated the trust agreement by reference; stated that the wife's income from the trust and from other property received from the husband would aggregate $30,000 a year; provided that respondent would pay his wife an additional $35,000 each year during her life so that her aggregate net income for the maintenance and support of herself and the children would approximate $65,000 a year, and would further pay any "extraordinary medical or surgical expenses" incurred by the wife or on behalf of the children until they attained the age of twenty-five years; stated that in the event that respondent's ability to pay the above $35,000 became impaired, he might apply to any court of competent jurisdiction for a reduction of his obligation to not less than $10,000 a year; made other property settlements; provided for care and custody of the children; released dower, etc.
+The decree of divorce became final in October 1929. It "approved and affirmed and made a part of the judgment herein" the separation agreement (which as we
+
+'It was so amended three times but in respects not material here.
+
+HELVERING v. LEONARD.
+
+80
+
+Opinion of the Court.
+
+have said incorporated the trust agreement) "providing for the support and maintenance of the plaintiff," and in addition directed respondent to pay her $35,000 a year for the rest of her life. From June 4, 1929 to December 31, 1929, the trustee received $16,191.34 as dividends and interest from the trust property. It distributed $5200 to the wife and $2083.33 to each of three children, leaving an undistributed balance for that period of about $4700. Respondent did not include any of that income in his return for 1929. The Commissioner determined a deficiency. The Board of Tax Appeals held that only the amounts actually distributed to respondent's wife and minor children were taxable to him. 36 B. T. A. 563. The Circuit Court of Appeals reversed, holding that respondent, though taxable on income payable to his minor children, was not taxable on income payable to the wife. 105 F. 2d 900.
+Here, as in the Circuit Court of Appeals, it was urged by the petitioner that this alimony trust was merely security for respondent's continuing obligation to support his wife and, therefore, that the trust income payable to
+her was taxable to him under the rule of Douglas v. Willcuts, supra. In support of that position it was urged, inter alia, that under New York law respondent's obligation was not discharged since the New York court retained the power to modify the decree; and that the promise by respondent to pay the wife $35,000 (or in no event less than $10,000) a year converted the trust into at least partial security for the total allowance to her. In either of such events the rule of Douglas v. Willcuts, supra, would apply. See Helvering v. Fitch, supra. The Circuit Court of Appeals, however, decided these two questions adversely to petitioner. But there is one matter not touched on by that court which we think is determinative of one phase of the case.
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+310 U. S.
+
+The trust agreement contains an express personal obligation of respondent in the form of a guarantee of payment of the principal and interest on $400,000 of the 6% bonds which were part of the trust corpus. To be sure, that personal obligation was contingent. But we -do not deem that to be material. We recently stated in' Helveringv. Fitch,supra,p. 156, that under this statutory scheme escape from the rule of Douglas v. Willcuts, supra, may be had only on "clear and convincing proof" that "local law and the alimony trust have given the divorced husband a full discharge and leave no continuing obliga-
+tion however contingent." Whatever may be the correct view on the other aspects of the case, the guarantee was such a continuing obligation. The fact that the wife or other beneficiaries looked primarily to the trust and only secondarily to respondent for payment of $24,000 annually, the fact that respondent's obligation might be enforceable by the trustee, the fact that respondent might never have to make good on his promise are beside the point. The existence of wholly contingent obligations, whether contractual or otherwise, is adequate to support the results reached in Douglas v. Willcuts, supra. For in that case it was manifest that at the time of the creation and approval of the trust the divorce court might never exercise its reserved power to revise or alter the decree and the husband might never have to make good on his promise to make up deficiencies in the estimated trust income. Likewise in the instant case, it cannot be said that the divorce decree and the alimony trust gave respondent an absolute discharge from his prior obligation. So far as the guarantee alone is concerned, they permitted his preexisting unconditional duty to be transformed into a limited contingent one. But nonetheless they placed a specific and adequate sanction on that duty, so that resiondent's personal obligation would not be fully discharged at least until complete payment
+
+HELVERING v. LEONARD.
+
+80
+
+Opinion of the Court.
+
+of the principal and interest on the 6% bonds had been made. Thus in effect, if not in form, the trust agreement was security for his continuing obligation which would be discharged at least pro tanto as income from those bonds was received by the trustee. Hence the case in substance is the same as those where pursuant to contract or arrangement an obligation is discharged by another for the taxpayer's benefit; see Old Colony Trust Co. v. Commissioner, 279 U. S. 716; United States v. Boston. & Maine Railroad, 279 U. S. 732; or where the taxpayer creates a trust, the income of which is applied to the discharge of his debt. See Helvering v. Blumenthal, 296 U. S. 552. Here, as there, the taxpayer received
+a'benefit by the payments. The catalogue of benefits is not depleted when primary obligations are discharged. For these reasons that portion of the trust income which was received from the guaranteed bonds was clearly taxable to respondent.
+Apparently, however, a portion of that income was received from other trust property. But we think that was also taxable to respondent though for another reason.
+As we have seen, the divorce decree approved, affirmed and made part of the judgment the separation ag-eement providing for the "support and maintenance" of the wife. Her maintenance and support were secured not only by the trust agreement and other property settlements but also by the personal obligation of the husband to contribute an annual sum. The Circuit Court of Appeals held that under New York law the terms of the trust would not be changed "unless the wife can disaffirm it for fraud,
+overreaching, or the like," citing Galushav. Galusha, 116 N. Y. 635; 22 N. E. 1114; 138 N. Y. 272;-33 N. E. 1062; Cainv. Cain,.188 App.JDiv. 780; 177 NY. S. 178; Hamlin v. Hamlin, 224 App. Div. 168; 230 N. Y. S. 51. If the
+case was here on application of local law under the rule of Erie R. Co. v. Tompkins, 304 U. S. 64, we would not be
+
+OCTOBER TERM, 1939.
+
+Opinion of the Court.
+
+310 U. S.
+
+inclined to disturb that finding. But it is not. Here respondent is seeking to escape one of the normal incidents of the federal income tax. For that purpose he invokes the aid of New York law. 'In Helvering v. Fitch, supra, we stated that where the 'divorced husband desires to avoid the general'rule expressed in Douglas v. Willcuts, supra,he carries a distinct burden of establishing not by mere inference and conjecture but by "'clear and convincing proof" that local law and the alimony trust have given him a full discharge. We do not think that respondent has stistained that burden.
+As stated by the,Circuit Court of Appeals, it does seem clear that mere property settlements, though incorporated into the decree, may not be modified pursuant to the reserved statutory powers of the court, contained in N. Y. Civil Prac. Act §§ 1155, 1170.' -See Cain v. Cain, supra.; Goldfish v. Goldfish, 193 App. Div. 686; 184 N. Y. S. 512. Schnitzer v. Buerger, 237 App. Div. 622; 262 N. Y. S. 385. Nevertheless these settlements may be remade by the court not only where an ordinary contract may be set aside but also where they are unfair, inequitable and unjust. Hamlinv. Hamlin,supra. Cf. Tirrell v. Tirrell, 232 N. Y. 224; 133 N. E. 569. As stated by the court in the Hamlin case (224 App. Div. at p. 171) the requirement is that "such contracts be not only free from taint
+of actual fraud or coercion but also fair and reasonably sufficient having regard to the station in life and circumstances of the parties." More important to this case, however, are Kunker v. Kunker, 230 App. Div. 641; 246 N. Y. S. 118 and Holahanv. Holahan,234 App. Div. 572; 255 N. Y. S. 693. They make it plain that the covenants of a separation agreement are not "an insuperable obstacle to obtaining relief, by modification of the allowances." Holahan v. Holahan, supra, p. 574. Cf. Severance v. Severance, 260 N. Y. 432; 183 N. E. 909. The reserved power apparently may be exercised where
+
+HELVERING v. LEONARD.
+
+80
+
+Opinion of the Court.
+
+the, provision in the separate agreement, approved by the decree, is for support and maintenance (Kunker v. Kunker and Holahan v.. Holahan, supra) but not where it is in settlement of claims of ownership to specified property. Goldfish v. Goldfish and Schnitzer v. Buerger, supra. The provisions of the separation agreement and the trust agreement here in question specifically relate to and were designed to afford support and maintenance for the wife. Unlike the purpose of the trust agreement in Schnitzer v. Buerger, supra, the purpose here apparently was not to compose any controversies over the securities. We need not decide whether the court retained the power to require respondent to make additional payments to the wife in case, say, all the securities in trust turned out to be worthless. All we do hold is that respondent has not shown by "clear and convincing proof" that the court lacks the power to add to his personal obligations in any such circumstances.
+Reversed.
+
+* MR. JUSTICE REED concurs in the result for the reasons stated in the dissent in Helvering v. Fuller, ante, p. 76.
+
+The CHImF JusTICE, AIR. JUSTICE McREYxoLDs, and MR. JUSTICE RoBERTS are of the opinion that the judgment of the Circuit Court of Appeals should be
+affirmed.
+
+
