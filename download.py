@@ -29,10 +29,6 @@ def process_result(result):
             source_pdf_path = f"{source_path}.pdf"
             target_text_path = f"{TEXT_DIR}/{year}.txt"
 
-            if not os.path.exists(source_text_path):
-                with open(target_text_path, "w") as f:
-                    pass
-
             subprocess.run(["wget", "-q", "-O", source_pdf_path, pdf_url])
             subprocess.run(["pdftotext", source_pdf_path], check=True)
 
