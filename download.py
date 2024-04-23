@@ -11,6 +11,7 @@ TEXT_DIR = "text"
 os.makedirs(PDFS_DIR, exist_ok=True)
 os.makedirs(TEXT_DIR, exist_ok=True)
 
+
 def process_result(result):
     if "resources" not in result or "pdf" not in result["resources"][0]:
         return
@@ -32,7 +33,9 @@ def process_result(result):
             subprocess.run(["wget", "-q", "-O", source_pdf_path, pdf_url])
             subprocess.run(["pdftotext", source_pdf_path], check=True)
 
-            subprocess.run(f"cat {source_text_path} ff.txt >> {target_text_path}", shell=True)
+            subprocess.run(
+                f"cat {source_text_path} ff.txt >> {target_text_path}", shell=True
+            )
             break
         except KeyError:
             break
@@ -41,10 +44,13 @@ def process_result(result):
         finally:
             subprocess.run(f"yes | rm -rf {source_path}*", shell=True)
 
+
 page = 1
 
 while True:
-    r = requests.get(f"https://www.loc.gov/collections/united-states-reports?fo=json&c=150&at=results,pagination&sp={page}")
+    r = requests.get(
+        f"https://www.loc.gov/collections/united-states-reports?fo=json&c=150&at=results,pagination&sp={page}"
+    )
     data = r.json()
     pagination = data["pagination"]
     results = data["results"]
